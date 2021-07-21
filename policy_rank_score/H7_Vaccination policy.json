@@ -3461,6 +3461,11 @@
      "rank": 1
     },
     {
+     "iso": "IND",
+     "score": 80,
+     "rank": 1
+    },
+    {
      "iso": "IRL",
      "score": 66,
      "rank": 1
@@ -3599,6 +3604,11 @@
      "iso": "SYC",
      "score": 100,
      "rank": 1
+    },
+    {
+     "iso": "USA",
+     "score": 100,
+     "rank": 1
     }
    ]
   },
@@ -3634,8 +3644,57 @@
      "iso": "NOR",
      "score": 80,
      "rank": 1
+    },
+    {
+     "iso": "USA",
+     "score": 100,
+     "rank": 1
     }
    ]
+  },
+  {
+   "label": "Month 8",
+   "data": []
+  },
+  {
+   "label": "Month 9",
+   "data": []
+  },
+  {
+   "label": "Month 10",
+   "data": []
+  },
+  {
+   "label": "Month 11",
+   "data": []
+  },
+  {
+   "label": "Month 12",
+   "data": []
+  },
+  {
+   "label": "Month 13",
+   "data": []
+  },
+  {
+   "label": "Month 14",
+   "data": []
+  },
+  {
+   "label": "Month 15",
+   "data": []
+  },
+  {
+   "label": "Month 16",
+   "data": []
+  },
+  {
+   "label": "Month 17",
+   "data": []
+  },
+  {
+   "label": "Month 18",
+   "data": []
   },
   {
    "label": "Overall",
@@ -3967,7 +4026,7 @@
     },
     {
      "iso": "IND",
-     "score": 66,
+     "score": 67,
      "rank": 1
     },
     {
@@ -4417,7 +4476,7 @@
     },
     {
      "iso": "USA",
-     "score": 55,
+     "score": 59,
      "rank": 1
     },
     {
