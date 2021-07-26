@@ -1,7 +1,7 @@
 ISO,Policy,score,rank
 CUB,H7_Vaccination policy,0.0934675724482658,1
-CUB,C8_International travel controls,0.0848342297536146,2
-CUB,C2_Workplace closing,0.080338998347202,3
+CUB,C2_Workplace closing,0.0848342297536146,2
+CUB,C8_International travel controls,0.080338998347202,3
 CUB,C6_Stay at home requirements,0.0790075488201358,4
 CUB,H6_Facial Coverings,0.0764175147560684,5
 CUB,C1_School closing,0.0721948423493546,6

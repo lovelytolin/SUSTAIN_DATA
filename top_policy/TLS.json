@@ -1,0 +1,77 @@
+[
+ {
+  "ISO": "TLS",
+  "Policy": "H7_Vaccination policy",
+  "rank": 1
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C1_School closing",
+  "rank": 2
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "H3_Contact tracing",
+  "rank": 3
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "H1_Public information campaigns",
+  "rank": 4
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C2_Workplace closing",
+  "rank": 5
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C8_International travel controls",
+  "rank": 6
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C5_Close public transport",
+  "rank": 7
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C6_Stay at home requirements",
+  "rank": 8
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C7_Restrictions on internal movement",
+  "rank": 9
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "H6_Facial Coverings",
+  "rank": 10
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C4_Restrictions on gatherings",
+  "rank": 11
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "H2_Testing policy",
+  "rank": 12
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "E1_Income support",
+  "rank": 13
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "E2_Debt/contract relief",
+  "rank": 14
+ },
+ {
+  "ISO": "TLS",
+  "Policy": "C3_Cancel public events",
+  "rank": 15
+ }
+]

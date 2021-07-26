@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-FJI,C3_Cancel public events,0.0987517960925599,1
-FJI,H7_Vaccination policy,0.0822440722462856,2
-FJI,H6_Facial Coverings,0.0785799806080367,3
-FJI,C7_Restrictions on internal movement,0.0757390131551893,4
-FJI,C8_International travel controls,0.0739027851553546,5
-FJI,C1_School closing,0.0683644040109101,6
-FJI,H2_Testing policy,0.060608368504525,7
-FJI,C6_Stay at home requirements,0.0564319362453204,8
-FJI,E2_Debt/contract relief,0.0540992435363025,9
-FJI,C4_Restrictions on gatherings,0.0540806692320439,10
-FJI,H3_Contact tracing,0.0440653221945286,11
-FJI,H1_Public information campaigns,0.035058809937399,12
-FJI,C2_Workplace closing,0.0241333460710891,13
-FJI,E1_Income support,0.021793106276776,14
-FJI,C5_Close public transport,0.0071934745977341,15
+FJI,H6_Facial Coverings,0.1068468807413412,1
+FJI,H7_Vaccination policy,0.1012587848885376,2
+FJI,C7_Restrictions on internal movement,0.0885130880107664,3
+FJI,C8_International travel controls,0.0807904574939262,4
+FJI,C1_School closing,0.0679410207910149,5
+FJI,H2_Testing policy,0.0593384872088431,6
+FJI,H3_Contact tracing,0.0528318153619888,7
+FJI,E2_Debt/contract relief,0.0511888765401178,8
+FJI,C4_Restrictions on gatherings,0.0486051958667024,9
+FJI,H1_Public information campaigns,0.0437431104155584,10
+FJI,C2_Workplace closing,0.035439536023494,11
+FJI,E1_Income support,0.0351752613898493,12
+FJI,C6_Stay at home requirements,0.0249770615342805,13
+FJI,C5_Close public transport,0.0180479408661794,14
+FJI,C3_Cancel public events,0.0175461182974514,15

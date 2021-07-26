@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-JOR,H7_Vaccination policy,0.1185706188887554,1
-JOR,H6_Facial Coverings,0.1067491299117492,2
-JOR,C8_International travel controls,0.0819480705033922,3
-JOR,E2_Debt/contract relief,0.0790848057748199,4
-JOR,C1_School closing,0.0768960444585809,5
-JOR,C3_Cancel public events,0.0502646366272382,6
-JOR,C7_Restrictions on internal movement,0.0496002644573078,7
-JOR,H3_Contact tracing,0.0462364673553406,8
-JOR,C2_Workplace closing,0.0435276467080146,9
-JOR,E1_Income support,0.0358692571695532,10
-JOR,C5_Close public transport,0.033883452670035,11
-JOR,C6_Stay at home requirements,0.0284441986505945,12
-JOR,C4_Restrictions on gatherings,0.0272876842550395,13
-JOR,H1_Public information campaigns,0.0272026094826714,14
-JOR,H2_Testing policy,0.016347838378233,15
+JOR,H7_Vaccination policy,0.0904429663661918,1
+JOR,H6_Facial Coverings,0.0869196542824562,2
+JOR,C8_International travel controls,0.0736735822104165,3
+JOR,E2_Debt/contract relief,0.0703204800970257,4
+JOR,H3_Contact tracing,0.0678287849376027,5
+JOR,C7_Restrictions on internal movement,0.0620575905233576,6
+JOR,C1_School closing,0.0597617247305663,7
+JOR,C3_Cancel public events,0.058066897897503,8
+JOR,C2_Workplace closing,0.0577708568603156,9
+JOR,E1_Income support,0.0524540429230572,10
+JOR,C5_Close public transport,0.0402542652230778,11
+JOR,C6_Stay at home requirements,0.0359492127106886,12
+JOR,C4_Restrictions on gatherings,0.0289420385969275,13
+JOR,H2_Testing policy,0.0256208740011975,14
+JOR,H1_Public information campaigns,0.0163050538713745,15

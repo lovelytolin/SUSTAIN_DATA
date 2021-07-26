@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-GTM,H3_Contact tracing,0.114754490135521,1
-GTM,C1_School closing,0.0995180709150011,2
-GTM,C3_Cancel public events,0.0942128589031918,3
-GTM,E1_Income support,0.0776731432247242,4
-GTM,C2_Workplace closing,0.0688655837947638,5
-GTM,E2_Debt/contract relief,0.0670653169713469,6
-GTM,H7_Vaccination policy,0.0627771532021167,7
-GTM,C8_International travel controls,0.0610710213153304,8
-GTM,C7_Restrictions on internal movement,0.0583658659999423,9
-GTM,H6_Facial Coverings,0.0570315068414843,10
-GTM,C4_Restrictions on gatherings,0.0427700573552842,11
-GTM,H2_Testing policy,0.0395777727561256,12
-GTM,H1_Public information campaigns,0.0285155868099779,13
-GTM,C6_Stay at home requirements,0.011344663524161,14
-GTM,C5_Close public transport,0.0055540200838131,15
+GTM,H3_Contact tracing,0.1076154979498317,1
+GTM,C1_School closing,0.0999239791935295,2
+GTM,E1_Income support,0.0822590066049765,3
+GTM,C3_Cancel public events,0.0754426214761909,4
+GTM,H7_Vaccination policy,0.0699571094889939,5
+GTM,C5_Close public transport,0.0633703916788344,6
+GTM,E2_Debt/contract relief,0.062076367143995,7
+GTM,C8_International travel controls,0.0608152733371297,8
+GTM,C7_Restrictions on internal movement,0.0591731816513291,9
+GTM,H6_Facial Coverings,0.055950813894152,10
+GTM,C4_Restrictions on gatherings,0.0518260858997664,11
+GTM,H2_Testing policy,0.0358533957118604,12
+GTM,C2_Workplace closing,0.0326333459788254,13
+GTM,H1_Public information campaigns,0.0204836101083461,14
+GTM,C6_Stay at home requirements,0.0,15

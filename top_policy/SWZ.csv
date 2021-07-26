@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SWZ,E1_Income support,0.0975871014431815,1
-SWZ,H6_Facial Coverings,0.0827849156209912,2
-SWZ,C4_Restrictions on gatherings,0.0784681304203491,3
-SWZ,C1_School closing,0.0749941884713513,4
-SWZ,H2_Testing policy,0.064811115553648,5
-SWZ,H7_Vaccination policy,0.06430089162454,6
-SWZ,C8_International travel controls,0.0622964080676263,7
-SWZ,C7_Restrictions on internal movement,0.0583805859187509,8
-SWZ,C6_Stay at home requirements,0.0544986357521145,9
-SWZ,E2_Debt/contract relief,0.0473264689959209,10
-SWZ,C5_Close public transport,0.0330161079738706,11
-SWZ,C2_Workplace closing,0.028857136209706,12
-SWZ,H3_Contact tracing,0.0281833612683932,13
-SWZ,C3_Cancel public events,0.0242431443367054,14
-SWZ,H1_Public information campaigns,0.017475839956565,15
+SWZ,H6_Facial Coverings,0.0822440722462856,1
+SWZ,C6_Stay at home requirements,0.0785799806080367,2
+SWZ,E1_Income support,0.0757390131551893,3
+SWZ,C7_Restrictions on internal movement,0.0739027851553546,4
+SWZ,C1_School closing,0.0683644040109101,5
+SWZ,C3_Cancel public events,0.060608368504525,6
+SWZ,H2_Testing policy,0.0564319362453204,7
+SWZ,C8_International travel controls,0.0540992435363025,8
+SWZ,C4_Restrictions on gatherings,0.0540806692320439,9
+SWZ,H7_Vaccination policy,0.0467740836956947,10
+SWZ,E2_Debt/contract relief,0.0449913773033147,11
+SWZ,C5_Close public transport,0.035058809937399,12
+SWZ,C2_Workplace closing,0.034712625638991,13
+SWZ,H3_Contact tracing,0.0241333460710891,14
+SWZ,H1_Public information campaigns,0.0071934745977341,15

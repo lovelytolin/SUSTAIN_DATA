@@ -1,0 +1,77 @@
+[
+ {
+  "ISO": "CZE",
+  "Policy": "H7_Vaccination policy",
+  "rank": 1
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "H6_Facial Coverings",
+  "rank": 2
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C5_Close public transport",
+  "rank": 3
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C7_Restrictions on internal movement",
+  "rank": 4
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C2_Workplace closing",
+  "rank": 5
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C6_Stay at home requirements",
+  "rank": 6
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C4_Restrictions on gatherings",
+  "rank": 7
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C3_Cancel public events",
+  "rank": 8
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "H2_Testing policy",
+  "rank": 9
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C1_School closing",
+  "rank": 10
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "C8_International travel controls",
+  "rank": 11
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "E2_Debt/contract relief",
+  "rank": 12
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "E1_Income support",
+  "rank": 13
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "H3_Contact tracing",
+  "rank": 14
+ },
+ {
+  "ISO": "CZE",
+  "Policy": "H1_Public information campaigns",
+  "rank": 15
+ }
+]

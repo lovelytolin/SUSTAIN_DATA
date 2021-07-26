@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-CHE,H7_Vaccination policy,0.0934012361140582,1
-CHE,H6_Facial Coverings,0.0776936778340814,2
-CHE,C1_School closing,0.0727667009266798,3
-CHE,H2_Testing policy,0.0716421084333031,4
-CHE,C2_Workplace closing,0.0687433721501949,5
-CHE,C6_Stay at home requirements,0.0594164562841761,6
-CHE,C4_Restrictions on gatherings,0.0587358948055335,7
-CHE,E1_Income support,0.0553145220476607,8
-CHE,C8_International travel controls,0.0482161939328834,9
-CHE,C3_Cancel public events,0.0468736732039971,10
-CHE,H3_Contact tracing,0.0352462982100966,11
-CHE,E2_Debt/contract relief,0.0347143732332764,12
-CHE,H1_Public information campaigns,0.0289000160230398,13
-CHE,C7_Restrictions on internal movement,0.0195613988989919,14
-CHE,C5_Close public transport,0.0,15
+CHE,H7_Vaccination policy,0.1094308868403578,1
+CHE,H6_Facial Coverings,0.1018349725199638,2
+CHE,C1_School closing,0.0845448922874771,3
+CHE,C2_Workplace closing,0.0776936201942823,4
+CHE,H2_Testing policy,0.0773072046980272,5
+CHE,C6_Stay at home requirements,0.0719579243402878,6
+CHE,C4_Restrictions on gatherings,0.0657812188647734,7
+CHE,E1_Income support,0.0503181766873227,8
+CHE,C8_International travel controls,0.0455148435921392,9
+CHE,C3_Cancel public events,0.039529839847994,10
+CHE,E2_Debt/contract relief,0.0308539357339468,11
+CHE,H1_Public information campaigns,0.018222324082136,12
+CHE,C7_Restrictions on internal movement,0.0164836526809498,13
+CHE,C5_Close public transport,0.0003079134979007,14
+CHE,H3_Contact tracing,0.0,15

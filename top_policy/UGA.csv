@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-UGA,H7_Vaccination policy,0.0967774256264653,1
-UGA,C8_International travel controls,0.0864070235135982,2
-UGA,C4_Restrictions on gatherings,0.0728810145348007,3
-UGA,C3_Cancel public events,0.0713892093855425,4
-UGA,C5_Close public transport,0.069425342446259,5
-UGA,C7_Restrictions on internal movement,0.0648617414583244,6
-UGA,H6_Facial Coverings,0.0604737466035197,7
-UGA,C1_School closing,0.0569497036878804,8
-UGA,H3_Contact tracing,0.0557805604668467,9
-UGA,E2_Debt/contract relief,0.0475584039751232,10
-UGA,C6_Stay at home requirements,0.0429279509420071,11
-UGA,C2_Workplace closing,0.0280444869478607,12
-UGA,H1_Public information campaigns,0.0209543838011688,13
-UGA,H2_Testing policy,0.0163170597191049,14
-UGA,E1_Income support,0.0,15
+UGA,H7_Vaccination policy,0.1026169763234692,1
+UGA,C8_International travel controls,0.0925236536311685,2
+UGA,H6_Facial Coverings,0.0876593778227303,3
+UGA,C4_Restrictions on gatherings,0.0718901248618713,4
+UGA,E1_Income support,0.0703072077242388,5
+UGA,C7_Restrictions on internal movement,0.0687947251924714,6
+UGA,H3_Contact tracing,0.0663464503559005,7
+UGA,C1_School closing,0.060006169150166,8
+UGA,C5_Close public transport,0.0471044402920709,9
+UGA,E2_Debt/contract relief,0.0451167774444568,10
+UGA,H1_Public information campaigns,0.0423272643611201,11
+UGA,H2_Testing policy,0.0421981831806143,12
+UGA,C2_Workplace closing,0.0200853045279755,13
+UGA,C6_Stay at home requirements,0.0157874769736081,14
+UGA,C3_Cancel public events,0.0152027957896748,15

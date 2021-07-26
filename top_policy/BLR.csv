@@ -1,8 +1,8 @@
 ISO,Policy,score,rank
-BLR,H1_Public information campaigns,0.0950607490832195,1
+BLR,H7_Vaccination policy,0.0950607490832195,1
 BLR,C8_International travel controls,0.0840758164636868,2
-BLR,H6_Facial Coverings,0.06849553054815,3
-BLR,H7_Vaccination policy,0.0674840501612251,4
+BLR,H1_Public information campaigns,0.0719763588557231,3
+BLR,H6_Facial Coverings,0.0674840501612251,4
 BLR,H3_Contact tracing,0.057779023253384,5
 BLR,C1_School closing,0.055268862696889,6
 BLR,C3_Cancel public events,0.054860995103844,7
