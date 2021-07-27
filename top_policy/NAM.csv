@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-NAM,H7_Vaccination policy,0.0860847629111712,1
-NAM,H2_Testing policy,0.0711216714902833,2
-NAM,C1_School closing,0.0707836181575658,3
-NAM,C6_Stay at home requirements,0.0679861309850005,4
-NAM,H6_Facial Coverings,0.0643918271403795,5
-NAM,C7_Restrictions on internal movement,0.0581456786682932,6
-NAM,C3_Cancel public events,0.0572296435659978,7
-NAM,C2_Workplace closing,0.0558142879419931,8
-NAM,C5_Close public transport,0.0549826062914423,9
-NAM,C8_International travel controls,0.0519746994308351,10
-NAM,C4_Restrictions on gatherings,0.0508255522019455,11
-NAM,H3_Contact tracing,0.0501232935173065,12
-NAM,E2_Debt/contract relief,0.0452474170650129,13
-NAM,E1_Income support,0.0450601117218684,14
-NAM,H1_Public information campaigns,0.0243657491270319,15
+NAM,H7_Vaccination policy,0.0877681826482365,1
+NAM,C1_School closing,0.0845765934165644,2
+NAM,H2_Testing policy,0.0682985458883693,3
+NAM,C6_Stay at home requirements,0.0677411743378653,4
+NAM,C8_International travel controls,0.0649003239274896,5
+NAM,C7_Restrictions on internal movement,0.0572860345806629,6
+NAM,C2_Workplace closing,0.0544145414414249,7
+NAM,C5_Close public transport,0.0523142384594759,8
+NAM,C3_Cancel public events,0.0519692785832449,9
+NAM,E2_Debt/contract relief,0.0507579207791444,10
+NAM,C4_Restrictions on gatherings,0.0498698775261464,11
+NAM,H3_Contact tracing,0.0468671698112615,12
+NAM,H6_Facial Coverings,0.0435504534738413,13
+NAM,E1_Income support,0.0358085899872541,14
+NAM,H1_Public information campaigns,0.0154155534723543,15

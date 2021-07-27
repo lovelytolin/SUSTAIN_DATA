@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-NZL,H2_Testing policy,0.0877681826482365,1
-NZL,E1_Income support,0.0845765934165644,2
-NZL,H7_Vaccination policy,0.0682985458883693,3
-NZL,H6_Facial Coverings,0.0677411743378653,4
-NZL,C5_Close public transport,0.0572860345806629,5
-NZL,C7_Restrictions on internal movement,0.0544145414414249,6
-NZL,C1_School closing,0.0524049050516576,7
-NZL,E2_Debt/contract relief,0.0523142384594759,8
-NZL,C4_Restrictions on gatherings,0.0519692785832449,9
-NZL,C2_Workplace closing,0.0507579207791444,10
-NZL,C3_Cancel public events,0.0498698775261464,11
-NZL,C6_Stay at home requirements,0.0464704555331918,12
-NZL,C8_International travel controls,0.0435504534738413,13
-NZL,H1_Public information campaigns,0.0278603303679969,14
-NZL,H3_Contact tracing,0.0154155534723543,15
+NZL,H2_Testing policy,0.0926921724430998,1
+NZL,E1_Income support,0.0714715747298905,2
+NZL,H1_Public information campaigns,0.0684971441748463,3
+NZL,H7_Vaccination policy,0.0679721384662416,4
+NZL,H6_Facial Coverings,0.0665970597740858,5
+NZL,C5_Close public transport,0.0649647894128936,6
+NZL,C6_Stay at home requirements,0.0635766335359356,7
+NZL,C4_Restrictions on gatherings,0.0620132601459477,8
+NZL,E2_Debt/contract relief,0.0572266526427885,9
+NZL,C2_Workplace closing,0.0568552631475349,10
+NZL,C1_School closing,0.048319888652383,11
+NZL,C3_Cancel public events,0.044254957694203,12
+NZL,C8_International travel controls,0.0394985187667497,13
+NZL,H3_Contact tracing,0.0143303810936474,14
+NZL,C7_Restrictions on internal movement,0.0,15

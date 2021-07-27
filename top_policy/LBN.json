@@ -6,27 +6,27 @@
  },
  {
   "ISO": "LBN",
-  "Policy": "C5_Close public transport",
+  "Policy": "H2_Testing policy",
   "rank": 2
  },
  {
   "ISO": "LBN",
-  "Policy": "C8_International travel controls",
+  "Policy": "C5_Close public transport",
   "rank": 3
  },
  {
   "ISO": "LBN",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C8_International travel controls",
   "rank": 4
  },
  {
   "ISO": "LBN",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C6_Stay at home requirements",
   "rank": 5
  },
  {
   "ISO": "LBN",
-  "Policy": "C1_School closing",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 6
  },
  {
@@ -36,17 +36,17 @@
  },
  {
   "ISO": "LBN",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C1_School closing",
   "rank": 8
  },
  {
   "ISO": "LBN",
-  "Policy": "H2_Testing policy",
+  "Policy": "H6_Facial Coverings",
   "rank": 9
  },
  {
   "ISO": "LBN",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C2_Workplace closing",
   "rank": 10
  },
  {
@@ -56,7 +56,7 @@
  },
  {
   "ISO": "LBN",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H3_Contact tracing",
   "rank": 12
  },
  {
@@ -66,12 +66,12 @@
  },
  {
   "ISO": "LBN",
-  "Policy": "H3_Contact tracing",
+  "Policy": "E1_Income support",
   "rank": 14
  },
  {
   "ISO": "LBN",
-  "Policy": "E1_Income support",
+  "Policy": "C3_Cancel public events",
   "rank": 15
  }
 ]

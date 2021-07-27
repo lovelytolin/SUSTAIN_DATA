@@ -51,27 +51,27 @@
  },
  {
   "ISO": "CHE",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H3_Contact tracing",
   "rank": 11
  },
  {
   "ISO": "CHE",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E2_Debt/contract relief",
   "rank": 12
  },
  {
   "ISO": "CHE",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H1_Public information campaigns",
   "rank": 13
  },
  {
   "ISO": "CHE",
-  "Policy": "C5_Close public transport",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 14
  },
  {
   "ISO": "CHE",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C5_Close public transport",
   "rank": 15
  }
 ]

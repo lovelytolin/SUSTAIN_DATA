@@ -1,16 +1,5 @@
 [
  {
-  "rank": 4,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 0.8462311,
-  "unit": "score",
-  "year": 2019.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
@@ -22,40 +11,29 @@
   "year": 2020.0
  },
  {
-  "rank": 14,
+  "rank": 7,
   "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "H6_Facial Coverings",
   "Country": "Anguilla",
   "ISO": "AIA",
-  "value": 0.3557367,
+  "value": 0.8462311,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
+  "rank": 42,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
   "Country": "Anguilla",
   "ISO": "AIA",
-  "value": 0.8158239,
-  "unit": "score",
-  "year": 2019.0
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  },
  {
-  "rank": 52,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 1.234392,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 62,
+  "rank": 65,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "H6_Facial Coverings",
@@ -66,14 +44,36 @@
   "year": 2019.0
  },
  {
-  "rank": 64,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
   "Policy": "H6_Facial Coverings",
   "Country": "Anguilla",
   "ISO": "AIA",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1.234392,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 82,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.3557367,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 90,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.8158239,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-MUS,C7_Restrictions on internal movement,0.1345327798967343,1
-MUS,C6_Stay at home requirements,0.0859653288227091,2
-MUS,C4_Restrictions on gatherings,0.07240474223355,3
-MUS,E2_Debt/contract relief,0.0687504519605623,4
-MUS,C8_International travel controls,0.0632271301893686,5
-MUS,H7_Vaccination policy,0.0610012505637412,6
-MUS,H1_Public information campaigns,0.0558175646407975,7
-MUS,H6_Facial Coverings,0.0546754085009529,8
-MUS,C1_School closing,0.0479121509274171,9
-MUS,C5_Close public transport,0.0476573722897829,10
-MUS,C3_Cancel public events,0.0407353641238773,11
-MUS,H3_Contact tracing,0.0377351486166343,12
-MUS,H2_Testing policy,0.0247519611568349,13
-MUS,E1_Income support,0.0181668359380375,14
-MUS,C2_Workplace closing,0.0160322792948475,15
+MUS,H6_Facial Coverings,0.1031993951562312,1
+MUS,C7_Restrictions on internal movement,0.0870953890155322,2
+MUS,C6_Stay at home requirements,0.0863718738580112,3
+MUS,H7_Vaccination policy,0.0818026406760359,4
+MUS,H1_Public information campaigns,0.0695706164565279,5
+MUS,C8_International travel controls,0.0676608981457456,6
+MUS,C1_School closing,0.0635444771328494,7
+MUS,E2_Debt/contract relief,0.0573374328187258,8
+MUS,E1_Income support,0.0489615052429448,9
+MUS,C3_Cancel public events,0.0463466123243515,10
+MUS,C5_Close public transport,0.0410340899859413,11
+MUS,H2_Testing policy,0.0384820500408545,12
+MUS,H3_Contact tracing,0.037342792374224,13
+MUS,C2_Workplace closing,0.0196851846173412,14
+MUS,C4_Restrictions on gatherings,0.0,15

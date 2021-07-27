@@ -6,17 +6,17 @@
  },
  {
   "ISO": "BRA",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C1_School closing",
   "rank": 2
  },
  {
   "ISO": "BRA",
-  "Policy": "C8_International travel controls",
+  "Policy": "C6_Stay at home requirements",
   "rank": 3
  },
  {
   "ISO": "BRA",
-  "Policy": "C1_School closing",
+  "Policy": "C8_International travel controls",
   "rank": 4
  },
  {
@@ -31,12 +31,12 @@
  },
  {
   "ISO": "BRA",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 7
  },
  {
   "ISO": "BRA",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H2_Testing policy",
   "rank": 8
  },
  {
@@ -51,17 +51,17 @@
  },
  {
   "ISO": "BRA",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 11
  },
  {
   "ISO": "BRA",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H6_Facial Coverings",
   "rank": 12
  },
  {
   "ISO": "BRA",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E2_Debt/contract relief",
   "rank": 13
  },
  {
@@ -71,7 +71,7 @@
  },
  {
   "ISO": "BRA",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

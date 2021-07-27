@@ -1,6 +1,6 @@
 [
  {
-  "rank": 8,
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "E1_Income support",
@@ -11,29 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 24,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "E1_Income support",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 0.6005772,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "E1_Income support",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.089055,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 60,
+  "rank": 4,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "E1_Income support",
@@ -44,7 +22,18 @@
   "year": 2020.0
  },
  {
-  "rank": 65,
+  "rank": 18,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "E1_Income support",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 0.6005772,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 29,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "E1_Income support",
@@ -55,7 +44,7 @@
   "year": 2019.0
  },
  {
-  "rank": 81,
+  "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
@@ -66,13 +55,24 @@
   "year": 2020.0
  },
  {
-  "rank": 106,
+  "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "E1_Income support",
   "Country": "Martinique",
   "ISO": "MTQ",
   "value": 0.7850212,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 92,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "E1_Income support",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 1.089055,
   "unit": "score",
   "year": 2019.0
  }

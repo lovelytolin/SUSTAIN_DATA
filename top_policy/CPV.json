@@ -11,62 +11,62 @@
  },
  {
   "ISO": "CPV",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 3
  },
  {
   "ISO": "CPV",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H3_Contact tracing",
   "rank": 4
  },
  {
   "ISO": "CPV",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H6_Facial Coverings",
   "rank": 5
  },
  {
   "ISO": "CPV",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H1_Public information campaigns",
   "rank": 6
  },
  {
   "ISO": "CPV",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 7
  },
  {
   "ISO": "CPV",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C2_Workplace closing",
   "rank": 8
  },
  {
   "ISO": "CPV",
-  "Policy": "H2_Testing policy",
+  "Policy": "C1_School closing",
   "rank": 9
  },
  {
   "ISO": "CPV",
-  "Policy": "E1_Income support",
+  "Policy": "H2_Testing policy",
   "rank": 10
  },
  {
   "ISO": "CPV",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C5_Close public transport",
   "rank": 11
  },
  {
   "ISO": "CPV",
-  "Policy": "C1_School closing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 12
  },
  {
   "ISO": "CPV",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 13
  },
  {
   "ISO": "CPV",
-  "Policy": "C5_Close public transport",
+  "Policy": "E2_Debt/contract relief",
   "rank": 14
  },
  {

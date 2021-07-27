@@ -6,12 +6,12 @@
  },
  {
   "ISO": "NAM",
-  "Policy": "H2_Testing policy",
+  "Policy": "C1_School closing",
   "rank": 2
  },
  {
   "ISO": "NAM",
-  "Policy": "C1_School closing",
+  "Policy": "H2_Testing policy",
   "rank": 3
  },
  {
@@ -21,7 +21,7 @@
  },
  {
   "ISO": "NAM",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C8_International travel controls",
   "rank": 5
  },
  {
@@ -31,22 +31,22 @@
  },
  {
   "ISO": "NAM",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C2_Workplace closing",
   "rank": 7
  },
  {
   "ISO": "NAM",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
   "ISO": "NAM",
-  "Policy": "C5_Close public transport",
+  "Policy": "C3_Cancel public events",
   "rank": 9
  },
  {
   "ISO": "NAM",
-  "Policy": "C8_International travel controls",
+  "Policy": "E2_Debt/contract relief",
   "rank": 10
  },
  {
@@ -61,7 +61,7 @@
  },
  {
   "ISO": "NAM",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H6_Facial Coverings",
   "rank": 13
  },
  {

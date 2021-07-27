@@ -6,67 +6,67 @@
  },
  {
   "ISO": "BHR",
-  "Policy": "C1_School closing",
+  "Policy": "H1_Public information campaigns",
   "rank": 2
  },
  {
   "ISO": "BHR",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C8_International travel controls",
   "rank": 3
  },
  {
   "ISO": "BHR",
-  "Policy": "C5_Close public transport",
+  "Policy": "C1_School closing",
   "rank": 4
  },
  {
   "ISO": "BHR",
-  "Policy": "C8_International travel controls",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 5
  },
  {
   "ISO": "BHR",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C5_Close public transport",
   "rank": 6
  },
  {
   "ISO": "BHR",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 7
  },
  {
   "ISO": "BHR",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H6_Facial Coverings",
   "rank": 8
  },
  {
   "ISO": "BHR",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C3_Cancel public events",
   "rank": 9
  },
  {
   "ISO": "BHR",
-  "Policy": "E1_Income support",
+  "Policy": "C6_Stay at home requirements",
   "rank": 10
  },
  {
   "ISO": "BHR",
-  "Policy": "C3_Cancel public events",
+  "Policy": "E2_Debt/contract relief",
   "rank": 11
  },
  {
   "ISO": "BHR",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E1_Income support",
   "rank": 12
  },
  {
   "ISO": "BHR",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 13
  },
  {
   "ISO": "BHR",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H2_Testing policy",
   "rank": 14
  },
  {

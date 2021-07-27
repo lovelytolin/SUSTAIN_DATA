@@ -31,22 +31,22 @@
  },
  {
   "ISO": "FIN",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 7
  },
  {
   "ISO": "FIN",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "E2_Debt/contract relief",
   "rank": 8
  },
  {
   "ISO": "FIN",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
   "ISO": "FIN",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 10
  },
  {

@@ -22,73 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 11,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.036331,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.170428,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 24.80129,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 37,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.014771,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.000101,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 55.9,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 44,
+  "rank": 8,
   "Category": "Health",
   "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
   "Policy": "H6_Facial Coverings",
@@ -99,7 +33,29 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
+  "rank": 9,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.036331,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 10,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.014771,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 23,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H6_Facial Coverings",
@@ -110,7 +66,29 @@
   "year": 2019.0
  },
  {
-  "rank": 59,
+  "rank": 30,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.000101,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 31,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.170428,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 41,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
   "Policy": "H6_Facial Coverings",
@@ -121,7 +99,7 @@
   "year": 2019.0
  },
  {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -132,7 +110,18 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
+  "rank": 45,
+  "Category": "Health",
+  "Indicator": "Prevalence of obesity",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 55.9,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 48,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H6_Facial Coverings",
@@ -143,18 +132,29 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Economics",
-  "Indicator": "Expenditure on social protection (% of GDP)",
+  "rank": 60,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
   "Policy": "H6_Facial Coverings",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 3.79368,
+  "value": 24.80129,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
+  "Category": "Economics",
+  "Indicator": "Trade, total as % of GDP",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 40.12978,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 84,
+  "rank": 80,
   "Category": "Economics",
   "Indicator": "Expenditure on education (% of GDP)",
   "Policy": "H6_Facial Coverings",
@@ -165,18 +165,18 @@
   "year": 2019.0
  },
  {
-  "rank": 92,
+  "rank": 81,
   "Category": "Economics",
-  "Indicator": "International tourism, receipts",
+  "Indicator": "Expenditure on social protection (% of GDP)",
   "Policy": "H6_Facial Coverings",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 153000000.0,
-  "unit": "US Dollar",
-  "year": 2017.0
+  "value": 3.79368,
+  "unit": "percent",
+  "year": 2019.0
  },
  {
-  "rank": 93,
+  "rank": 96,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
   "Policy": "H6_Facial Coverings",
@@ -187,14 +187,14 @@
   "year": 2019.0
  },
  {
-  "rank": 104,
+  "rank": 102,
   "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
+  "Indicator": "International tourism, receipts",
   "Policy": "H6_Facial Coverings",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 40.12978,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 153000000.0,
+  "unit": "US Dollar",
+  "year": 2017.0
  }
 ]

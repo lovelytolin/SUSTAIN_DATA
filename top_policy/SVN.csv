@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SVN,H7_Vaccination policy,0.1178707296341753,1
-SVN,C6_Stay at home requirements,0.1010282498593928,2
-SVN,H6_Facial Coverings,0.0875678963694345,3
-SVN,C5_Close public transport,0.0735148270177116,4
-SVN,C1_School closing,0.0703095125212259,5
-SVN,C7_Restrictions on internal movement,0.0682171712846711,6
-SVN,C4_Restrictions on gatherings,0.0574059253448436,7
-SVN,E1_Income support,0.0554389876669035,8
-SVN,C8_International travel controls,0.0503366427130221,9
-SVN,C3_Cancel public events,0.0492823150429402,10
-SVN,E2_Debt/contract relief,0.036912192264409,11
-SVN,H3_Contact tracing,0.0362439438948237,12
-SVN,C2_Workplace closing,0.0357781443626589,13
-SVN,H2_Testing policy,0.0332509592616015,14
-SVN,H1_Public information campaigns,0.0128531581609946,15
+SVN,H7_Vaccination policy,0.1046993178903879,1
+SVN,H6_Facial Coverings,0.0972955240613254,2
+SVN,C6_Stay at home requirements,0.0827440356282667,3
+SVN,C5_Close public transport,0.0762439904995554,4
+SVN,C1_School closing,0.0691197504691794,5
+SVN,C2_Workplace closing,0.0667986839235931,6
+SVN,C7_Restrictions on internal movement,0.0667209710014571,7
+SVN,E1_Income support,0.0520089974582042,8
+SVN,C4_Restrictions on gatherings,0.046451442967658,9
+SVN,C3_Cancel public events,0.0458172966491938,10
+SVN,E2_Debt/contract relief,0.043753513300605,11
+SVN,H3_Contact tracing,0.0365279221450694,12
+SVN,H2_Testing policy,0.0322113899765819,13
+SVN,C8_International travel controls,0.0302332798076308,14
+SVN,H1_Public information campaigns,0.0270875758591481,15

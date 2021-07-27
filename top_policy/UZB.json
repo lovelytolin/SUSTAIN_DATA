@@ -11,12 +11,12 @@
  },
  {
   "ISO": "UZB",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C5_Close public transport",
   "rank": 3
  },
  {
   "ISO": "UZB",
-  "Policy": "C5_Close public transport",
+  "Policy": "H1_Public information campaigns",
   "rank": 4
  },
  {
@@ -26,7 +26,7 @@
  },
  {
   "ISO": "UZB",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H3_Contact tracing",
   "rank": 6
  },
  {
@@ -46,12 +46,12 @@
  },
  {
   "ISO": "UZB",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 10
  },
  {
   "ISO": "UZB",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H2_Testing policy",
   "rank": 11
  },
  {
@@ -61,17 +61,17 @@
  },
  {
   "ISO": "UZB",
-  "Policy": "E1_Income support",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 13
  },
  {
   "ISO": "UZB",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "E1_Income support",
   "rank": 14
  },
  {
   "ISO": "UZB",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C6_Stay at home requirements",
   "rank": 15
  }
 ]

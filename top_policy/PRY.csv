@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-PRY,H7_Vaccination policy,0.1151714638024486,1
-PRY,C1_School closing,0.0925051867881253,2
-PRY,H6_Facial Coverings,0.0894253927969486,3
-PRY,C8_International travel controls,0.0877832378955377,4
-PRY,C4_Restrictions on gatherings,0.0655946411021421,5
-PRY,C2_Workplace closing,0.0640706404263165,6
-PRY,C5_Close public transport,0.062261754126328,7
-PRY,H2_Testing policy,0.059005220724024,8
-PRY,C3_Cancel public events,0.0549920064257043,9
-PRY,E2_Debt/contract relief,0.0538365473390723,10
-PRY,H3_Contact tracing,0.0475214767965176,11
-PRY,C7_Restrictions on internal movement,0.0419797094673151,12
-PRY,C6_Stay at home requirements,0.0224267118501852,13
-PRY,E1_Income support,0.0202660611099648,14
-PRY,H1_Public information campaigns,0.0045839547293267,15
+PRY,H7_Vaccination policy,0.0955573913095256,1
+PRY,H1_Public information campaigns,0.0852006632351462,2
+PRY,C1_School closing,0.082419809263066,3
+PRY,H6_Facial Coverings,0.0772626622946642,4
+PRY,C8_International travel controls,0.0742561648453942,5
+PRY,C5_Close public transport,0.0684276468957306,6
+PRY,C4_Restrictions on gatherings,0.0645023054381586,7
+PRY,C2_Workplace closing,0.0563926048869118,8
+PRY,H2_Testing policy,0.0542495438919949,9
+PRY,C3_Cancel public events,0.054217567344145,10
+PRY,E2_Debt/contract relief,0.0462173468265811,11
+PRY,C7_Restrictions on internal movement,0.0377948515408538,12
+PRY,C6_Stay at home requirements,0.0337060264590531,13
+PRY,E1_Income support,0.0227316660705322,14
+PRY,H3_Contact tracing,0.018926778941715,15

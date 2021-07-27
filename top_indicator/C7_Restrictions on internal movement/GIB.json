@@ -12,6 +12,17 @@
  },
  {
   "rank": 4,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 16968.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 6,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C7_Restrictions on internal movement",
@@ -22,7 +33,7 @@
   "year": 2020.0
  },
  {
-  "rank": 10,
+  "rank": 11,
   "Category": "Environment",
   "Indicator": "Electricity production from oil sources",
   "Policy": "C7_Restrictions on internal movement",
@@ -35,13 +46,24 @@
  {
   "rank": 12,
   "Category": "Environment",
-  "Indicator": "Electric power consumption ",
+  "Indicator": "Energy use (kg of oil equivalent per capita)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 5693.106004447739,
-  "unit": "kWh per capita",
+  "value": 5812.453669384729,
+  "unit": "kg of oil equivalent per capita",
   "year": 2014.0
+ },
+ {
+  "rank": 13,
+  "Category": "Environment",
+  "Indicator": "Electricity production from renewable sources, excluding hydroelectric",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "kWh",
+  "year": 2015.0
  },
  {
   "rank": 14,
@@ -55,117 +77,7 @@
   "year": 2019.0
  },
  {
-  "rank": 18,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 18.80401,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 26,
-  "Category": "Environment",
-  "Indicator": "Fossil fuel energy consumption",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 99.51282,
-  "unit": "percent of total",
-  "year": 2014.0
- },
- {
-  "rank": 27,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 29,
-  "Category": "Environment",
-  "Indicator": "Energy use (kg of oil equivalent per capita)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 5812.453669384729,
-  "unit": "kg of oil equivalent per capita",
-  "year": 2014.0
- },
- {
-  "rank": 30,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 120.284,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 35,
-  "Category": "Environment",
-  "Indicator": "Electricity production from oil, gas and coal sources",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 100.0,
-  "unit": "percent of total",
-  "year": 2015.0
- },
- {
-  "rank": 38,
-  "Category": "Environment",
-  "Indicator": "Energy imports, net ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 100.0,
-  "unit": "percent of energy use",
-  "year": 2014.0
- },
- {
-  "rank": 44,
-  "Category": "Environment",
-  "Indicator": "Electricity production from renewable sources, excluding hydroelectric",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "kWh",
-  "year": 2015.0
- },
- {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 16968.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 62,
-  "Category": "Environment",
-  "Indicator": "Combustible renewables and waste",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "percent of total energy",
-  "year": 2014.0
- },
- {
-  "rank": 63,
+  "rank": 20,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "C7_Restrictions on internal movement",
@@ -176,7 +88,40 @@
   "year": 2016.0
  },
  {
-  "rank": 64,
+  "rank": 34,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 120.284,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 39,
+  "Category": "Environment",
+  "Indicator": "Energy imports, net ",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 100.0,
+  "unit": "percent of energy use",
+  "year": 2014.0
+ },
+ {
+  "rank": 50,
+  "Category": "Environment",
+  "Indicator": "Electricity production from oil, gas and coal sources",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 100.0,
+  "unit": "percent of total",
+  "year": 2015.0
+ },
+ {
+  "rank": 54,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "C7_Restrictions on internal movement",
@@ -187,7 +132,29 @@
   "year": 2019.0
  },
  {
-  "rank": 68,
+  "rank": 58,
+  "Category": "Environment",
+  "Indicator": "Combustible renewables and waste",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "percent of total energy",
+  "year": 2014.0
+ },
+ {
+  "rank": 65,
+  "Category": "Environment",
+  "Indicator": "Electricity production from nuclear sources ",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "percent of total",
+  "year": 2014.0
+ },
+ {
+  "rank": 66,
   "Category": "Environment",
   "Indicator": "Electricity production from coal sources ",
   "Policy": "C7_Restrictions on internal movement",
@@ -200,16 +167,16 @@
  {
   "rank": 69,
   "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 0.0,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  },
  {
-  "rank": 72,
+  "rank": 73,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C7_Restrictions on internal movement",
@@ -220,14 +187,47 @@
   "year": 2020.0
  },
  {
-  "rank": 101,
+  "rank": 76,
   "Category": "Environment",
-  "Indicator": "Electricity production from nuclear sources ",
+  "Indicator": "Electric power consumption ",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 0.0,
+  "value": 5693.106004447739,
+  "unit": "kWh per capita",
+  "year": 2014.0
+ },
+ {
+  "rank": 80,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 18.80401,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 90,
+  "Category": "Environment",
+  "Indicator": "Fossil fuel energy consumption",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 99.51282,
   "unit": "percent of total",
   "year": 2014.0
+ },
+ {
+  "rank": 117,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
  }
 ]

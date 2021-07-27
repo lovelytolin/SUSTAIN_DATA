@@ -1,28 +1,6 @@
 [
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 5601.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 20,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 0.6005772,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 34,
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "C7_Restrictions on internal movement",
@@ -33,7 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 45,
+  "rank": 6,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 5601.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 28,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C7_Restrictions on internal movement",
@@ -44,7 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 54,
+  "rank": 29,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
   "Policy": "C7_Restrictions on internal movement",
@@ -55,18 +44,18 @@
   "year": 2019.0
  },
  {
-  "rank": 72,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "rank": 56,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Martinique",
   "ISO": "MTQ",
-  "value": 42.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 0.6005772,
+  "unit": "score",
+  "year": 2019.0
  },
  {
-  "rank": 79,
+  "rank": 63,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C7_Restrictions on internal movement",
@@ -75,5 +64,16 @@
   "value": 1.234392,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 42.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  }
 ]

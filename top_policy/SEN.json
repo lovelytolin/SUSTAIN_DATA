@@ -26,12 +26,12 @@
  },
  {
   "ISO": "SEN",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C1_School closing",
   "rank": 6
  },
  {
   "ISO": "SEN",
-  "Policy": "C1_School closing",
+  "Policy": "H3_Contact tracing",
   "rank": 7
  },
  {
@@ -41,12 +41,12 @@
  },
  {
   "ISO": "SEN",
-  "Policy": "C8_International travel controls",
+  "Policy": "C2_Workplace closing",
   "rank": 9
  },
  {
   "ISO": "SEN",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C8_International travel controls",
   "rank": 10
  },
  {
@@ -56,17 +56,17 @@
  },
  {
   "ISO": "SEN",
-  "Policy": "E1_Income support",
+  "Policy": "C6_Stay at home requirements",
   "rank": 12
  },
  {
   "ISO": "SEN",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 13
  },
  {
   "ISO": "SEN",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H1_Public information campaigns",
   "rank": 14
  },
  {

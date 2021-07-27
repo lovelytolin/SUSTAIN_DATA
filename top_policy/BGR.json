@@ -6,17 +6,17 @@
  },
  {
   "ISO": "BGR",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C8_International travel controls",
   "rank": 2
  },
  {
   "ISO": "BGR",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C3_Cancel public events",
   "rank": 3
  },
  {
   "ISO": "BGR",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C2_Workplace closing",
   "rank": 4
  },
  {
@@ -26,7 +26,7 @@
  },
  {
   "ISO": "BGR",
-  "Policy": "C8_International travel controls",
+  "Policy": "H6_Facial Coverings",
   "rank": 6
  },
  {
@@ -41,22 +41,22 @@
  },
  {
   "ISO": "BGR",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C6_Stay at home requirements",
   "rank": 9
  },
  {
   "ISO": "BGR",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H3_Contact tracing",
   "rank": 10
  },
  {
   "ISO": "BGR",
-  "Policy": "H3_Contact tracing",
+  "Policy": "E2_Debt/contract relief",
   "rank": 11
  },
  {
   "ISO": "BGR",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 12
  },
  {
@@ -66,12 +66,12 @@
  },
  {
   "ISO": "BGR",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C5_Close public transport",
   "rank": 14
  },
  {
   "ISO": "BGR",
-  "Policy": "C5_Close public transport",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

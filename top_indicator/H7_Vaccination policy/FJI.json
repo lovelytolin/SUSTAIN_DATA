@@ -33,7 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 6,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -45,61 +45,17 @@
  },
  {
   "rank": 7,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 20.00641,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
+  "value": 24.0,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 8,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 76522.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 2.34547,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 12,
-  "Category": "Economics",
-  "Indicator": "Employment in services (% of total employment) (modeled ILO estimate)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 50.9690018,
-  "unit": "Percentage of total employment",
-  "year": 2020.0
- },
- {
-  "rank": 13,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.005991,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 14,
+  "rank": 9,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H7_Vaccination policy",
@@ -110,29 +66,51 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
+  "rank": 10,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 31.2639470878642,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
+  "value": 76522.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 13,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.153357,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 14,
+  "Category": "Social issues ",
+  "Indicator": "Net migration",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": -31008.0,
+  "unit": "net total / data are 5 year estimates",
+  "year": 2019.0
+ },
+ {
+  "rank": 15,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.005991,
+  "unit": "percent",
+  "year": 2019.0
  },
  {
   "rank": 16,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 2.3,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 17,
   "Category": "Health",
   "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
   "Policy": "H7_Vaccination policy",
@@ -141,6 +119,17 @@
   "value": 99.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 17,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 2.3,
+  "unit": "percent",
+  "year": 2018.0
  },
  {
   "rank": 18,
@@ -155,28 +144,50 @@
  },
  {
   "rank": 19,
-  "Category": "Governance",
-  "Indicator": "Economic Freedom Score",
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 6.5,
-  "unit": "score",
-  "year": 2018.0
+  "value": 2046.186,
+  "unit": "kt",
+  "year": 2016.0
  },
  {
-  "rank": 22,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
+  "rank": 20,
+  "Category": "Economics",
+  "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 27.41,
-  "unit": "score",
+  "value": 4.07999992,
+  "unit": "percent of total labor force",
   "year": 2020.0
  },
  {
-  "rank": 23,
+  "rank": 21,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 96.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 8.641747237569062,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H7_Vaccination policy",
@@ -188,149 +199,6 @@
  },
  {
   "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 8.641747237569062,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 26,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 19.60784314,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 28,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 2046.186,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 29,
-  "Category": "Economics",
-  "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 4.07999992,
-  "unit": "percent of total labor force",
-  "year": 2020.0
- },
- {
-  "rank": 30,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": -0.0257588,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 31,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 3.3752,
-  "unit": "Ones",
-  "year": 2018.0
- },
- {
-  "rank": 33,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.041858,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Social issues ",
-  "Indicator": "Net migration",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": -31008.0,
-  "unit": "net total / data are 5 year estimates",
-  "year": 2019.0
- },
- {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 7.46,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 36,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.107276,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 39,
-  "Category": "Health",
-  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 5.2,
-  "unit": "percent",
-  "year": 2020.0
- },
- {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.411613,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Economics",
-  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 57.5779991,
-  "unit": "Percentage of total population",
-  "year": 2020.0
- },
- {
-  "rank": 43,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, mean annual exposure",
   "Policy": "H7_Vaccination policy",
@@ -341,18 +209,51 @@
   "year": 2017.0
  },
  {
-  "rank": 44,
-  "Category": "Health",
-  "Indicator": "Prevalence of HIV, total (% of population ages 15-49)",
+  "rank": 28,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 0.2,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 19.60784314,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
-  "rank": 45,
+  "rank": 29,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 7.46,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 30,
+  "Category": "Economics",
+  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 57.5779991,
+  "unit": "Percentage of total population",
+  "year": 2020.0
+ },
+ {
+  "rank": 32,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 36.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 34,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -363,73 +264,18 @@
   "year": 2020.0
  },
  {
-  "rank": 48,
-  "Category": "Economics",
-  "Indicator": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 38.6010017,
-  "unit": "Percentage of females of the total population",
-  "year": 2020.0
- },
- {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 117.831,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 24.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 52,
+  "rank": 35,
   "Category": "Social issues ",
-  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Indicator": "Press freedom score",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 107.018417358398,
-  "unit": "proportion",
-  "year": 2016.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 96.0,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 54,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 69.85212211648623,
+  "value": 27.41,
   "unit": "score",
   "year": 2020.0
  },
  {
-  "rank": 55,
+  "rank": 36,
   "Category": "Health",
   "Indicator": "Physicians (per 1,000 people)",
   "Policy": "H7_Vaccination policy",
@@ -440,95 +286,18 @@
   "year": 2015.0
  },
  {
-  "rank": 56,
+  "rank": 37,
   "Category": "Governance",
-  "Indicator": "Human Development Index",
+  "Indicator": "Rule of law estimate ",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 0.743,
-  "unit": "index",
-  "year": 2019.0
- },
- {
-  "rank": 58,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.8723141,
+  "value": -0.0257588,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 59,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 66.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 60,
-  "Category": "Health",
-  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 7.5,
-  "unit": "percent",
-  "year": 2020.0
- },
- {
-  "rank": 61,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 60.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 62,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 2.3082773672,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
- },
- {
-  "rank": 64,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.153357,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 65,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.0941574,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 69,
+  "rank": 38,
   "Category": "Social issues ",
   "Indicator": "Proportion of women in managerial positions (%)",
   "Policy": "H7_Vaccination policy",
@@ -539,18 +308,62 @@
   "year": 2016.0
  },
  {
-  "rank": 70,
+  "rank": 40,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 6.98,
+  "value": 0.8723141,
   "unit": "score",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
-  "rank": 71,
+  "rank": 41,
+  "Category": "Economics",
+  "Indicator": "Employment in services (% of total employment) (modeled ILO estimate)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 50.9690018,
+  "unit": "Percentage of total employment",
+  "year": 2020.0
+ },
+ {
+  "rank": 44,
+  "Category": "Economics",
+  "Indicator": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 38.6010017,
+  "unit": "Percentage of females of the total population",
+  "year": 2020.0
+ },
+ {
+  "rank": 45,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 2.3082773672,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
+ },
+ {
+  "rank": 46,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.5585566,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 49,
   "Category": "Health",
   "Indicator": "Prevalence of obesity",
   "Policy": "H7_Vaccination policy",
@@ -561,40 +374,106 @@
   "year": 2016.0
  },
  {
-  "rank": 72,
-  "Category": "Environment",
-  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
+  "rank": 50,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 82.8031823467088,
-  "unit": "percent of total",
-  "year": 2017.0
+  "value": 66.0,
+  "unit": "Cases",
+  "year": 2019.0
  },
  {
-  "rank": 73,
-  "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 67.62763,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 74,
+  "rank": 51,
   "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
+  "Indicator": "Fragile States Index Total ",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": -0.2174181,
+  "value": 69.85212211648623,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.2040977,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 76,
+  "rank": 53,
+  "Category": "Health",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 3.3752,
+  "unit": "Ones",
+  "year": 2018.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.0941574,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 56,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 20.00641,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 2.34547,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 58,
+  "Category": "Governance",
+  "Indicator": "Economic Freedom Score",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 6.5,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 59,
+  "Category": "Social issues ",
+  "Indicator": "Progression to secondary school (%)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 98.01615,
+  "unit": "proportion",
+  "year": 2015.0
+ },
+ {
+  "rank": 60,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
   "Policy": "H7_Vaccination policy",
@@ -605,29 +484,29 @@
   "year": 2019.0
  },
  {
-  "rank": 78,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "rank": 61,
+  "Category": "Health",
+  "Indicator": "Prevalence of HIV, total (% of population ages 15-49)",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 56.75,
-  "unit": "total",
+  "value": 0.2,
+  "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 79,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 62,
+  "Category": "Health",
+  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 99.5933609008789,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 5.2,
+  "unit": "percent",
+  "year": 2020.0
  },
  {
-  "rank": 80,
+  "rank": 63,
   "Category": "Economics",
   "Indicator": "Unemployment rate (%) - Annual",
   "Policy": "H7_Vaccination policy",
@@ -636,6 +515,127 @@
   "value": 4.5,
   "unit": "percent",
   "year": 2016.0
+ },
+ {
+  "rank": 64,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 117.831,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 60.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 68,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.041858,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.411613,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 12.0,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Social issues ",
+  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 107.018417358398,
+  "unit": "proportion",
+  "year": 2016.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 43.25,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 31.2639470878642,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 75,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.743,
+  "unit": "index",
+  "year": 2019.0
+ },
+ {
+  "rank": 77,
+  "Category": "Economics",
+  "Indicator": "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 26016.2,
+  "unit": "international $ in PPP",
+  "year": 2020.0
+ },
+ {
+  "rank": 78,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": -0.2174181,
+  "unit": "score",
+  "year": 2019.0
  },
  {
   "rank": 81,
@@ -649,95 +649,18 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 36.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
   "rank": 83,
   "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
+  "Indicator": "Human Freedom Score ",
   "Policy": "H7_Vaccination policy",
   "Country": "Fiji",
   "ISO": "FJI",
-  "value": 0.5585566,
+  "value": 6.98,
   "unit": "score",
-  "year": 2019.0
+  "year": 2018.0
  },
  {
-  "rank": 85,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 0.2040977,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 86,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 95.0721750698175,
-  "unit": "proportion",
-  "year": 2017.0
- },
- {
-  "rank": 88,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 43.25,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 89,
-  "Category": "Social issues ",
-  "Indicator": "Progression to secondary school (%)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 98.01615,
-  "unit": "proportion",
-  "year": 2015.0
- },
- {
-  "rank": 91,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 12.0,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 93,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 889953.0,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 97,
+  "rank": 84,
   "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "H7_Vaccination policy",
@@ -748,7 +671,29 @@
   "year": 2019.0
  },
  {
-  "rank": 100,
+  "rank": 85,
+  "Category": "Health",
+  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 7.5,
+  "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 889953.0,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 88,
   "Category": "Economics",
   "Indicator": "Lending interest rates, percent per annum",
   "Policy": "H7_Vaccination policy",
@@ -759,7 +704,51 @@
   "year": 2018.0
  },
  {
-  "rank": 106,
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 95.0721750698175,
+  "unit": "proportion",
+  "year": 2017.0
+ },
+ {
+  "rank": 92,
+  "Category": "Economics",
+  "Indicator": "Trade, total as % of GDP",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 67.62763,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 93,
+  "Category": "Environment",
+  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 82.8031823467088,
+  "unit": "percent of total",
+  "year": 2017.0
+ },
+ {
+  "rank": 95,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 99.5933609008789,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 96,
   "Category": "Social issues ",
   "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
   "Policy": "H7_Vaccination policy",
@@ -770,7 +759,29 @@
   "year": 2017.0
  },
  {
-  "rank": 112,
+  "rank": 97,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 0.107276,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Fiji",
+  "ISO": "FJI",
+  "value": 56.75,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 111,
   "Category": "Social issues ",
   "Indicator": "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",
   "Policy": "H7_Vaccination policy",
@@ -779,16 +790,5 @@
   "value": 5.16891002655029,
   "unit": "proportion",
   "year": 2017.0
- },
- {
-  "rank": 116,
-  "Category": "Economics",
-  "Indicator": "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Fiji",
-  "ISO": "FJI",
-  "value": 26016.2,
-  "unit": "international $ in PPP",
-  "year": 2020.0
  }
 ]

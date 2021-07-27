@@ -11,7 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 10,
+  "rank": 12,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "H6_Facial Coverings",
@@ -22,29 +22,18 @@
   "year": 2016.0
  },
  {
-  "rank": 15,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 12.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 27,
+  "rank": 13,
   "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "H6_Facial Coverings",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 5.917914,
-  "unit": "metric tons per capita",
-  "year": 2016.0
+  "value": 0.572166001038355,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  },
  {
-  "rank": 31,
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "H6_Facial Coverings",
@@ -52,6 +41,17 @@
   "ISO": "TCA",
   "value": 759.3412060433087,
   "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 93.36,
+  "unit": "total",
   "year": 2019.0
  },
  {
@@ -66,18 +66,7 @@
   "year": 2014.0
  },
  {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 4000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -88,29 +77,40 @@
   "year": 2020.0
  },
  {
-  "rank": 68,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
+  "rank": 50,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H6_Facial Coverings",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 38191.0,
-  "unit": "total",
+  "value": 12.0,
+  "unit": "Cases",
   "year": 2019.0
  },
  {
-  "rank": 70,
+  "rank": 53,
   "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "H6_Facial Coverings",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 5.917914,
+  "unit": "metric tons per capita",
+  "year": 2016.0
  },
  {
-  "rank": 73,
+  "rank": 58,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 4000.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H6_Facial Coverings",
@@ -121,29 +121,7 @@
   "year": 2019.0
  },
  {
-  "rank": 74,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 0.572166001038355,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 78,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 5.0,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 79,
+  "rank": 70,
   "Category": "Demographics",
   "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "H6_Facial Coverings",
@@ -154,7 +132,40 @@
   "year": 2017.0
  },
  {
-  "rank": 88,
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 5.0,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 76,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 38191.0,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 115,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
   "Policy": "H6_Facial Coverings",
@@ -163,16 +174,5 @@
   "value": 129.401412963867,
   "unit": "proportion",
   "year": 2018.0
- },
- {
-  "rank": 101,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 93.36,
-  "unit": "total",
-  "year": 2019.0
  }
 ]

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-GIN,H3_Contact tracing,0.0803097722988903,1
-GIN,H6_Facial Coverings,0.078287262587853,2
-GIN,C8_International travel controls,0.0712932995805317,3
-GIN,C1_School closing,0.0614937539094522,4
-GIN,H7_Vaccination policy,0.0607314121854176,5
-GIN,C2_Workplace closing,0.0585934068541107,6
-GIN,C4_Restrictions on gatherings,0.0574034422345461,7
-GIN,C5_Close public transport,0.0556534333844697,8
-GIN,E1_Income support,0.0479171451508302,9
-GIN,C6_Stay at home requirements,0.0458232246511971,10
-GIN,C7_Restrictions on internal movement,0.0454119129446334,11
-GIN,E2_Debt/contract relief,0.042363380099111,12
-GIN,H1_Public information campaigns,0.0361079502703024,13
-GIN,H2_Testing policy,0.0314973761480557,14
-GIN,C3_Cancel public events,0.0,15
+GIN,H3_Contact tracing,0.0905904563394866,1
+GIN,H6_Facial Coverings,0.0804732807047729,2
+GIN,H1_Public information campaigns,0.0693807698443421,3
+GIN,C8_International travel controls,0.0683297212467864,4
+GIN,C1_School closing,0.0670559977952752,5
+GIN,H7_Vaccination policy,0.0660568839478313,6
+GIN,C2_Workplace closing,0.0576692782256257,7
+GIN,C4_Restrictions on gatherings,0.0539826748003925,8
+GIN,C5_Close public transport,0.0482600580443072,9
+GIN,E2_Debt/contract relief,0.0453507724173754,10
+GIN,E1_Income support,0.0446255908454745,11
+GIN,C6_Stay at home requirements,0.0323543144932197,12
+GIN,C3_Cancel public events,0.0300523675203467,13
+GIN,C7_Restrictions on internal movement,0.0297976617908713,14
+GIN,H2_Testing policy,0.0182200908788439,15

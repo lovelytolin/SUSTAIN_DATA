@@ -1,6 +1,6 @@
 [
  {
-  "rank": 6,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -11,18 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 30,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 0.6005772,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 45,
+  "rank": 34,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -33,7 +22,18 @@
   "year": 2020.0
  },
  {
-  "rank": 58,
+  "rank": 37,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 0.6005772,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 40,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "H7_Vaccination policy",
@@ -44,18 +44,7 @@
   "year": 2019.0
  },
  {
-  "rank": 74,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.228176,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 83,
+  "rank": 46,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "H7_Vaccination policy",
@@ -66,13 +55,24 @@
   "year": 2019.0
  },
  {
-  "rank": 85,
+  "rank": 52,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
   "Policy": "H7_Vaccination policy",
   "Country": "Martinique",
   "ISO": "MTQ",
   "value": 1.089055,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 1.228176,
   "unit": "score",
   "year": 2019.0
  }

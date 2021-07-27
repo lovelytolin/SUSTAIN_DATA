@@ -21,32 +21,32 @@
  },
  {
   "ISO": "HND",
-  "Policy": "C5_Close public transport",
+  "Policy": "H2_Testing policy",
   "rank": 5
  },
  {
   "ISO": "HND",
-  "Policy": "C8_International travel controls",
+  "Policy": "C5_Close public transport",
   "rank": 6
  },
  {
   "ISO": "HND",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C8_International travel controls",
   "rank": 7
  },
  {
   "ISO": "HND",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 8
  },
  {
   "ISO": "HND",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C6_Stay at home requirements",
   "rank": 9
  },
  {
   "ISO": "HND",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "E2_Debt/contract relief",
   "rank": 10
  },
  {

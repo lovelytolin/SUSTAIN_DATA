@@ -6,52 +6,52 @@
  },
  {
   "ISO": "PRY",
-  "Policy": "C1_School closing",
+  "Policy": "H1_Public information campaigns",
   "rank": 2
  },
  {
   "ISO": "PRY",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C1_School closing",
   "rank": 3
  },
  {
   "ISO": "PRY",
-  "Policy": "C8_International travel controls",
+  "Policy": "H6_Facial Coverings",
   "rank": 4
  },
  {
   "ISO": "PRY",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C8_International travel controls",
   "rank": 5
  },
  {
   "ISO": "PRY",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C5_Close public transport",
   "rank": 6
  },
  {
   "ISO": "PRY",
-  "Policy": "C5_Close public transport",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 7
  },
  {
   "ISO": "PRY",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 8
  },
  {
   "ISO": "PRY",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
   "ISO": "PRY",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C3_Cancel public events",
   "rank": 10
  },
  {
   "ISO": "PRY",
-  "Policy": "H3_Contact tracing",
+  "Policy": "E2_Debt/contract relief",
   "rank": 11
  },
  {
@@ -71,7 +71,7 @@
  },
  {
   "ISO": "PRY",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H3_Contact tracing",
   "rank": 15
  }
 ]

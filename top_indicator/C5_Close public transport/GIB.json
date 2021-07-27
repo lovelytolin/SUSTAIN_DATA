@@ -11,18 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "rank": 5,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "C5_Close public transport",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 1153.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 16968.0,
+  "unit": "number",
+  "year": 2019.0
  },
  {
-  "rank": 9,
+  "rank": 8,
   "Category": "Environment",
   "Indicator": "Electricity production from oil sources",
   "Policy": "C5_Close public transport",
@@ -33,14 +33,25 @@
   "year": 2015.0
  },
  {
-  "rank": 10,
-  "Category": "Environment",
-  "Indicator": "Fossil fuel energy consumption",
+  "rank": 9,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C5_Close public transport",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 99.51282,
-  "unit": "percent of total",
+  "value": 1153.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 12,
+  "Category": "Environment",
+  "Indicator": "Energy use (kg of oil equivalent per capita)",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 5812.453669384729,
+  "unit": "kg of oil equivalent per capita",
   "year": 2014.0
  },
  {
@@ -57,24 +68,13 @@
  {
   "rank": 15,
   "Category": "Environment",
-  "Indicator": "Electric power consumption ",
+  "Indicator": "Combustible renewables and waste",
   "Policy": "C5_Close public transport",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 5693.106004447739,
-  "unit": "kWh per capita",
+  "value": 0.0,
+  "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 17,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 634.391,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 19,
@@ -88,84 +88,7 @@
   "year": 2014.0
  },
  {
-  "rank": 21,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 18.80401,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 31,
-  "Category": "Environment",
-  "Indicator": "Energy use (kg of oil equivalent per capita)",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 5812.453669384729,
-  "unit": "kg of oil equivalent per capita",
-  "year": 2014.0
- },
- {
-  "rank": 43,
-  "Category": "Environment",
-  "Indicator": "Electricity production from oil, gas and coal sources",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 100.0,
-  "unit": "percent of total",
-  "year": 2015.0
- },
- {
-  "rank": 46,
-  "Category": "Environment",
-  "Indicator": "Combustible renewables and waste",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "percent of total energy",
-  "year": 2014.0
- },
- {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 16968.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 55,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 56,
-  "Category": "Environment",
-  "Indicator": "Electricity production from coal sources ",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "percent of total",
-  "year": 2015.0
- },
- {
-  "rank": 69,
+  "rank": 23,
   "Category": "Environment",
   "Indicator": "Energy imports, net ",
   "Policy": "C5_Close public transport",
@@ -176,40 +99,7 @@
   "year": 2014.0
  },
  {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Electricity production from renewable sources, excluding hydroelectric",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "kWh",
-  "year": 2015.0
- },
- {
-  "rank": 77,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C5_Close public transport",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 6.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 79,
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "C5_Close public transport",
@@ -220,7 +110,84 @@
   "year": 2019.0
  },
  {
-  "rank": 85,
+  "rank": 29,
+  "Category": "Environment",
+  "Indicator": "Electric power consumption ",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 5693.106004447739,
+  "unit": "kWh per capita",
+  "year": 2014.0
+ },
+ {
+  "rank": 35,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 6.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 38,
+  "Category": "Environment",
+  "Indicator": "Electricity production from renewable sources, excluding hydroelectric",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "kWh",
+  "year": 2015.0
+ },
+ {
+  "rank": 42,
+  "Category": "Environment",
+  "Indicator": "Electricity production from coal sources ",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "percent of total",
+  "year": 2015.0
+ },
+ {
+  "rank": 51,
+  "Category": "Environment",
+  "Indicator": "Fossil fuel energy consumption",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 99.51282,
+  "unit": "percent of total",
+  "year": 2014.0
+ },
+ {
+  "rank": 58,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 634.391,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 70,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 74,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "C5_Close public transport",
@@ -229,5 +196,38 @@
   "value": 120.284,
   "unit": "per 100 people",
   "year": 2019.0
+ },
+ {
+  "rank": 82,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 88,
+  "Category": "Environment",
+  "Indicator": "Electricity production from oil, gas and coal sources",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 100.0,
+  "unit": "percent of total",
+  "year": 2015.0
+ },
+ {
+  "rank": 90,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "C5_Close public transport",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 18.80401,
+  "unit": "metric tons per capita",
+  "year": 2016.0
  }
 ]

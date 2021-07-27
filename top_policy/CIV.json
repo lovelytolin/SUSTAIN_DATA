@@ -31,22 +31,22 @@
  },
  {
   "ISO": "CIV",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C3_Cancel public events",
   "rank": 7
  },
  {
   "ISO": "CIV",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C6_Stay at home requirements",
   "rank": 8
  },
  {
   "ISO": "CIV",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H6_Facial Coverings",
   "rank": 9
  },
  {
   "ISO": "CIV",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H3_Contact tracing",
   "rank": 10
  },
  {
@@ -61,12 +61,12 @@
  },
  {
   "ISO": "CIV",
-  "Policy": "C5_Close public transport",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 13
  },
  {
   "ISO": "CIV",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C5_Close public transport",
   "rank": 14
  },
  {

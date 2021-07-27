@@ -1,17 +1,17 @@
 [
  {
-  "rank": 4,
+  "rank": 15,
   "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C3_Cancel public events",
   "Country": "Vatican City",
   "ISO": "VAT",
-  "value": 26.0,
+  "value": 0.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
   "year": 2020.0
  },
  {
-  "rank": 21,
+  "rank": 48,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
   "Policy": "C3_Cancel public events",
@@ -22,13 +22,13 @@
   "year": 2015.0
  },
  {
-  "rank": 48,
+  "rank": 56,
   "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C3_Cancel public events",
   "Country": "Vatican City",
   "ISO": "VAT",
-  "value": 0.0,
+  "value": 26.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
   "year": 2020.0
  }

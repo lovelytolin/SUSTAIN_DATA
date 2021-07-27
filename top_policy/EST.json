@@ -31,22 +31,22 @@
  },
  {
   "ISO": "EST",
-  "Policy": "C8_International travel controls",
+  "Policy": "C3_Cancel public events",
   "rank": 7
  },
  {
   "ISO": "EST",
-  "Policy": "C3_Cancel public events",
+  "Policy": "E2_Debt/contract relief",
   "rank": 8
  },
  {
   "ISO": "EST",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C8_International travel controls",
   "rank": 9
  },
  {
   "ISO": "EST",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H3_Contact tracing",
   "rank": 10
  },
  {

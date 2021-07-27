@@ -6,27 +6,27 @@
  },
  {
   "ISO": "ITA",
-  "Policy": "C1_School closing",
+  "Policy": "C2_Workplace closing",
   "rank": 2
  },
  {
   "ISO": "ITA",
-  "Policy": "C5_Close public transport",
+  "Policy": "C8_International travel controls",
   "rank": 3
  },
  {
   "ISO": "ITA",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C1_School closing",
   "rank": 4
  },
  {
   "ISO": "ITA",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H2_Testing policy",
   "rank": 5
  },
  {
   "ISO": "ITA",
-  "Policy": "H2_Testing policy",
+  "Policy": "C6_Stay at home requirements",
   "rank": 6
  },
  {
@@ -36,7 +36,7 @@
  },
  {
   "ISO": "ITA",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
@@ -46,12 +46,12 @@
  },
  {
   "ISO": "ITA",
-  "Policy": "C3_Cancel public events",
+  "Policy": "E2_Debt/contract relief",
   "rank": 10
  },
  {
   "ISO": "ITA",
-  "Policy": "C8_International travel controls",
+  "Policy": "C3_Cancel public events",
   "rank": 11
  },
  {

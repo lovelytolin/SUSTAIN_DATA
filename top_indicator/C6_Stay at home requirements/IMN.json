@@ -1,28 +1,6 @@
 [
  {
   "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 373.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 9,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 9860.020807717772,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 18,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "C6_Stay at home requirements",
@@ -33,18 +11,18 @@
   "year": 2016.0
  },
  {
-  "rank": 34,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
+  "rank": 8,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C6_Stay at home requirements",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 4.2075897300392,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
+  "value": 373.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  },
  {
-  "rank": 51,
+  "rank": 28,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C6_Stay at home requirements",
@@ -55,7 +33,18 @@
   "year": 2020.0
  },
  {
-  "rank": 74,
+  "rank": 50,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4.2075897300392,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 54,
   "Category": "Environment",
   "Indicator": "Access to electricity ",
   "Policy": "C6_Stay at home requirements",
@@ -64,5 +53,16 @@
   "value": 100.0,
   "unit": "percent of population",
   "year": 2018.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 9860.020807717772,
+  "unit": "per 1 million people",
+  "year": 2019.0
  }
 ]

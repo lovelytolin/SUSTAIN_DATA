@@ -1,77 +1,77 @@
 [
  {
   "ISO": "MUS",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H6_Facial Coverings",
   "rank": 1
  },
  {
   "ISO": "MUS",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 2
  },
  {
   "ISO": "MUS",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C6_Stay at home requirements",
   "rank": 3
  },
  {
   "ISO": "MUS",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H7_Vaccination policy",
   "rank": 4
  },
  {
   "ISO": "MUS",
-  "Policy": "C8_International travel controls",
+  "Policy": "H1_Public information campaigns",
   "rank": 5
  },
  {
   "ISO": "MUS",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C8_International travel controls",
   "rank": 6
  },
  {
   "ISO": "MUS",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "MUS",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "E2_Debt/contract relief",
   "rank": 8
  },
  {
   "ISO": "MUS",
-  "Policy": "C1_School closing",
+  "Policy": "E1_Income support",
   "rank": 9
  },
  {
   "ISO": "MUS",
-  "Policy": "C5_Close public transport",
+  "Policy": "C3_Cancel public events",
   "rank": 10
  },
  {
   "ISO": "MUS",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C5_Close public transport",
   "rank": 11
  },
  {
   "ISO": "MUS",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H2_Testing policy",
   "rank": 12
  },
  {
   "ISO": "MUS",
-  "Policy": "H2_Testing policy",
+  "Policy": "H3_Contact tracing",
   "rank": 13
  },
  {
   "ISO": "MUS",
-  "Policy": "E1_Income support",
+  "Policy": "C2_Workplace closing",
   "rank": 14
  },
  {
   "ISO": "MUS",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 15
  }
 ]

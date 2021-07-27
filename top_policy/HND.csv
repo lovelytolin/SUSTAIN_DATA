@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-HND,H7_Vaccination policy,0.1144282530243225,1
-HND,H6_Facial Coverings,0.0868586619966889,2
-HND,E1_Income support,0.0820068615927886,3
-HND,H3_Contact tracing,0.0815513074993831,4
-HND,C5_Close public transport,0.0799288608081958,5
-HND,C8_International travel controls,0.0582302918081231,6
-HND,C2_Workplace closing,0.0548654967784375,7
-HND,H2_Testing policy,0.0543676390226099,8
-HND,E2_Debt/contract relief,0.043666154277576,9
-HND,C6_Stay at home requirements,0.0394994454106363,10
-HND,C1_School closing,0.0359495611030171,11
-HND,H1_Public information campaigns,0.0294675995285664,12
-HND,C7_Restrictions on internal movement,0.0279228238055282,13
-HND,C4_Restrictions on gatherings,0.021312704114203,14
-HND,C3_Cancel public events,0.0203606353700335,15
+HND,H7_Vaccination policy,0.1079630760581227,1
+HND,H6_Facial Coverings,0.0951692082718878,2
+HND,E1_Income support,0.0758469649775974,3
+HND,H3_Contact tracing,0.0719872680908373,4
+HND,H2_Testing policy,0.0665096890052963,5
+HND,C5_Close public transport,0.0658707454218784,6
+HND,C8_International travel controls,0.0644986123465432,7
+HND,C2_Workplace closing,0.0473404919445187,8
+HND,C6_Stay at home requirements,0.0434243890818987,9
+HND,E2_Debt/contract relief,0.0394307821672964,10
+HND,C1_School closing,0.0361628148060461,11
+HND,H1_Public information campaigns,0.0328010401334105,12
+HND,C7_Restrictions on internal movement,0.0260081319668787,13
+HND,C4_Restrictions on gatherings,0.0232406661606352,14
+HND,C3_Cancel public events,0.0,15

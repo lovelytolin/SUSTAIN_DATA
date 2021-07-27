@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-CYP,H7_Vaccination policy,0.1174801229421008,1
-CYP,C1_School closing,0.0766176761821686,2
-CYP,H6_Facial Coverings,0.0659489863829942,3
-CYP,C6_Stay at home requirements,0.0650017875139466,4
-CYP,C7_Restrictions on internal movement,0.063133606875015,5
-CYP,C3_Cancel public events,0.0615245018687827,6
-CYP,H2_Testing policy,0.0604847529784934,7
-CYP,C4_Restrictions on gatherings,0.0602699566178998,8
-CYP,C2_Workplace closing,0.0546384228223309,9
-CYP,C5_Close public transport,0.0535959398122557,10
-CYP,H3_Contact tracing,0.0465438417754036,11
-CYP,C8_International travel controls,0.0444573687042905,12
-CYP,H1_Public information campaigns,0.0431514912441549,13
-CYP,E1_Income support,0.0277684944541258,14
-CYP,E2_Debt/contract relief,0.0185222115605041,15
+CYP,H7_Vaccination policy,0.1226266420023336,1
+CYP,C8_International travel controls,0.084586444354973,2
+CYP,H6_Facial Coverings,0.0784176935566751,3
+CYP,C7_Restrictions on internal movement,0.072309241195802,4
+CYP,C1_School closing,0.0708752516748117,5
+CYP,C6_Stay at home requirements,0.067176500377552,6
+CYP,C2_Workplace closing,0.0609400230351143,7
+CYP,C3_Cancel public events,0.0583992064354864,8
+CYP,H2_Testing policy,0.0565808123675234,9
+CYP,C4_Restrictions on gatherings,0.0509162524642251,10
+CYP,H3_Contact tracing,0.041792083754001,11
+CYP,C5_Close public transport,0.029831629077482,12
+CYP,H1_Public information campaigns,0.0271006474651746,13
+CYP,E1_Income support,0.0206170857991854,14
+CYP,E2_Debt/contract relief,0.0033521417101816,15

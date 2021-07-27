@@ -1,6 +1,6 @@
 [
  {
-  "rank": 4,
+  "rank": 6,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C7_Restrictions on internal movement",
@@ -11,7 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 25,
+  "rank": 30,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
   "Policy": "C7_Restrictions on internal movement",
@@ -22,7 +22,7 @@
   "year": 2015.0
  },
  {
-  "rank": 72,
+  "rank": 73,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C7_Restrictions on internal movement",

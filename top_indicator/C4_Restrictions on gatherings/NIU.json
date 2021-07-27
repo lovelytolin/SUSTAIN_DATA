@@ -1,83 +1,17 @@
 [
  {
-  "rank": 3,
+  "rank": 2,
   "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.210708,
+  "value": 5.5,
   "unit": "percent",
-  "year": 2019.0
+  "year": 2018.0
  },
  {
-  "rank": 16,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.000115,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 20,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.145487,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 22,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 27,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.011615,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 32,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 25.73212,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 33,
+  "rank": 4,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
   "Policy": "C4_Restrictions on gatherings",
@@ -88,18 +22,62 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
+  "rank": 5,
   "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 0.335029,
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 8,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 25.73212,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 11,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.210708,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 48,
+  "rank": 23,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.005076,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 30,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.011615,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 49,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "C4_Restrictions on gatherings",
@@ -112,27 +90,38 @@
  {
   "rank": 53,
   "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 0.005076,
+  "value": 0.335029,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 54,
+  "rank": 57,
   "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 5.5,
+  "value": 0.145487,
   "unit": "percent",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
-  "rank": 63,
+  "rank": 59,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.000115,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
   "Category": "Health",
   "Indicator": "Prevalence of obesity",
   "Policy": "C4_Restrictions on gatherings",
@@ -143,7 +132,18 @@
   "year": 2016.0
  },
  {
-  "rank": 69,
+  "rank": 74,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
   "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "C4_Restrictions on gatherings",
@@ -154,7 +154,7 @@
   "year": 2017.0
  },
  {
-  "rank": 96,
+  "rank": 82,
   "Category": "Economics",
   "Indicator": "Trade, total as % of GDP",
   "Policy": "C4_Restrictions on gatherings",

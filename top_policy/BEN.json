@@ -11,17 +11,17 @@
  },
  {
   "ISO": "BEN",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C8_International travel controls",
   "rank": 3
  },
  {
   "ISO": "BEN",
-  "Policy": "C8_International travel controls",
+  "Policy": "E2_Debt/contract relief",
   "rank": 4
  },
  {
   "ISO": "BEN",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C1_School closing",
   "rank": 5
  },
  {
@@ -36,22 +36,22 @@
  },
  {
   "ISO": "BEN",
-  "Policy": "C5_Close public transport",
+  "Policy": "C3_Cancel public events",
   "rank": 8
  },
  {
   "ISO": "BEN",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C5_Close public transport",
   "rank": 9
  },
  {
   "ISO": "BEN",
-  "Policy": "C1_School closing",
+  "Policy": "H3_Contact tracing",
   "rank": 10
  },
  {
   "ISO": "BEN",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C2_Workplace closing",
   "rank": 11
  },
  {
@@ -61,12 +61,12 @@
  },
  {
   "ISO": "BEN",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 13
  },
  {
   "ISO": "BEN",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H1_Public information campaigns",
   "rank": 14
  },
  {

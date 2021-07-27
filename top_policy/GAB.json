@@ -16,12 +16,12 @@
  },
  {
   "ISO": "GAB",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H1_Public information campaigns",
   "rank": 4
  },
  {
   "ISO": "GAB",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C2_Workplace closing",
   "rank": 5
  },
  {
@@ -31,7 +31,7 @@
  },
  {
   "ISO": "GAB",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H3_Contact tracing",
   "rank": 7
  },
  {
@@ -56,7 +56,7 @@
  },
  {
   "ISO": "GAB",
-  "Policy": "H3_Contact tracing",
+  "Policy": "E2_Debt/contract relief",
   "rank": 12
  },
  {
@@ -66,12 +66,12 @@
  },
  {
   "ISO": "GAB",
-  "Policy": "C8_International travel controls",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 14
  },
  {
   "ISO": "GAB",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C8_International travel controls",
   "rank": 15
  }
 ]

@@ -36,17 +36,17 @@
  },
  {
   "ISO": "DNK",
-  "Policy": "C8_International travel controls",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
   "ISO": "DNK",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C8_International travel controls",
   "rank": 9
  },
  {
   "ISO": "DNK",
-  "Policy": "H2_Testing policy",
+  "Policy": "C6_Stay at home requirements",
   "rank": 10
  },
  {
@@ -56,22 +56,22 @@
  },
  {
   "ISO": "DNK",
-  "Policy": "C5_Close public transport",
+  "Policy": "E1_Income support",
   "rank": 12
  },
  {
   "ISO": "DNK",
-  "Policy": "E1_Income support",
+  "Policy": "H2_Testing policy",
   "rank": 13
  },
  {
   "ISO": "DNK",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H3_Contact tracing",
   "rank": 14
  },
  {
   "ISO": "DNK",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

@@ -12,39 +12,6 @@
  },
  {
   "rank": 2,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 37.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 4,
-  "Category": "Economics",
-  "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 12.7810001,
-  "unit": "percent of total labor force",
-  "year": 2020.0
- },
- {
-  "rank": 10,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 4617.790132036136,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 12,
   "Category": "Economics",
   "Indicator": "Employment in services (% of total employment) (modeled ILO estimate)",
   "Policy": "H2_Testing policy",
@@ -55,73 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 13,
-  "Category": "Social issues ",
-  "Indicator": "Net migration",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 2510.0,
-  "unit": "net total / data are 5 year estimates",
-  "year": 2019.0
- },
- {
-  "rank": 15,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 96.0201,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 16,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 20.4272,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 77719.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 32,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 9.4,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 19.2665,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 39,
+  "rank": 8,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H2_Testing policy",
@@ -132,7 +33,51 @@
   "year": 2020.0
  },
  {
-  "rank": 51,
+  "rank": 11,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 4617.790132036136,
+  "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 14,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 20.4272,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
+  "Category": "Social issues ",
+  "Indicator": "Net migration",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 2510.0,
+  "unit": "net total / data are 5 year estimates",
+  "year": 2019.0
+ },
+ {
+  "rank": 28,
+  "Category": "Economics",
+  "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 12.7810001,
+  "unit": "percent of total labor force",
+  "year": 2020.0
+ },
+ {
+  "rank": 33,
   "Category": "Economics",
   "Indicator": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
   "Policy": "H2_Testing policy",
@@ -143,62 +88,18 @@
   "year": 2020.0
  },
  {
-  "rank": 58,
-  "Category": "Economics",
-  "Indicator": "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 135018.7,
-  "unit": "international $ in PPP",
-  "year": 2020.0
- },
- {
-  "rank": 59,
+  "rank": 34,
   "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "H2_Testing policy",
   "Country": "New Caledonia",
   "ISO": "NCL",
-  "value": 100.0,
-  "unit": "proportion",
-  "year": 2017.0
+  "value": 77719.0,
+  "unit": "number",
+  "year": 2019.0
  },
  {
-  "rank": 60,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 75,
-  "Category": "Economics",
-  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 62.8320007,
-  "unit": "Percentage of total population",
-  "year": 2020.0
- },
- {
-  "rank": 77,
-  "Category": "Demographics",
-  "Indicator": "People using safely managed drinking water services (% of population)",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 96.660852173958,
-  "unit": "proportion",
-  "year": 2017.0
- },
- {
-  "rank": 81,
+  "rank": 36,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
@@ -209,7 +110,7 @@
   "year": 2019.0
  },
  {
-  "rank": 83,
+  "rank": 40,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H2_Testing policy",
@@ -220,7 +121,29 @@
   "year": 2015.0
  },
  {
-  "rank": 85,
+  "rank": 46,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 19.2665,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 50,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 5328.151,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 54,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "H2_Testing policy",
@@ -231,15 +154,70 @@
   "year": 2019.0
  },
  {
-  "rank": 87,
-  "Category": "Social issues ",
-  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
+  "rank": 57,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H2_Testing policy",
   "Country": "New Caledonia",
   "ISO": "NCL",
-  "value": 97.8000030517578,
-  "unit": "proportion",
-  "year": 2014.0
+  "value": 37.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 58,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 71.104,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 9.4,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 96.0201,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Economics",
+  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 62.8320007,
+  "unit": "Percentage of total population",
+  "year": 2020.0
  },
  {
   "rank": 89,
@@ -253,29 +231,29 @@
   "year": 2019.0
  },
  {
+  "rank": 91,
+  "Category": "Social issues ",
+  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 97.8000030517578,
+  "unit": "proportion",
+  "year": 2014.0
+ },
+ {
   "rank": 93,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
+  "Category": "Economics",
+  "Indicator": "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
   "Policy": "H2_Testing policy",
   "Country": "New Caledonia",
   "ISO": "NCL",
-  "value": 5328.151,
-  "unit": "kt",
-  "year": 2016.0
+  "value": 135018.7,
+  "unit": "international $ in PPP",
+  "year": 2020.0
  },
  {
-  "rank": 100,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "H2_Testing policy",
-  "Country": "New Caledonia",
-  "ISO": "NCL",
-  "value": 71.104,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 115,
+  "rank": 97,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio, old (% of working-age population)",
   "Policy": "H2_Testing policy",
@@ -284,5 +262,27 @@
   "value": 13.83442543535351,
   "unit": "proportion",
   "year": 2019.0
+ },
+ {
+  "rank": 103,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 100.0,
+  "unit": "proportion",
+  "year": 2017.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "People using safely managed drinking water services (% of population)",
+  "Policy": "H2_Testing policy",
+  "Country": "New Caledonia",
+  "ISO": "NCL",
+  "value": 96.660852173958,
+  "unit": "proportion",
+  "year": 2017.0
  }
 ]

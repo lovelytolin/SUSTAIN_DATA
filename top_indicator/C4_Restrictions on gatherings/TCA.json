@@ -1,6 +1,6 @@
 [
  {
-  "rank": 3,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C4_Restrictions on gatherings",
@@ -11,73 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 10,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 4000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 21,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 5.917914,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 22,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 6.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 759.3412060433087,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 38,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 5.6543496084,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
- },
- {
-  "rank": 43,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 216.353,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 56,
+  "rank": 7,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "C4_Restrictions on gatherings",
@@ -88,15 +22,81 @@
   "year": 2015.0
  },
  {
-  "rank": 68,
-  "Category": "Social issues ",
-  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "rank": 15,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 129.401412963867,
+  "value": 5.917914,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 16,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 12.0,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 36,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 5.6543496084,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
+ },
+ {
+  "rank": 42,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 216.353,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 50,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 759.3412060433087,
+  "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 56,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 4000.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 6.640000000000001,
   "unit": "proportion",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
   "rank": 71,
@@ -110,7 +110,18 @@
   "year": 2018.0
  },
  {
-  "rank": 78,
+  "rank": 74,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 6.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 77,
   "Category": "Demographics",
   "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "C4_Restrictions on gatherings",
@@ -121,40 +132,29 @@
   "year": 2017.0
  },
  {
-  "rank": 79,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 93.36,
-  "unit": "total",
-  "year": 2019.0
- },
- {
   "rank": 83,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 12.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 84,
   "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 6.640000000000001,
+  "value": 5.0,
   "unit": "proportion",
   "year": 2019.0
  },
  {
-  "rank": 87,
+  "rank": 93,
+  "Category": "Social issues ",
+  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 129.401412963867,
+  "unit": "proportion",
+  "year": 2018.0
+ },
+ {
+  "rank": 95,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C4_Restrictions on gatherings",
@@ -165,14 +165,14 @@
   "year": 2019.0
  },
  {
-  "rank": 94,
+  "rank": 98,
   "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 5.0,
-  "unit": "proportion",
+  "value": 93.36,
+  "unit": "total",
   "year": 2019.0
  }
 ]

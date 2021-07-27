@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-UZB,E2_Debt/contract relief,0.0995536174354361,1
-UZB,C1_School closing,0.086547295077756,2
-UZB,C4_Restrictions on gatherings,0.084627667502866,3
-UZB,C5_Close public transport,0.0737201808649224,4
-UZB,C8_International travel controls,0.0718637938646725,5
-UZB,C2_Workplace closing,0.0707254045655218,6
-UZB,H6_Facial Coverings,0.0696946499493816,7
-UZB,C3_Cancel public events,0.0667061012498146,8
-UZB,C7_Restrictions on internal movement,0.0631926771541392,9
-UZB,H2_Testing policy,0.0366098771813896,10
-UZB,H3_Contact tracing,0.0351710856170476,11
-UZB,H7_Vaccination policy,0.0329455812585147,12
-UZB,E1_Income support,0.0305126784850139,13
-UZB,C6_Stay at home requirements,0.017428030512615,14
-UZB,H1_Public information campaigns,0.0,15
+UZB,E2_Debt/contract relief,0.0971584858296412,1
+UZB,C1_School closing,0.085782362054234,2
+UZB,C5_Close public transport,0.0839538926490227,3
+UZB,H1_Public information campaigns,0.0732370848885772,4
+UZB,C8_International travel controls,0.0716782127070464,5
+UZB,H3_Contact tracing,0.0656581006565088,6
+UZB,H6_Facial Coverings,0.0629816049923917,7
+UZB,C3_Cancel public events,0.0531088012686229,8
+UZB,C7_Restrictions on internal movement,0.0493553742195937,9
+UZB,C2_Workplace closing,0.0448360557059405,10
+UZB,H2_Testing policy,0.042256041513192,11
+UZB,H7_Vaccination policy,0.0407278967052552,12
+UZB,C4_Restrictions on gatherings,0.0369080176964899,13
+UZB,E1_Income support,0.0355602598819792,14
+UZB,C6_Stay at home requirements,0.0089902166453186,15

@@ -11,106 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 5124.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 9,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.263128,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 10,
+  "rank": 2,
   "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
+  "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "H3_Contact tracing",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 18.2095,
-  "unit": "per 100 people",
-  "year": 2019.0
+  "value": 97.5434811165022,
+  "unit": "proportion",
+  "year": 2016.0
  },
  {
-  "rank": 23,
-  "Category": "Social issues ",
-  "Indicator": "Net migration",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1004.0,
-  "unit": "net total / data are 5 year estimates",
-  "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.217238,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 28,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 35000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.029933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.294189,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1401.508738265892,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 44,
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "H3_Contact tracing",
@@ -121,106 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 52,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.357372,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 55,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 8.426911,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 56,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 6.72674756598399,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 63,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 135.134,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 66,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 70,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 2.2,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 71,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 47.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 77,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 883.747,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 83,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "H3_Contact tracing",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 106314.0,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 86,
+  "rank": 4,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "H3_Contact tracing",
@@ -231,18 +44,73 @@
   "year": 2014.0
  },
  {
-  "rank": 87,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
+  "rank": 5,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H3_Contact tracing",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 46.36745370689062,
-  "unit": "proportion",
+  "value": 5124.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 6,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 35000.0,
+  "unit": "number",
   "year": 2019.0
  },
  {
-  "rank": 90,
+  "rank": 15,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 18.2095,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 19,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 6.72674756598399,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 21,
+  "Category": "Social issues ",
+  "Indicator": "Net migration",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1004.0,
+  "unit": "net total / data are 5 year estimates",
+  "year": 2019.0
+ },
+ {
+  "rank": 23,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 2.2,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 30,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H3_Contact tracing",
@@ -253,14 +121,124 @@
   "year": 2019.0
  },
  {
-  "rank": 95,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "rank": 32,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "H3_Contact tracing",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 20.57685688717561,
+  "value": 1.357372,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 34,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.294189,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 40,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 47.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 42,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.029933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 47,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 883.747,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 50,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.217238,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 135.134,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 68,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 8.426911,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 46.36745370689062,
   "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 106314.0,
+  "unit": "total",
   "year": 2019.0
  },
  {
@@ -275,15 +253,26 @@
   "year": 2019.0
  },
  {
-  "rank": 102,
+  "rank": 97,
   "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
   "Policy": "H3_Contact tracing",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 97.5434811165022,
+  "value": 20.57685688717561,
   "unit": "proportion",
-  "year": 2016.0
+  "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1401.508738265892,
+  "unit": "per 1 million people",
+  "year": 2019.0
  },
  {
   "rank": 106,
@@ -295,6 +284,17 @@
   "value": 97.8074188232422,
   "unit": "proportion",
   "year": 2018.0
+ },
+ {
+  "rank": 110,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.263128,
+  "unit": "score",
+  "year": 2019.0
  },
  {
   "rank": 114,

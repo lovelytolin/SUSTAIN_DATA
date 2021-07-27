@@ -41,7 +41,7 @@
  },
  {
   "ISO": "CAN",
-  "Policy": "C3_Cancel public events",
+  "Policy": "E1_Income support",
   "rank": 9
  },
  {
@@ -61,17 +61,17 @@
  },
  {
   "ISO": "CAN",
-  "Policy": "E1_Income support",
+  "Policy": "H1_Public information campaigns",
   "rank": 13
  },
  {
   "ISO": "CAN",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C8_International travel controls",
   "rank": 14
  },
  {
   "ISO": "CAN",
-  "Policy": "C8_International travel controls",
+  "Policy": "C3_Cancel public events",
   "rank": 15
  }
 ]

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-KGZ,H6_Facial Coverings,0.1347513271158243,1
-KGZ,C7_Restrictions on internal movement,0.1112681845350686,2
-KGZ,H7_Vaccination policy,0.0947677025289768,3
-KGZ,H2_Testing policy,0.0749805107557231,4
-KGZ,H3_Contact tracing,0.0698933399702757,5
-KGZ,C8_International travel controls,0.0534504869197839,6
-KGZ,E2_Debt/contract relief,0.0506331283517982,7
-KGZ,C6_Stay at home requirements,0.0473332910281199,8
-KGZ,H1_Public information campaigns,0.03897855529633,9
-KGZ,C1_School closing,0.0385826364124084,10
-KGZ,E1_Income support,0.0360837317251523,11
-KGZ,C3_Cancel public events,0.0307507043575287,12
-KGZ,C5_Close public transport,0.0227275582117975,13
-KGZ,C2_Workplace closing,0.0201523098480937,14
-KGZ,C4_Restrictions on gatherings,0.0174329299594039,15
+KGZ,C1_School closing,0.091556858931556,1
+KGZ,C2_Workplace closing,0.0849073207708156,2
+KGZ,C8_International travel controls,0.0777992301806023,3
+KGZ,H6_Facial Coverings,0.0678655839068786,4
+KGZ,H2_Testing policy,0.0654673844591379,5
+KGZ,C7_Restrictions on internal movement,0.0649628781334701,6
+KGZ,H7_Vaccination policy,0.0639973997307205,7
+KGZ,E1_Income support,0.0594210344709178,8
+KGZ,E2_Debt/contract relief,0.0548538266804096,9
+KGZ,C6_Stay at home requirements,0.0504662340310818,10
+KGZ,H1_Public information campaigns,0.0439065817206012,11
+KGZ,H3_Contact tracing,0.0335583665106586,12
+KGZ,C3_Cancel public events,0.0321109081614634,13
+KGZ,C5_Close public transport,0.0297100701778974,14
+KGZ,C4_Restrictions on gatherings,0.0101687897700016,15

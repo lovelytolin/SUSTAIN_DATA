@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-ERI,E2_Debt/contract relief,0.0918025013159348,1
-ERI,C5_Close public transport,0.0827849156209912,2
-ERI,C4_Restrictions on gatherings,0.0784681304203491,3
-ERI,H6_Facial Coverings,0.0749941884713513,4
-ERI,C1_School closing,0.064811115553648,5
-ERI,C6_Stay at home requirements,0.06430089162454,6
-ERI,H2_Testing policy,0.0622964080676263,7
-ERI,C7_Restrictions on internal movement,0.0583805859187509,8
-ERI,H3_Contact tracing,0.0544986357521145,9
-ERI,H1_Public information campaigns,0.0473264689959209,10
-ERI,C8_International travel controls,0.0330161079738706,11
-ERI,C2_Workplace closing,0.0306348041538466,12
-ERI,E1_Income support,0.028857136209706,13
-ERI,C3_Cancel public events,0.017475839956565,14
+ERI,E2_Debt/contract relief,0.1094509406944576,1
+ERI,C4_Restrictions on gatherings,0.0814823221079153,2
+ERI,H6_Facial Coverings,0.0811016582021033,3
+ERI,C1_School closing,0.077526210072479,4
+ERI,C6_Stay at home requirements,0.0698655858150623,5
+ERI,C7_Restrictions on internal movement,0.0667440290359201,6
+ERI,C2_Workplace closing,0.0569057856089948,7
+ERI,H3_Contact tracing,0.0552873311173852,8
+ERI,H1_Public information campaigns,0.0523568573205388,9
+ERI,C8_International travel controls,0.0389132926489384,10
+ERI,C5_Close public transport,0.037075837576999,11
+ERI,E1_Income support,0.02909549269187,12
+ERI,H2_Testing policy,0.0193071987210009,13
+ERI,C3_Cancel public events,0.0059478701306681,14
 ERI,H7_Vaccination policy,0.0,15

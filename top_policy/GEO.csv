@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-GEO,H6_Facial Coverings,0.1157662003693317,1
-GEO,C8_International travel controls,0.0821111124724979,2
-GEO,C4_Restrictions on gatherings,0.0770781414115588,3
-GEO,H7_Vaccination policy,0.0762424063366069,4
-GEO,C6_Stay at home requirements,0.0703157558934607,5
-GEO,C5_Close public transport,0.0619798827454037,6
-GEO,C7_Restrictions on internal movement,0.0597770881175307,7
-GEO,E2_Debt/contract relief,0.0583436392489946,8
-GEO,C1_School closing,0.0481343334157454,9
-GEO,E1_Income support,0.0478066969492686,10
-GEO,C3_Cancel public events,0.0427650816044434,11
-GEO,H2_Testing policy,0.0381182427290671,12
-GEO,C2_Workplace closing,0.0367986469913212,13
-GEO,H1_Public information campaigns,0.0199404281747486,14
-GEO,H3_Contact tracing,0.019651670748672,15
+GEO,C8_International travel controls,0.1001982792181757,1
+GEO,H6_Facial Coverings,0.0890182387188311,2
+GEO,C6_Stay at home requirements,0.0798414793571143,3
+GEO,C5_Close public transport,0.0763984836742386,4
+GEO,C1_School closing,0.0708232080804141,5
+GEO,C4_Restrictions on gatherings,0.0708230475968177,6
+GEO,C7_Restrictions on internal movement,0.0694611740478524,7
+GEO,H7_Vaccination policy,0.0537347321847466,8
+GEO,E2_Debt/contract relief,0.0521812232701144,9
+GEO,H2_Testing policy,0.0469554592601068,10
+GEO,C3_Cancel public events,0.0457071160576826,11
+GEO,C2_Workplace closing,0.0396033221730389,12
+GEO,H3_Contact tracing,0.0306931261770431,13
+GEO,H1_Public information campaigns,0.0233454833478069,14
+GEO,E1_Income support,0.0,15

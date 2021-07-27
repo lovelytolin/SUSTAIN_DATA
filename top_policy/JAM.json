@@ -26,7 +26,7 @@
  },
  {
   "ISO": "JAM",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "E1_Income support",
   "rank": 6
  },
  {
@@ -36,7 +36,7 @@
  },
  {
   "ISO": "JAM",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 8
  },
  {
@@ -56,17 +56,17 @@
  },
  {
   "ISO": "JAM",
-  "Policy": "E1_Income support",
+  "Policy": "C6_Stay at home requirements",
   "rank": 12
  },
  {
   "ISO": "JAM",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H6_Facial Coverings",
   "rank": 13
  },
  {
   "ISO": "JAM",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C3_Cancel public events",
   "rank": 14
  },
  {

@@ -22,7 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 10,
+  "rank": 12,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "H6_Facial Coverings",
@@ -33,7 +33,18 @@
   "year": 2016.0
  },
  {
-  "rank": 19,
+  "rank": 13,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 16,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H6_Facial Coverings",
@@ -44,29 +55,7 @@
   "year": 2019.0
  },
  {
-  "rank": 22,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 116.474,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 27,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 13.09289,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 31,
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "H6_Facial Coverings",
@@ -77,18 +66,7 @@
   "year": 2019.0
  },
  {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 18021.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -99,7 +77,40 @@
   "year": 2020.0
  },
  {
-  "rank": 70,
+  "rank": 53,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 13.09289,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 55,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 116.474,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 58,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 18021.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 76,
   "Category": "Environment",
   "Indicator": "Access to electricity ",
   "Policy": "H6_Facial Coverings",
@@ -108,16 +119,5 @@
   "value": 100.0,
   "unit": "percent of population",
   "year": 2018.0
- },
- {
-  "rank": 74,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
  }
 ]

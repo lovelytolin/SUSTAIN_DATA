@@ -1,12 +1,12 @@
 [
  {
   "ISO": "GHA",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H7_Vaccination policy",
   "rank": 1
  },
  {
   "ISO": "GHA",
-  "Policy": "C1_School closing",
+  "Policy": "H6_Facial Coverings",
   "rank": 2
  },
  {
@@ -16,7 +16,7 @@
  },
  {
   "ISO": "GHA",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C2_Workplace closing",
   "rank": 4
  },
  {
@@ -31,42 +31,42 @@
  },
  {
   "ISO": "GHA",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "GHA",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
   "ISO": "GHA",
-  "Policy": "C5_Close public transport",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
   "ISO": "GHA",
-  "Policy": "H2_Testing policy",
+  "Policy": "H3_Contact tracing",
   "rank": 10
  },
  {
   "ISO": "GHA",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 11
  },
  {
   "ISO": "GHA",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H1_Public information campaigns",
   "rank": 12
  },
  {
   "ISO": "GHA",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 13
  },
  {
   "ISO": "GHA",
-  "Policy": "E1_Income support",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 14
  },
  {

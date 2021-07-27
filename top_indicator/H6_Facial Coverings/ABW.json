@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 0.8573601,
-  "unit": "score",
-  "year": 2019.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
@@ -33,18 +22,18 @@
   "year": 2020.0
  },
  {
-  "rank": 8,
+  "rank": 7,
   "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "H6_Facial Coverings",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1.294189,
+  "value": 0.8573601,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 10,
+  "rank": 12,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "H6_Facial Coverings",
@@ -55,29 +44,18 @@
   "year": 2016.0
  },
  {
-  "rank": 14,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
+  "rank": 13,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "H6_Facial Coverings",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1.263128,
-  "unit": "score",
-  "year": 2019.0
+  "value": 6.72674756598399,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  },
  {
-  "rank": 15,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 2.2,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 19,
+  "rank": 16,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H6_Facial Coverings",
@@ -88,7 +66,7 @@
   "year": 2019.0
  },
  {
-  "rank": 20,
+  "rank": 17,
   "Category": "Social issues ",
   "Indicator": "Net migration",
   "Policy": "H6_Facial Coverings",
@@ -99,40 +77,7 @@
   "year": 2019.0
  },
  {
-  "rank": 22,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 135.134,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 27,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 8.426911,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.029933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 31,
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "H6_Facial Coverings",
@@ -140,6 +85,17 @@
   "ISO": "ABW",
   "value": 1401.508738265892,
   "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 43.546,
+  "unit": "total",
   "year": 2019.0
  },
  {
@@ -154,51 +110,7 @@
   "year": 2014.0
  },
  {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 35000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 20.57685688717561,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 52,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.217238,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 62,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.357372,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -209,40 +121,51 @@
   "year": 2020.0
  },
  {
-  "rank": 68,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
+  "rank": 50,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H6_Facial Coverings",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 106314.0,
-  "unit": "total",
+  "value": 2.2,
+  "unit": "Cases",
   "year": 2019.0
  },
  {
-  "rank": 69,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 46.36745370689062,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 70,
+  "rank": 53,
   "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "H6_Facial Coverings",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 8.426911,
+  "unit": "metric tons per capita",
+  "year": 2016.0
  },
  {
-  "rank": 73,
+  "rank": 55,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 135.134,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 58,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 35000.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H6_Facial Coverings",
@@ -253,18 +176,40 @@
   "year": 2019.0
  },
  {
-  "rank": 74,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
   "Policy": "H6_Facial Coverings",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 6.72674756598399,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
+  "value": 20.57685688717561,
+  "unit": "proportion",
+  "year": 2019.0
  },
  {
-  "rank": 79,
+  "rank": 65,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.357372,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.217238,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 70,
   "Category": "Demographics",
   "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "H6_Facial Coverings",
@@ -275,7 +220,73 @@
   "year": 2016.0
  },
  {
-  "rank": 88,
+  "rank": 76,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 77,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.294189,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 82,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.263128,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 106314.0,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 90,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.029933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 46.36745370689062,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 115,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
   "Policy": "H6_Facial Coverings",
@@ -286,18 +297,7 @@
   "year": 2014.0
  },
  {
-  "rank": 101,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 43.546,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 110,
+  "rank": 116,
   "Category": "Social issues ",
   "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
   "Policy": "H6_Facial Coverings",

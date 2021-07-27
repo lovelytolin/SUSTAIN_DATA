@@ -11,17 +11,17 @@
  },
  {
   "ISO": "UGA",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C3_Cancel public events",
   "rank": 3
  },
  {
   "ISO": "UGA",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "E2_Debt/contract relief",
   "rank": 4
  },
  {
   "ISO": "UGA",
-  "Policy": "E1_Income support",
+  "Policy": "H6_Facial Coverings",
   "rank": 5
  },
  {
@@ -31,12 +31,12 @@
  },
  {
   "ISO": "UGA",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 7
  },
  {
   "ISO": "UGA",
-  "Policy": "C1_School closing",
+  "Policy": "H3_Contact tracing",
   "rank": 8
  },
  {
@@ -46,7 +46,7 @@
  },
  {
   "ISO": "UGA",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C1_School closing",
   "rank": 10
  },
  {
@@ -66,12 +66,12 @@
  },
  {
   "ISO": "UGA",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "E1_Income support",
   "rank": 14
  },
  {
   "ISO": "UGA",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C6_Stay at home requirements",
   "rank": 15
  }
 ]

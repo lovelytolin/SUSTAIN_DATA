@@ -1,12 +1,23 @@
 [
  {
-  "rank": 2,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "rank": 3,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "C1_School closing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 0.400737,
+  "value": 1.40276,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 7,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.025099,
   "unit": "percent",
   "year": 2019.0
  },
@@ -22,139 +33,7 @@
   "year": 2018.0
  },
  {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.162673,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
   "rank": 11,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.436754,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 20,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 21,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 26,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 22.63303,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 32,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.045266,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.025099,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 37,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.004969,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 38,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.40276,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 44,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.04188,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.7195977,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 49,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "C1_School closing",
@@ -165,7 +44,29 @@
   "year": 2019.0
  },
  {
-  "rank": 60,
+  "rank": 14,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 22.63303,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 16,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.004969,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 20,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "C1_School closing",
@@ -176,7 +77,139 @@
   "year": 2021.0
  },
  {
-  "rank": 63,
+  "rank": 26,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.9959083,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 27,
+  "Category": "Social issues ",
+  "Indicator": "Life Ladder ",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 6.584400177001953,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 28,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score ",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 33,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 36,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 38,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.04188,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 39,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.69e-05,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 43,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score ",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 48,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 23.76,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 51,
+  "Category": "Economics",
+  "Indicator": "Expenditure on social protection (% of GDP)",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 3.2,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 59,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.162673,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.035913,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "C1_School closing",
@@ -188,83 +221,28 @@
  },
  {
   "rank": 68,
-  "Category": "Social issues ",
-  "Indicator": "Life Ladder ",
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "C1_School closing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 6.584400177001953,
+  "value": 1.436754,
   "unit": "score",
-  "year": 2021.0
+  "year": 2019.0
  },
  {
   "rank": 69,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.035913,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 70,
   "Category": "Governance",
-  "Indicator": "Corruption Perceptions Index",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C1_School closing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 65.0,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 72,
-  "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.42,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 75,
-  "Category": "Economics",
-  "Indicator": "Lending interest rates, percent per annum",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 2.631,
-  "unit": "percent per annum",
-  "year": 2019.0
- },
- {
-  "rank": 79,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 80,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.9959083,
+  "value": 0.7195977,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 81,
+  "rank": 71,
   "Category": "Economics",
   "Indicator": "Expenditure on education (% of GDP)",
   "Policy": "C1_School closing",
@@ -275,29 +253,7 @@
   "year": 2018.0
  },
  {
-  "rank": 89,
-  "Category": "Economics",
-  "Indicator": "Expenditure on social protection (% of GDP)",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 3.2,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 90,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.69e-05,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 94,
+  "rank": 75,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
   "Policy": "C1_School closing",
@@ -308,29 +264,7 @@
   "year": 2018.0
  },
  {
-  "rank": 95,
-  "Category": "Economics",
-  "Indicator": "International tourism, receipts",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 14373000000.0,
-  "unit": "US Dollar",
-  "year": 2019.0
- },
- {
-  "rank": 98,
-  "Category": "Economics",
-  "Indicator": "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
-  "Policy": "C1_School closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 93781.7,
-  "unit": "international $ in PPP",
-  "year": 2020.0
- },
- {
-  "rank": 107,
+  "rank": 78,
   "Category": "Economics",
   "Indicator": "Trade, total as % of GDP",
   "Policy": "C1_School closing",
@@ -341,7 +275,62 @@
   "year": 2019.0
  },
  {
-  "rank": 111,
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Foreign direct investment, net",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8245000000.0,
+  "unit": "US Dollar",
+  "year": 2019.0
+ },
+ {
+  "rank": 84,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.045266,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 86,
+  "Category": "Economics",
+  "Indicator": "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 93781.7,
+  "unit": "international $ in PPP",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "International tourism, receipts",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 14373000000.0,
+  "unit": "US Dollar",
+  "year": 2019.0
+ },
+ {
+  "rank": 91,
+  "Category": "Economics",
+  "Indicator": "Lending interest rates, percent per annum",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 2.631,
+  "unit": "percent per annum",
+  "year": 2019.0
+ },
+ {
+  "rank": 95,
   "Category": "Economics",
   "Indicator": "Stock market capitalization (US$ million)",
   "Policy": "C1_School closing",
@@ -352,14 +341,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Economics",
-  "Indicator": "Foreign direct investment, net",
+  "rank": 98,
+  "Category": "Governance",
+  "Indicator": "Corruption Perceptions Index",
   "Policy": "C1_School closing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 8245000000.0,
-  "unit": "US Dollar",
+  "value": 65.0,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 99,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "C1_School closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.400737,
+  "unit": "percent",
   "year": 2019.0
  }
 ]

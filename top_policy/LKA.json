@@ -6,7 +6,7 @@
  },
  {
   "ISO": "LKA",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C8_International travel controls",
   "rank": 2
  },
  {
@@ -16,7 +16,7 @@
  },
  {
   "ISO": "LKA",
-  "Policy": "C8_International travel controls",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 4
  },
  {
@@ -36,17 +36,17 @@
  },
  {
   "ISO": "LKA",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C3_Cancel public events",
   "rank": 8
  },
  {
   "ISO": "LKA",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H6_Facial Coverings",
   "rank": 9
  },
  {
   "ISO": "LKA",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "E2_Debt/contract relief",
   "rank": 10
  },
  {
@@ -61,17 +61,17 @@
  },
  {
   "ISO": "LKA",
-  "Policy": "E1_Income support",
+  "Policy": "H3_Contact tracing",
   "rank": 13
  },
  {
   "ISO": "LKA",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "E1_Income support",
   "rank": 14
  },
  {
   "ISO": "LKA",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 15
  }
 ]

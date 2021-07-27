@@ -6,42 +6,42 @@
  },
  {
   "ISO": "YEM",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H2_Testing policy",
   "rank": 2
  },
  {
   "ISO": "YEM",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C3_Cancel public events",
   "rank": 3
  },
  {
   "ISO": "YEM",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C2_Workplace closing",
   "rank": 4
  },
  {
   "ISO": "YEM",
-  "Policy": "C8_International travel controls",
+  "Policy": "C6_Stay at home requirements",
   "rank": 5
  },
  {
   "ISO": "YEM",
-  "Policy": "C1_School closing",
+  "Policy": "C8_International travel controls",
   "rank": 6
  },
  {
   "ISO": "YEM",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H6_Facial Coverings",
   "rank": 7
  },
  {
   "ISO": "YEM",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C1_School closing",
   "rank": 8
  },
  {
   "ISO": "YEM",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H3_Contact tracing",
   "rank": 9
  },
  {
@@ -51,17 +51,17 @@
  },
  {
   "ISO": "YEM",
-  "Policy": "E1_Income support",
+  "Policy": "H1_Public information campaigns",
   "rank": 11
  },
  {
   "ISO": "YEM",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 12
  },
  {
   "ISO": "YEM",
-  "Policy": "H2_Testing policy",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 13
  },
  {

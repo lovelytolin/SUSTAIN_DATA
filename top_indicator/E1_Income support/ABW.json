@@ -11,7 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
+  "rank": 2,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 97.5434811165022,
+  "unit": "proportion",
+  "year": 2016.0
+ },
+ {
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "E1_Income support",
@@ -22,18 +33,40 @@
   "year": 2019.0
  },
  {
-  "rank": 11,
-  "Category": "Social issues ",
-  "Indicator": "Net migration",
+  "rank": 4,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "E1_Income support",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1004.0,
-  "unit": "net total / data are 5 year estimates",
+  "value": 5124.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 6,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.9272278754,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
+ },
+ {
+  "rank": 7,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 35000.0,
+  "unit": "number",
   "year": 2019.0
  },
  {
-  "rank": 13,
+  "rank": 15,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "E1_Income support",
@@ -45,105 +78,6 @@
  },
  {
   "rank": 17,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 6.72674756598399,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 22,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 883.747,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 24,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.263128,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 28,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.9272278754,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
- },
- {
-  "rank": 31,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 46.36745370689062,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.029933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.294189,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 41,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 35000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 47,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 2.2,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 52,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "E1_Income support",
@@ -154,29 +88,29 @@
   "year": 2019.0
  },
  {
-  "rank": 59,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "rank": 18,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
   "Policy": "E1_Income support",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 20.57685688717561,
-  "unit": "proportion",
+  "value": 1.263128,
+  "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 60,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "rank": 20,
+  "Category": "Social issues ",
+  "Indicator": "Net migration",
   "Policy": "E1_Income support",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 5124.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1004.0,
+  "unit": "net total / data are 5 year estimates",
+  "year": 2019.0
  },
  {
-  "rank": 63,
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "E1_Income support",
@@ -187,7 +121,7 @@
   "year": 2019.0
  },
  {
-  "rank": 65,
+  "rank": 29,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "E1_Income support",
@@ -198,29 +132,40 @@
   "year": 2019.0
  },
  {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 32,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "E1_Income support",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 2.2,
+  "unit": "Cases",
+  "year": 2019.0
  },
  {
-  "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
+  "rank": 33,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "E1_Income support",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 97.5434811165022,
-  "unit": "proportion",
+  "value": 6.72674756598399,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 37,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 883.747,
+  "unit": "kt",
   "year": 2016.0
  },
  {
-  "rank": 81,
+  "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
@@ -231,40 +176,7 @@
   "year": 2020.0
  },
  {
-  "rank": 83,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 8.426911,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 85,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 106314.0,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 97,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "E1_Income support",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 43.546,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 103,
+  "rank": 52,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "E1_Income support",
@@ -275,18 +187,29 @@
   "year": 2019.0
  },
  {
-  "rank": 106,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "rank": 73,
+  "Category": "Social issues ",
+  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
   "Policy": "E1_Income support",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1.357372,
-  "unit": "score",
+  "value": 97.8074188232422,
+  "unit": "proportion",
+  "year": 2018.0
+ },
+ {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 20.57685688717561,
+  "unit": "proportion",
   "year": 2019.0
  },
  {
-  "rank": 109,
+  "rank": 82,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
   "Policy": "E1_Income support",
@@ -297,14 +220,91 @@
   "year": 2014.0
  },
  {
-  "rank": 115,
-  "Category": "Social issues ",
-  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
+  "rank": 83,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
   "Policy": "E1_Income support",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 97.8074188232422,
+  "value": 1.294189,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 84,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 8.426911,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 106314.0,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 88,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.357372,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 92,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.029933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 43.546,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 46.36745370689062,
   "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 117,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "E1_Income support",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 100.0,
+  "unit": "percent of population",
   "year": 2018.0
  }
 ]

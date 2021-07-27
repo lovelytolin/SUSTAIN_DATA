@@ -22,7 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 11,
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H6_Facial Coverings",
@@ -33,29 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.111261,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 27.98347,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 37,
+  "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "H6_Facial Coverings",
@@ -66,18 +44,7 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 54,
+  "rank": 23,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H6_Facial Coverings",
@@ -88,7 +55,29 @@
   "year": 2019.0
  },
  {
-  "rank": 59,
+  "rank": 30,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 31,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.111261,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 41,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
   "Policy": "H6_Facial Coverings",
@@ -99,7 +88,7 @@
   "year": 2019.0
  },
  {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -110,7 +99,7 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
+  "rank": 48,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H6_Facial Coverings",
@@ -118,6 +107,17 @@
   "ISO": "TKL",
   "value": 0.003708,
   "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 27.98347,
+  "unit": "Rate (risk-weighted prevalence)",
   "year": 2019.0
  }
 ]

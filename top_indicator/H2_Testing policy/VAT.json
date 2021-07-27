@@ -1,6 +1,17 @@
 [
  {
-  "rank": 2,
+  "rank": 8,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Vatican City",
+  "ISO": "VAT",
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 57,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H2_Testing policy",
@@ -11,7 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 33,
+  "rank": 64,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
   "Policy": "H2_Testing policy",
@@ -20,16 +31,5 @@
   "value": 0.0,
   "unit": "rate",
   "year": 2015.0
- },
- {
-  "rank": 39,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Vatican City",
-  "ISO": "VAT",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  }
 ]

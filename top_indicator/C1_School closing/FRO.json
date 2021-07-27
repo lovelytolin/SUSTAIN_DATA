@@ -11,84 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 534.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 15,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "C1_School closing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 37.328,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 23,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C1_School closing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 28,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C1_School closing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 116.474,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 29,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "C1_School closing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 13.09289,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 40,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C1_School closing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 41,
+  "rank": 5,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
   "Policy": "C1_School closing",
@@ -99,7 +22,84 @@
   "year": 2019.0
  },
  {
-  "rank": 55,
+  "rank": 9,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C1_School closing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 534.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 13,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "C1_School closing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 630.724,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 17,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "C1_School closing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 37.328,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C1_School closing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 116.474,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 35,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "C1_School closing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 13.09289,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 56,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C1_School closing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 67,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "C1_School closing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 80,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "C1_School closing",
@@ -110,14 +110,14 @@
   "year": 2019.0
  },
  {
-  "rank": 65,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
+  "rank": 89,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C1_School closing",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 630.724,
-  "unit": "kt",
-  "year": 2016.0
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  }
 ]

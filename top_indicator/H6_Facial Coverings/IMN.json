@@ -11,7 +11,18 @@
   "year": 2020.0
  },
  {
-  "rank": 31,
+  "rank": 13,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4.2075897300392,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "H6_Facial Coverings",
@@ -33,7 +44,7 @@
   "year": 2016.0
  },
  {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -44,7 +55,7 @@
   "year": 2020.0
  },
  {
-  "rank": 70,
+  "rank": 76,
   "Category": "Environment",
   "Indicator": "Access to electricity ",
   "Policy": "H6_Facial Coverings",
@@ -53,16 +64,5 @@
   "value": 100.0,
   "unit": "percent of population",
   "year": 2018.0
- },
- {
-  "rank": 74,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4.2075897300392,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
  }
 ]

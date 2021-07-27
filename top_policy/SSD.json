@@ -16,27 +16,27 @@
  },
  {
   "ISO": "SSD",
-  "Policy": "H2_Testing policy",
+  "Policy": "C8_International travel controls",
   "rank": 4
  },
  {
   "ISO": "SSD",
-  "Policy": "C5_Close public transport",
+  "Policy": "H2_Testing policy",
   "rank": 5
  },
  {
   "ISO": "SSD",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C5_Close public transport",
   "rank": 6
  },
  {
   "ISO": "SSD",
-  "Policy": "C8_International travel controls",
+  "Policy": "H3_Contact tracing",
   "rank": 7
  },
  {
   "ISO": "SSD",
-  "Policy": "E1_Income support",
+  "Policy": "C1_School closing",
   "rank": 8
  },
  {
@@ -46,7 +46,7 @@
  },
  {
   "ISO": "SSD",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "E1_Income support",
   "rank": 10
  },
  {
@@ -61,17 +61,17 @@
  },
  {
   "ISO": "SSD",
-  "Policy": "C1_School closing",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 13
  },
  {
   "ISO": "SSD",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E2_Debt/contract relief",
   "rank": 14
  },
  {
   "ISO": "SSD",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

@@ -22,6 +22,17 @@
   "year": 2019.0
  },
  {
+  "rank": 4,
+  "Category": "Health",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 20.1609,
+  "unit": "Ones",
+  "year": 2014.0
+ },
+ {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
@@ -33,29 +44,18 @@
   "year": 2020.0
  },
  {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 20.1609,
-  "unit": "Ones",
-  "year": 2014.0
- },
- {
   "rank": 8,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 0.6848723,
-  "unit": "score",
-  "year": 2019.0
+  "value": 1.4,
+  "unit": "percent",
+  "year": 2018.0
  },
  {
-  "rank": 11,
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H6_Facial Coverings",
@@ -66,40 +66,29 @@
   "year": 2019.0
  },
  {
-  "rank": 12,
+  "rank": 10,
   "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
+  "Indicator": "Prevalence of total cancers",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 0.096562,
+  "value": 0.065458,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "rank": 11,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 0.0,
-  "unit": "Cases",
-  "year": 2019.0
+  "value": 83.0,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 17,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 25.30811,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 19,
+  "rank": 16,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H6_Facial Coverings",
@@ -110,40 +99,18 @@
   "year": 2019.0
  },
  {
-  "rank": 22,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 86.7031,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 57.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 26,
+  "rank": 23,
   "Category": "Health",
-  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 99.0,
+  "value": 0.125618,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 31,
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "H6_Facial Coverings",
@@ -154,37 +121,48 @@
   "year": 2019.0
  },
  {
-  "rank": 33,
-  "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "rank": 29,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 88.0,
+  "value": 57.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 30,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 0.000496,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 34,
+  "rank": 31,
   "Category": "Health",
-  "Indicator": "Physicians (per 1,000 people)",
+  "Indicator": "Prevalence of Diabetes",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 7.5067,
-  "unit": "Ones",
-  "year": 2014.0
- },
- {
-  "rank": 37,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 0.065458,
+  "value": 0.096562,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 36,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 33.33333333,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 38,
@@ -198,73 +176,7 @@
   "year": 2015.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 0.000496,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 43,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 83.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 44,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 1.4,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Serious assault (rate)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 522.23,
-  "unit": "rate",
-  "year": 2015.0
- },
- {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 44119.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 54,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 0.125618,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 59,
+  "rank": 41,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
   "Policy": "H6_Facial Coverings",
@@ -275,18 +187,7 @@
   "year": 2019.0
  },
  {
-  "rank": 62,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 1.591874,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -297,7 +198,7 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
+  "rank": 48,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H6_Facial Coverings",
@@ -308,7 +209,106 @@
   "year": 2019.0
  },
  {
-  "rank": 70,
+  "rank": 50,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 0.0,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 52,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 26.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Serious assault (rate)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 522.23,
+  "unit": "rate",
+  "year": 2015.0
+ },
+ {
+  "rank": 55,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 86.7031,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Health",
+  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 99.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 58,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 44119.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 25.30811,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 1.591874,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
+  "Category": "Health",
+  "Indicator": "Physicians (per 1,000 people)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 7.5067,
+  "unit": "Ones",
+  "year": 2014.0
+ },
+ {
+  "rank": 76,
   "Category": "Environment",
   "Indicator": "Access to electricity ",
   "Policy": "H6_Facial Coverings",
@@ -319,25 +319,25 @@
   "year": 2018.0
  },
  {
-  "rank": 75,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "rank": 77,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 33.33333333,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 0.6848723,
+  "unit": "score",
+  "year": 2019.0
  },
  {
-  "rank": 114,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
+  "rank": 88,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 26.0,
-  "unit": "score",
-  "year": 2021.0
+  "value": 88.0,
+  "unit": "percent",
+  "year": 2019.0
  }
 ]

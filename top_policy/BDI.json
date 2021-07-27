@@ -31,12 +31,12 @@
  },
  {
   "ISO": "BDI",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "BDI",
-  "Policy": "C1_School closing",
+  "Policy": "H3_Contact tracing",
   "rank": 8
  },
  {

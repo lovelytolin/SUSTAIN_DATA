@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-RWA,H7_Vaccination policy,0.1077504855087247,1
-RWA,C3_Cancel public events,0.106060280725881,2
-RWA,C4_Restrictions on gatherings,0.0959665258824778,3
-RWA,H2_Testing policy,0.0841774676786181,4
-RWA,H6_Facial Coverings,0.0823989664803144,5
-RWA,C8_International travel controls,0.0759045332977299,6
-RWA,C7_Restrictions on internal movement,0.0682247177845452,7
-RWA,C1_School closing,0.0677905387132763,8
-RWA,C5_Close public transport,0.0503381291089041,9
-RWA,C2_Workplace closing,0.0423448515199742,10
-RWA,C6_Stay at home requirements,0.0346241475137046,11
-RWA,E2_Debt/contract relief,0.0243816928540847,12
-RWA,H1_Public information campaigns,0.0096252604632855,13
-RWA,E1_Income support,0.009003909113312,14
-RWA,H3_Contact tracing,0.0063828729954473,15
+RWA,H7_Vaccination policy,0.0989479198858776,1
+RWA,H1_Public information campaigns,0.0846576870621665,2
+RWA,C3_Cancel public events,0.0701746329884959,3
+RWA,C4_Restrictions on gatherings,0.0679171571028177,4
+RWA,H2_Testing policy,0.0623309478279238,5
+RWA,H6_Facial Coverings,0.0584993066865302,6
+RWA,C8_International travel controls,0.0583723050896808,7
+RWA,C7_Restrictions on internal movement,0.0576616958736762,8
+RWA,C1_School closing,0.0544299506299095,9
+RWA,C5_Close public transport,0.0524951998918633,10
+RWA,C2_Workplace closing,0.0481066212977777,11
+RWA,C6_Stay at home requirements,0.0412535519873961,12
+RWA,E2_Debt/contract relief,0.0359491876861927,13
+RWA,E1_Income support,0.0325200814563655,14
+RWA,H3_Contact tracing,0.0202128335949331,15

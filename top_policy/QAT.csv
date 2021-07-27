@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-QAT,H7_Vaccination policy,0.1211013578402995,1
-QAT,H2_Testing policy,0.1155400774841417,2
-QAT,C8_International travel controls,0.1062465461051544,3
-QAT,C5_Close public transport,0.0785791277897726,4
-QAT,C3_Cancel public events,0.0779134409467622,5
-QAT,C2_Workplace closing,0.076043054124071,6
-QAT,E2_Debt/contract relief,0.0593512699393129,7
-QAT,H6_Facial Coverings,0.057761144274114,8
-QAT,C6_Stay at home requirements,0.0506681770431717,9
-QAT,C7_Restrictions on internal movement,0.0449754195539527,10
-QAT,C4_Restrictions on gatherings,0.0358007547051969,11
-QAT,E1_Income support,0.0346979616191781,12
-QAT,C1_School closing,0.0287489025670696,13
-QAT,H3_Contact tracing,0.023067034487728,14
-QAT,H1_Public information campaigns,0.0035588957066395,15
+QAT,H7_Vaccination policy,0.1077504855087247,1
+QAT,H2_Testing policy,0.106060280725881,2
+QAT,C8_International travel controls,0.0959665258824778,3
+QAT,C2_Workplace closing,0.0899163140691771,4
+QAT,C1_School closing,0.0841774676786181,5
+QAT,E2_Debt/contract relief,0.0823989664803144,6
+QAT,H6_Facial Coverings,0.0759045332977299,7
+QAT,C6_Stay at home requirements,0.0682247177845452,8
+QAT,C7_Restrictions on internal movement,0.0677905387132763,9
+QAT,C4_Restrictions on gatherings,0.0503381291089041,10
+QAT,H1_Public information campaigns,0.0423448515199742,11
+QAT,C5_Close public transport,0.0346241475137046,12
+QAT,C3_Cancel public events,0.0108237418837701,13
+QAT,H3_Contact tracing,0.0096252604632855,14
+QAT,E1_Income support,0.0,15

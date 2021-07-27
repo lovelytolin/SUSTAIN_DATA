@@ -1,50 +1,6 @@
 [
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 10.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 11,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C1_School closing",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 0.8158239,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 23,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 32,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "C1_School closing",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 1.234392,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 38,
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "C1_School closing",
@@ -55,7 +11,40 @@
   "year": 2019.0
  },
  {
-  "rank": 45,
+  "rank": 9,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C1_School closing",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 10.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 65,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "C1_School closing",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.3557367,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C1_School closing",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.8158239,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C1_School closing",
@@ -66,14 +55,25 @@
   "year": 2019.0
  },
  {
-  "rank": 63,
+  "rank": 84,
   "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
+  "Indicator": "Control of corruption estimate",
   "Policy": "C1_School closing",
   "Country": "Anguilla",
   "ISO": "AIA",
-  "value": 0.3557367,
+  "value": 1.234392,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C1_School closing",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  }
 ]

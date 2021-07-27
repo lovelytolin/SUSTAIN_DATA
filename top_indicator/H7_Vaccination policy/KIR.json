@@ -33,7 +33,7 @@
   "year": 2018.0
  },
  {
-  "rank": 6,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -45,50 +45,17 @@
  },
  {
   "rank": 7,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "H7_Vaccination policy",
   "Country": "Kiribati",
   "ISO": "KIR",
-  "value": 34.87527,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
+  "value": 37.0,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 8,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 20.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.586595,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 13,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.00563,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 14,
+  "rank": 9,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H7_Vaccination policy",
@@ -99,29 +66,51 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
+  "rank": 10,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "H7_Vaccination policy",
   "Country": "Kiribati",
   "ISO": "KIR",
-  "value": 4.25399869303377,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
+  "value": 20.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 13,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.100787,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 14,
+  "Category": "Social issues ",
+  "Indicator": "Net migration",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": -3999.0,
+  "unit": "net total / data are 5 year estimates",
+  "year": 2019.0
+ },
+ {
+  "rank": 15,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.00563,
+  "unit": "percent",
+  "year": 2019.0
  },
  {
   "rank": 16,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 9.3,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 17,
   "Category": "Health",
   "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
   "Policy": "H7_Vaccination policy",
@@ -130,6 +119,17 @@
   "value": 97.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 17,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 9.3,
+  "unit": "percent",
+  "year": 2018.0
  },
  {
   "rank": 18,
@@ -143,7 +143,40 @@
   "year": 2019.0
  },
  {
-  "rank": 23,
+  "rank": 19,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 66.006,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 21,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 94.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 6.794797401531342,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H7_Vaccination policy",
@@ -155,116 +188,6 @@
  },
  {
   "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 6.794797401531342,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 26,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 8.888888889,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 28,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 66.006,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 30,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.7377026,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 31,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 3.8342,
-  "unit": "Ones",
-  "year": 2018.0
- },
- {
-  "rank": 33,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.040167,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Social issues ",
-  "Indicator": "Net migration",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": -3999.0,
-  "unit": "net total / data are 5 year estimates",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.081214,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 39,
-  "Category": "Health",
-  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 2.4,
-  "unit": "percent",
-  "year": 2020.0
- },
- {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.456248,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 43,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, mean annual exposure",
   "Policy": "H7_Vaccination policy",
@@ -275,7 +198,40 @@
   "year": 2017.0
  },
  {
-  "rank": 45,
+  "rank": 27,
+  "Category": "Economics",
+  "Indicator": "Volume of imports",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 3.047,
+  "unit": "percent change",
+  "year": 2020.0
+ },
+ {
+  "rank": 28,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 8.888888889,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 32,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 56.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 34,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -286,7 +242,51 @@
   "year": 2020.0
  },
  {
+  "rank": 37,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.7377026,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 38,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of women in managerial positions (%)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 37.22,
+  "unit": "percent",
+  "year": 2015.0
+ },
+ {
+  "rank": 40,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 1.204567,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
   "rank": 46,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.3710443,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 48,
   "Category": "Economics",
   "Indicator": "Volume of exports",
   "Policy": "H7_Vaccination policy",
@@ -298,149 +298,6 @@
  },
  {
   "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 46.4755,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 37.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 52,
-  "Category": "Social issues ",
-  "Indicator": "Primary completion rate, total (% of relevant age group)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 100.869567871094,
-  "unit": "proportion",
-  "year": 2016.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 94.0,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 56,
-  "Category": "Governance",
-  "Indicator": "Human Development Index",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.63,
-  "unit": "index",
-  "year": 2019.0
- },
- {
-  "rank": 58,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 1.204567,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 59,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 436.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 60,
-  "Category": "Health",
-  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 14.9,
-  "unit": "percent",
-  "year": 2020.0
- },
- {
-  "rank": 61,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 93.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 64,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.100787,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 65,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 1.122499,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 67,
-  "Category": "Economics",
-  "Indicator": "Volume of imports",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 3.047,
-  "unit": "percent change",
-  "year": 2020.0
- },
- {
-  "rank": 69,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of women in managerial positions (%)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 37.22,
-  "unit": "percent",
-  "year": 2015.0
- },
- {
-  "rank": 71,
   "Category": "Health",
   "Indicator": "Prevalence of obesity",
   "Policy": "H7_Vaccination policy",
@@ -451,40 +308,84 @@
   "year": 2016.0
  },
  {
-  "rank": 72,
-  "Category": "Environment",
-  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
+  "rank": 50,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H7_Vaccination policy",
   "Country": "Kiribati",
   "ISO": "KIR",
-  "value": 99.9999995006364,
-  "unit": "percent of total",
-  "year": 2017.0
+  "value": 436.0,
+  "unit": "Cases",
+  "year": 2019.0
  },
  {
-  "rank": 73,
-  "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 56.33725,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 74,
+  "rank": 52,
   "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "H7_Vaccination policy",
   "Country": "Kiribati",
   "ISO": "KIR",
-  "value": -0.6217977,
+  "value": -0.2355355,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 76,
+  "rank": 53,
+  "Category": "Health",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 3.8342,
+  "unit": "Ones",
+  "year": 2018.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 1.122499,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 56,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 34.87527,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.586595,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 59,
+  "Category": "Social issues ",
+  "Indicator": "Progression to secondary school (%)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 96.34146,
+  "unit": "proportion",
+  "year": 2015.0
+ },
+ {
+  "rank": 60,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
   "Policy": "H7_Vaccination policy",
@@ -495,29 +396,18 @@
   "year": 2019.0
  },
  {
-  "rank": 78,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "rank": 62,
+  "Category": "Health",
+  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
   "Policy": "H7_Vaccination policy",
   "Country": "Kiribati",
   "ISO": "KIR",
-  "value": 54.835,
-  "unit": "total",
-  "year": 2019.0
+  "value": 2.4,
+  "unit": "percent",
+  "year": 2020.0
  },
  {
-  "rank": 79,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 80,
+  "rank": 63,
   "Category": "Economics",
   "Indicator": "Unemployment rate (%) - Annual",
   "Policy": "H7_Vaccination policy",
@@ -526,6 +416,105 @@
   "value": 9.5,
   "unit": "percent",
   "year": 2015.0
+ },
+ {
+  "rank": 64,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 46.4755,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 93.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 68,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.040167,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.456248,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Social issues ",
+  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 100.869567871094,
+  "unit": "proportion",
+  "year": 2016.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 45.165,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 4.25399869303377,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 75,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.63,
+  "unit": "index",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": -0.6217977,
+  "unit": "score",
+  "year": 2019.0
  },
  {
   "rank": 81,
@@ -539,106 +528,7 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 56.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 83,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 0.3710443,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 85,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": -0.2355355,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 86,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 47.802889981692,
-  "unit": "proportion",
-  "year": 2017.0
- },
- {
-  "rank": 88,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 45.165,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 89,
-  "Category": "Social issues ",
-  "Indicator": "Progression to secondary school (%)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 96.34146,
-  "unit": "proportion",
-  "year": 2015.0
- },
- {
-  "rank": 90,
-  "Category": "Economics",
-  "Indicator": "Expenditure on social protection (% of GDP)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 1.20154,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 93,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 117606.0,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 95,
-  "Category": "Economics",
-  "Indicator": "Expenditure on education (% of GDP)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kiribati",
-  "ISO": "KIR",
-  "value": 11.96829,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 97,
+  "rank": 84,
   "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "H7_Vaccination policy",
@@ -649,7 +539,40 @@
   "year": 2018.0
  },
  {
-  "rank": 98,
+  "rank": 85,
+  "Category": "Health",
+  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 14.9,
+  "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 117606.0,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 47.802889981692,
+  "unit": "proportion",
+  "year": 2017.0
+ },
+ {
+  "rank": 91,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
   "Policy": "H7_Vaccination policy",
@@ -660,7 +583,84 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
+  "rank": 92,
+  "Category": "Economics",
+  "Indicator": "Trade, total as % of GDP",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 56.33725,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 93,
+  "Category": "Environment",
+  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 99.9999995006364,
+  "unit": "percent of total",
+  "year": 2017.0
+ },
+ {
+  "rank": 95,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 0.081214,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 98,
+  "Category": "Economics",
+  "Indicator": "Expenditure on education (% of GDP)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 11.96829,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 54.835,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 112,
+  "Category": "Economics",
+  "Indicator": "Expenditure on social protection (% of GDP)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kiribati",
+  "ISO": "KIR",
+  "value": 1.20154,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 114,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
   "Policy": "H7_Vaccination policy",

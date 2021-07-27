@@ -11,172 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 311.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 6.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 9,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 16952.02315698713,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 10,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.4661654,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 546.383,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 49.2758,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 18,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 8.2171969498,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
- },
- {
-  "rank": 29,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.7690086,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 1.169394,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.0,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 47,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.4956726,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 48,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 34768.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.0,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 2.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 59,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 34.0,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 64,
+  "rank": 2,
   "Category": "Demographics",
   "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "C6_Stay at home requirements",
@@ -187,29 +22,7 @@
   "year": 2016.0
  },
  {
-  "rank": 74,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 75,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 8.732487,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 78,
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "C6_Stay at home requirements",
@@ -220,7 +33,51 @@
   "year": 2019.0
  },
  {
-  "rank": 83,
+  "rank": 4,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 8.2171969498,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
+ },
+ {
+  "rank": 5,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 34768.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 8,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 311.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 12,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 49.2758,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 19,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C6_Stay at home requirements",
@@ -231,7 +88,117 @@
   "year": 2019.0
  },
  {
-  "rank": 85,
+  "rank": 21,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 546.383,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 23,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 0.4661654,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 28,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 2.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 29,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 6.0,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 34,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 40,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 8.732487,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 41,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 0.7690086,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 46,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 1.169394,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 50,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 0.0,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 54,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 55,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "C6_Stay at home requirements",
@@ -242,7 +209,29 @@
   "year": 2019.0
  },
  {
-  "rank": 87,
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 34.0,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 16952.02315698713,
+  "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 74,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
   "Policy": "C6_Stay at home requirements",
@@ -253,18 +242,7 @@
   "year": 2018.0
  },
  {
-  "rank": 91,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 100.0,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 95,
+  "rank": 76,
   "Category": "Social issues ",
   "Indicator": "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",
   "Policy": "C6_Stay at home requirements",
@@ -275,7 +253,29 @@
   "year": 2015.0
  },
  {
-  "rank": 103,
+  "rank": 79,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 0.4956726,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 100.0,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 116,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C6_Stay at home requirements",

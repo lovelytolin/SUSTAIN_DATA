@@ -11,7 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H3_Contact tracing",
@@ -22,18 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 10,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "H3_Contact tracing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 37.328,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 28,
+  "rank": 6,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
   "Policy": "H3_Contact tracing",
@@ -44,29 +33,18 @@
   "year": 2019.0
  },
  {
-  "rank": 42,
+  "rank": 15,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Fixed broadband subscriptions",
   "Policy": "H3_Contact tracing",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 4991.98816713916,
-  "unit": "per 1 million people",
+  "value": 37.328,
+  "unit": "per 100 people",
   "year": 2019.0
  },
  {
-  "rank": 55,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 13.09289,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 56,
+  "rank": 19,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H3_Contact tracing",
@@ -77,29 +55,7 @@
   "year": 2015.0
  },
  {
-  "rank": 63,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H3_Contact tracing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 116.474,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 66,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 71,
+  "rank": 40,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H3_Contact tracing",
@@ -110,7 +66,7 @@
   "year": 2020.0
  },
  {
-  "rank": 77,
+  "rank": 47,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "H3_Contact tracing",
@@ -119,5 +75,49 @@
   "value": 630.724,
   "unit": "kt",
   "year": 2016.0
+ },
+ {
+  "rank": 66,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H3_Contact tracing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 116.474,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 68,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 13.09289,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 4991.98816713916,
+  "unit": "per 1 million people",
+  "year": 2019.0
  }
 ]

@@ -1,17 +1,6 @@
 [
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 5,
+  "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "C2_Workplace closing",
@@ -22,73 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 15,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.030871,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.007214,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 26,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.003708,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 50,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 51,
+  "rank": 18,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
   "Policy": "C2_Workplace closing",
@@ -99,7 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 62,
+  "rank": 19,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "C2_Workplace closing",
@@ -110,7 +33,73 @@
   "year": 2019.0
  },
  {
-  "rank": 69,
+  "rank": 20,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 37,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.003708,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 42,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 58,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.030871,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.007214,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
   "Category": "Health",
   "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "C2_Workplace closing",
@@ -119,5 +108,16 @@
   "value": 0.362278,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  }
 ]

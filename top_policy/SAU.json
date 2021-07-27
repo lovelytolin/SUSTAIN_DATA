@@ -6,7 +6,7 @@
  },
  {
   "ISO": "SAU",
-  "Policy": "C5_Close public transport",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 2
  },
  {
@@ -36,22 +36,22 @@
  },
  {
   "ISO": "SAU",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "E2_Debt/contract relief",
   "rank": 8
  },
  {
   "ISO": "SAU",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "E1_Income support",
   "rank": 9
  },
  {
   "ISO": "SAU",
-  "Policy": "E1_Income support",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 10
  },
  {
   "ISO": "SAU",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C5_Close public transport",
   "rank": 11
  },
  {

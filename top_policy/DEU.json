@@ -41,12 +41,12 @@
  },
  {
   "ISO": "DEU",
-  "Policy": "E1_Income support",
+  "Policy": "C2_Workplace closing",
   "rank": 9
  },
  {
   "ISO": "DEU",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E1_Income support",
   "rank": 10
  },
  {
@@ -61,12 +61,12 @@
  },
  {
   "ISO": "DEU",
-  "Policy": "C8_International travel controls",
+  "Policy": "C3_Cancel public events",
   "rank": 13
  },
  {
   "ISO": "DEU",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C8_International travel controls",
   "rank": 14
  },
  {

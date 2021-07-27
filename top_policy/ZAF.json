@@ -11,37 +11,37 @@
  },
  {
   "ISO": "ZAF",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C8_International travel controls",
   "rank": 3
  },
  {
   "ISO": "ZAF",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C2_Workplace closing",
   "rank": 4
  },
  {
   "ISO": "ZAF",
-  "Policy": "C5_Close public transport",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 5
  },
  {
   "ISO": "ZAF",
-  "Policy": "C1_School closing",
+  "Policy": "C5_Close public transport",
   "rank": 6
  },
  {
   "ISO": "ZAF",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "ZAF",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C6_Stay at home requirements",
   "rank": 8
  },
  {
   "ISO": "ZAF",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 9
  },
  {
@@ -56,22 +56,22 @@
  },
  {
   "ISO": "ZAF",
-  "Policy": "C8_International travel controls",
+  "Policy": "H6_Facial Coverings",
   "rank": 12
  },
  {
   "ISO": "ZAF",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H3_Contact tracing",
   "rank": 13
  },
  {
   "ISO": "ZAF",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H1_Public information campaigns",
   "rank": 14
  },
  {
   "ISO": "ZAF",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C3_Cancel public events",
   "rank": 15
  }
 ]

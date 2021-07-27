@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-GBR,C8_International travel controls,0.0812512801766155,1
-GBR,H6_Facial Coverings,0.0757276869123307,2
-GBR,C1_School closing,0.0749145958569521,3
-GBR,H7_Vaccination policy,0.0738525349135608,4
-GBR,C6_Stay at home requirements,0.0715138289816694,5
-GBR,H3_Contact tracing,0.0710726185545462,6
-GBR,C4_Restrictions on gatherings,0.0623849550195874,7
-GBR,C7_Restrictions on internal movement,0.0609623830407344,8
-GBR,C2_Workplace closing,0.0510011373630571,9
-GBR,C3_Cancel public events,0.0417340524779514,10
-GBR,H2_Testing policy,0.0360206331301125,11
-GBR,E1_Income support,0.0340367620121994,12
-GBR,E2_Debt/contract relief,0.025355177875649,13
-GBR,H1_Public information campaigns,0.0055357477592887,14
+GBR,C8_International travel controls,0.0995536174354361,1
+GBR,H2_Testing policy,0.086547295077756,2
+GBR,H6_Facial Coverings,0.084627667502866,3
+GBR,C1_School closing,0.0737201808649224,4
+GBR,H7_Vaccination policy,0.0718637938646725,5
+GBR,C6_Stay at home requirements,0.0707254045655218,6
+GBR,H3_Contact tracing,0.0696946499493816,7
+GBR,C7_Restrictions on internal movement,0.0631926771541392,8
+GBR,C4_Restrictions on gatherings,0.0592190111628585,9
+GBR,C2_Workplace closing,0.0366098771813896,10
+GBR,E1_Income support,0.0319776062125139,11
+GBR,E2_Debt/contract relief,0.0305126784850139,12
+GBR,C3_Cancel public events,0.017428030512615,13
+GBR,H1_Public information campaigns,0.000936627818226,14
 GBR,C5_Close public transport,0.0,15

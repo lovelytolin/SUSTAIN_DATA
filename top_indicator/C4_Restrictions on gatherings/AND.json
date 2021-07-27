@@ -11,7 +11,29 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
+  "rank": 2,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 4.6,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 4,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 0.061518,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C4_Restrictions on gatherings",
@@ -22,40 +44,40 @@
   "year": 2020.0
  },
  {
-  "rank": 4,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
+  "rank": 7,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 47.1313,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 6,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 23.23,
-  "unit": "score",
-  "year": 2020.0
+  "value": 19.7478086257358,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  },
  {
   "rank": 8,
   "Category": "Health",
-  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
+  "Indicator": "Summary exposure value tobacco",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 99.0,
-  "unit": "percent",
+  "value": 25.36384,
+  "unit": "Rate (risk-weighted prevalence)",
   "year": 2019.0
  },
  {
-  "rank": 9,
+  "rank": 10,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 1.579939,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 11,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "C4_Restrictions on gatherings",
@@ -66,18 +88,18 @@
   "year": 2019.0
  },
  {
-  "rank": 10,
+  "rank": 13,
   "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
+  "Indicator": "Fixed broadband subscriptions",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 39657.0,
-  "unit": "number",
+  "value": 47.1313,
+  "unit": "per 100 people",
   "year": 2019.0
  },
  {
-  "rank": 13,
+  "rank": 14,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "C4_Restrictions on gatherings",
@@ -88,40 +110,7 @@
   "year": 2019.0
  },
  {
-  "rank": 16,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 0.000571,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 18,
-  "Category": "Environment",
-  "Indicator": "PM2.5 air pollution, mean annual exposure",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 10.30762,
-  "unit": "micrograms per cubic meter",
-  "year": 2017.0
- },
- {
-  "rank": 20,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 0.091687,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 21,
+  "rank": 15,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C4_Restrictions on gatherings",
@@ -132,18 +121,40 @@
   "year": 2016.0
  },
  {
-  "rank": 22,
+  "rank": 16,
   "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 80.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7.5,
+  "unit": "Cases",
+  "year": 2019.0
  },
  {
-  "rank": 23,
+  "rank": 18,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 55.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 19,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 93.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 20,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "C4_Restrictions on gatherings",
@@ -154,29 +165,51 @@
   "year": 2019.0
  },
  {
-  "rank": 24,
+  "rank": 21,
   "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 1.139154,
+  "value": 1.908749,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "rank": 23,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 20183.55759508439,
-  "unit": "per 1 million people",
+  "value": 0.0027,
+  "unit": "percent",
   "year": 2019.0
  },
  {
   "rank": 27,
+  "Category": "Health",
+  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 99.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 28,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 23.23,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 30,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "C4_Restrictions on gatherings",
@@ -189,38 +222,27 @@
  {
   "rank": 32,
   "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 25.36384,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 0.061518,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 4.0128,
+  "unit": "Ones",
+  "year": 2015.0
  },
  {
   "rank": 35,
   "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
+  "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 1.908749,
+  "value": 38.0,
   "unit": "score",
-  "year": 2019.0
+  "year": 2021.0
  },
  {
-  "rank": 38,
+  "rank": 36,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "C4_Restrictions on gatherings",
@@ -231,18 +253,18 @@
   "year": 2015.0
  },
  {
-  "rank": 40,
-  "Category": "Governance",
-  "Indicator": "Serious assault (rate)",
+  "rank": 37,
+  "Category": "Health",
+  "Indicator": "Physicians (per 1,000 people)",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 170.53,
-  "unit": "rate",
+  "value": 3.3333,
+  "unit": "Ones",
   "year": 2015.0
  },
  {
-  "rank": 42,
+  "rank": 40,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
   "Policy": "C4_Restrictions on gatherings",
@@ -253,7 +275,7 @@
   "year": 2017.0
  },
  {
-  "rank": 43,
+  "rank": 42,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "C4_Restrictions on gatherings",
@@ -264,29 +286,7 @@
   "year": 2016.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 93.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 46,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 0.119104,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 48,
+  "rank": 49,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "C4_Restrictions on gatherings",
@@ -298,83 +298,83 @@
  },
  {
   "rank": 50,
-  "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 99.0,
-  "unit": "percent",
+  "value": 20183.55759508439,
+  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
-  "rank": 52,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
+  "rank": 51,
+  "Category": "Governance",
+  "Indicator": "Serious assault (rate)",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 4.0128,
-  "unit": "Ones",
+  "value": 170.53,
+  "unit": "rate",
   "year": 2015.0
  },
  {
   "rank": 53,
   "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 0.0027,
+  "value": 0.119104,
   "unit": "percent",
   "year": 2019.0
  },
  {
   "rank": 54,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 4.6,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 56,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 19.7478086257358,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 58,
   "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
+  "Indicator": "Human Development Index",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 61,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 1.579939,
-  "unit": "score",
+  "value": 0.868,
+  "unit": "index",
   "year": 2019.0
  },
  {
-  "rank": 63,
+  "rank": 56,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 39657.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 0.091687,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 0.000571,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
   "Category": "Health",
   "Indicator": "Prevalence of obesity",
   "Policy": "C4_Restrictions on gatherings",
@@ -385,7 +385,7 @@
   "year": 2016.0
  },
  {
-  "rank": 66,
+  "rank": 65,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C4_Restrictions on gatherings",
@@ -393,6 +393,17 @@
   "ISO": "AND",
   "value": 1.615139,
   "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 99.0,
+  "unit": "percent",
   "year": 2019.0
  },
  {
@@ -407,7 +418,7 @@
   "year": 2018.0
  },
  {
-  "rank": 75,
+  "rank": 72,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C4_Restrictions on gatherings",
@@ -418,47 +429,36 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Human Development Index",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 0.868,
-  "unit": "index",
-  "year": 2019.0
- },
- {
-  "rank": 83,
+  "rank": 74,
   "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 7.5,
-  "unit": "Cases",
-  "year": 2019.0
+  "value": 80.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  },
  {
-  "rank": 85,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
+  "rank": 81,
+  "Category": "Environment",
+  "Indicator": "PM2.5 air pollution, mean annual exposure",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 55.0,
+  "value": 10.30762,
+  "unit": "micrograms per cubic meter",
+  "year": 2017.0
+ },
+ {
+  "rank": 89,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 1.139154,
   "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 88,
-  "Category": "Health",
-  "Indicator": "Physicians (per 1,000 people)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 3.3333,
-  "unit": "Ones",
-  "year": 2015.0
+  "year": 2019.0
  }
 ]

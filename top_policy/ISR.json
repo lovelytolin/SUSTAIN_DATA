@@ -21,27 +21,27 @@
  },
  {
   "ISO": "ISR",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 5
  },
  {
   "ISO": "ISR",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 6
  },
  {
   "ISO": "ISR",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "E1_Income support",
   "rank": 7
  },
  {
   "ISO": "ISR",
-  "Policy": "E1_Income support",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
   "ISO": "ISR",
-  "Policy": "C5_Close public transport",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 9
  },
  {
@@ -56,22 +56,22 @@
  },
  {
   "ISO": "ISR",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H3_Contact tracing",
   "rank": 12
  },
  {
   "ISO": "ISR",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H6_Facial Coverings",
   "rank": 13
  },
  {
   "ISO": "ISR",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E2_Debt/contract relief",
   "rank": 14
  },
  {
   "ISO": "ISR",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

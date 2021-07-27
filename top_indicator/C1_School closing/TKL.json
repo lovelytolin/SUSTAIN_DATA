@@ -1,61 +1,6 @@
 [
  {
-  "rank": 2,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C1_School closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.362278,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "C1_School closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.106118,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 23,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 26,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "C1_School closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 27.98347,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 34,
+  "rank": 7,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "C1_School closing",
@@ -66,29 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 37,
+  "rank": 9,
   "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C1_School closing",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.003708,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  },
  {
-  "rank": 44,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C1_School closing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 49,
+  "rank": 11,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "C1_School closing",
@@ -99,7 +33,62 @@
   "year": 2019.0
  },
  {
-  "rank": 69,
+  "rank": 14,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C1_School closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 27.98347,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 16,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C1_School closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.003708,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 38,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C1_School closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 39,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C1_School closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "C1_School closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.106118,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "C1_School closing",
@@ -110,13 +99,24 @@
   "year": 2019.0
  },
  {
-  "rank": 90,
+  "rank": 89,
   "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C1_School closing",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.000145,
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 99,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "C1_School closing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.362278,
   "unit": "percent",
   "year": 2019.0
  }

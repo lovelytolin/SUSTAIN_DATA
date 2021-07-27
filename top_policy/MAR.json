@@ -6,37 +6,37 @@
  },
  {
   "ISO": "MAR",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C1_School closing",
   "rank": 2
  },
  {
   "ISO": "MAR",
-  "Policy": "C5_Close public transport",
+  "Policy": "C2_Workplace closing",
   "rank": 3
  },
  {
   "ISO": "MAR",
-  "Policy": "C1_School closing",
+  "Policy": "E1_Income support",
   "rank": 4
  },
  {
   "ISO": "MAR",
-  "Policy": "E1_Income support",
+  "Policy": "E2_Debt/contract relief",
   "rank": 5
  },
  {
   "ISO": "MAR",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H2_Testing policy",
   "rank": 6
  },
  {
   "ISO": "MAR",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H7_Vaccination policy",
   "rank": 7
  },
  {
   "ISO": "MAR",
-  "Policy": "H2_Testing policy",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
@@ -66,12 +66,12 @@
  },
  {
   "ISO": "MAR",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C3_Cancel public events",
   "rank": 14
  },
  {
   "ISO": "MAR",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H3_Contact tracing",
   "rank": 15
  }
 ]

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-TGO,H7_Vaccination policy,0.0824679013437248,1
-TGO,H2_Testing policy,0.0742665107938868,2
-TGO,C1_School closing,0.0740653543949249,3
-TGO,C4_Restrictions on gatherings,0.0734188208490884,4
-TGO,E1_Income support,0.072712656443476,5
-TGO,H6_Facial Coverings,0.071378228010846,6
-TGO,H3_Contact tracing,0.0658632289748953,7
-TGO,C8_International travel controls,0.0573535662146773,8
-TGO,E2_Debt/contract relief,0.0566354909751454,9
-TGO,C7_Restrictions on internal movement,0.0516888274808336,10
-TGO,C2_Workplace closing,0.0504762802176206,11
-TGO,C6_Stay at home requirements,0.0422900969108147,12
-TGO,C3_Cancel public events,0.0399643158042358,13
-TGO,H1_Public information campaigns,0.0383056002619233,14
-TGO,C5_Close public transport,0.021327260200767,15
+TGO,H7_Vaccination policy,0.0951595132023449,1
+TGO,H2_Testing policy,0.0915549022385448,2
+TGO,C1_School closing,0.087598355595138,3
+TGO,C4_Restrictions on gatherings,0.0872751528614627,4
+TGO,E1_Income support,0.0848135568129423,5
+TGO,H6_Facial Coverings,0.0675254630721988,6
+TGO,H3_Contact tracing,0.0663635330309414,7
+TGO,C7_Restrictions on internal movement,0.0637500388349888,8
+TGO,C6_Stay at home requirements,0.059825942446802,9
+TGO,C8_International travel controls,0.0524677749173174,10
+TGO,C5_Close public transport,0.0458637800149985,11
+TGO,C2_Workplace closing,0.0442776790303075,12
+TGO,E2_Debt/contract relief,0.0346664811299821,13
+TGO,C3_Cancel public events,0.0307020655898991,14
+TGO,H1_Public information campaigns,0.0091762844392584,15

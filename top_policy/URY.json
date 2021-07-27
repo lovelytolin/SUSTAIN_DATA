@@ -26,27 +26,27 @@
  },
  {
   "ISO": "URY",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E1_Income support",
   "rank": 6
  },
  {
   "ISO": "URY",
-  "Policy": "E1_Income support",
+  "Policy": "C6_Stay at home requirements",
   "rank": 7
  },
  {
   "ISO": "URY",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
   "ISO": "URY",
-  "Policy": "C5_Close public transport",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
   "ISO": "URY",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 10
  },
  {
@@ -66,12 +66,12 @@
  },
  {
   "ISO": "URY",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H1_Public information campaigns",
   "rank": 14
  },
  {
   "ISO": "URY",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H3_Contact tracing",
   "rank": 15
  }
 ]

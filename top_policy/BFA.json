@@ -6,7 +6,7 @@
  },
  {
   "ISO": "BFA",
-  "Policy": "H2_Testing policy",
+  "Policy": "C8_International travel controls",
   "rank": 2
  },
  {
@@ -16,62 +16,62 @@
  },
  {
   "ISO": "BFA",
-  "Policy": "C8_International travel controls",
+  "Policy": "H2_Testing policy",
   "rank": 4
  },
  {
   "ISO": "BFA",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H6_Facial Coverings",
   "rank": 5
  },
  {
   "ISO": "BFA",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C2_Workplace closing",
   "rank": 6
  },
  {
   "ISO": "BFA",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H3_Contact tracing",
   "rank": 7
  },
  {
   "ISO": "BFA",
-  "Policy": "C5_Close public transport",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 8
  },
  {
   "ISO": "BFA",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 9
  },
  {
   "ISO": "BFA",
-  "Policy": "C1_School closing",
+  "Policy": "C5_Close public transport",
   "rank": 10
  },
  {
   "ISO": "BFA",
-  "Policy": "E1_Income support",
+  "Policy": "C1_School closing",
   "rank": 11
  },
  {
   "ISO": "BFA",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E1_Income support",
   "rank": 12
  },
  {
   "ISO": "BFA",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H1_Public information campaigns",
   "rank": 13
  },
  {
   "ISO": "BFA",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C3_Cancel public events",
   "rank": 14
  },
  {
   "ISO": "BFA",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H7_Vaccination policy",
   "rank": 15
  }
 ]

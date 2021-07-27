@@ -16,52 +16,52 @@
  },
  {
   "ISO": "SOM",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H1_Public information campaigns",
   "rank": 4
  },
  {
   "ISO": "SOM",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C2_Workplace closing",
   "rank": 5
  },
  {
   "ISO": "SOM",
-  "Policy": "C1_School closing",
+  "Policy": "H7_Vaccination policy",
   "rank": 6
  },
  {
   "ISO": "SOM",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C6_Stay at home requirements",
   "rank": 7
  },
  {
   "ISO": "SOM",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C1_School closing",
   "rank": 8
  },
  {
   "ISO": "SOM",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
   "ISO": "SOM",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C8_International travel controls",
   "rank": 10
  },
  {
   "ISO": "SOM",
-  "Policy": "H2_Testing policy",
+  "Policy": "E2_Debt/contract relief",
   "rank": 11
  },
  {
   "ISO": "SOM",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C5_Close public transport",
   "rank": 12
  },
  {
   "ISO": "SOM",
-  "Policy": "C8_International travel controls",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 13
  },
  {
@@ -71,7 +71,7 @@
  },
  {
   "ISO": "SOM",
-  "Policy": "C5_Close public transport",
+  "Policy": "C3_Cancel public events",
   "rank": 15
  }
 ]

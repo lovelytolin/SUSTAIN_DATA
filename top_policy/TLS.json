@@ -11,7 +11,7 @@
  },
  {
   "ISO": "TLS",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C8_International travel controls",
   "rank": 3
  },
  {
@@ -21,12 +21,12 @@
  },
  {
   "ISO": "TLS",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H3_Contact tracing",
   "rank": 5
  },
  {
   "ISO": "TLS",
-  "Policy": "C8_International travel controls",
+  "Policy": "C2_Workplace closing",
   "rank": 6
  },
  {
@@ -56,12 +56,12 @@
  },
  {
   "ISO": "TLS",
-  "Policy": "H2_Testing policy",
+  "Policy": "E1_Income support",
   "rank": 12
  },
  {
   "ISO": "TLS",
-  "Policy": "E1_Income support",
+  "Policy": "H2_Testing policy",
   "rank": 13
  },
  {

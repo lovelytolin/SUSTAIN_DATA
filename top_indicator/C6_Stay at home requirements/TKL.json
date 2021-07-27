@@ -1,17 +1,6 @@
 [
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.362278,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 4,
+  "rank": 8,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C6_Stay at home requirements",
@@ -22,62 +11,18 @@
   "year": 2020.0
  },
  {
-  "rank": 12,
+  "rank": 9,
   "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
+  "Indicator": "Prevalence of down syndrome",
   "Policy": "C6_Stay at home requirements",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 27.98347,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 21,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.111261,
+  "value": 0.000145,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 23,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.003708,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 31,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.106118,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 37,
+  "rank": 11,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "C6_Stay at home requirements",
@@ -88,7 +33,40 @@
   "year": 2019.0
  },
  {
-  "rank": 51,
+  "rank": 13,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 27.98347,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 14,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.362278,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.106118,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 28,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C6_Stay at home requirements",
@@ -99,7 +77,29 @@
   "year": 2020.0
  },
  {
-  "rank": 66,
+  "rank": 37,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.111261,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 38,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 62,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "C6_Stay at home requirements",
@@ -110,13 +110,13 @@
   "year": 2019.0
  },
  {
-  "rank": 68,
+  "rank": 91,
   "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
+  "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "C6_Stay at home requirements",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.000145,
+  "value": 0.003708,
   "unit": "percent",
   "year": 2019.0
  }

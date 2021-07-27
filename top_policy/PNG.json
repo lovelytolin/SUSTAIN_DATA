@@ -16,17 +16,17 @@
  },
  {
   "ISO": "PNG",
-  "Policy": "C1_School closing",
+  "Policy": "H6_Facial Coverings",
   "rank": 4
  },
  {
   "ISO": "PNG",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C6_Stay at home requirements",
   "rank": 5
  },
  {
   "ISO": "PNG",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C1_School closing",
   "rank": 6
  },
  {
@@ -41,22 +41,22 @@
  },
  {
   "ISO": "PNG",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "E2_Debt/contract relief",
   "rank": 9
  },
  {
   "ISO": "PNG",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C5_Close public transport",
   "rank": 10
  },
  {
   "ISO": "PNG",
-  "Policy": "C5_Close public transport",
+  "Policy": "E1_Income support",
   "rank": 11
  },
  {
   "ISO": "PNG",
-  "Policy": "E1_Income support",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 12
  },
  {

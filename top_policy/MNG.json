@@ -21,27 +21,27 @@
  },
  {
   "ISO": "MNG",
-  "Policy": "C8_International travel controls",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 5
  },
  {
   "ISO": "MNG",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C8_International travel controls",
   "rank": 6
  },
  {
   "ISO": "MNG",
-  "Policy": "E1_Income support",
+  "Policy": "C6_Stay at home requirements",
   "rank": 7
  },
  {
   "ISO": "MNG",
-  "Policy": "H2_Testing policy",
+  "Policy": "E1_Income support",
   "rank": 8
  },
  {
   "ISO": "MNG",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
@@ -56,12 +56,12 @@
  },
  {
   "ISO": "MNG",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C3_Cancel public events",
   "rank": 12
  },
  {
   "ISO": "MNG",
-  "Policy": "C3_Cancel public events",
+  "Policy": "E2_Debt/contract relief",
   "rank": 13
  },
  {

@@ -6,7 +6,7 @@
  },
  {
   "ISO": "TJK",
-  "Policy": "C5_Close public transport",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 2
  },
  {
@@ -16,7 +16,7 @@
  },
  {
   "ISO": "TJK",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H1_Public information campaigns",
   "rank": 4
  },
  {
@@ -36,37 +36,37 @@
  },
  {
   "ISO": "TJK",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C5_Close public transport",
   "rank": 8
  },
  {
   "ISO": "TJK",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H7_Vaccination policy",
   "rank": 9
  },
  {
   "ISO": "TJK",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H6_Facial Coverings",
   "rank": 10
  },
  {
   "ISO": "TJK",
-  "Policy": "E1_Income support",
+  "Policy": "E2_Debt/contract relief",
   "rank": 11
  },
  {
   "ISO": "TJK",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E1_Income support",
   "rank": 12
  },
  {
   "ISO": "TJK",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 13
  },
  {
   "ISO": "TJK",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H2_Testing policy",
   "rank": 14
  },
  {

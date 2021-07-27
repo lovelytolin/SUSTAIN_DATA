@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SAU,H6_Facial Coverings,0.1479084573692942,1
-SAU,C5_Close public transport,0.0886110691209254,2
-SAU,H7_Vaccination policy,0.0715458509170457,3
-SAU,C6_Stay at home requirements,0.0646384299486916,4
-SAU,C2_Workplace closing,0.0634522438423923,5
-SAU,C8_International travel controls,0.0554123339227469,6
-SAU,H2_Testing policy,0.0537793718350393,7
-SAU,C7_Restrictions on internal movement,0.047350457522876,8
-SAU,E2_Debt/contract relief,0.0461934915318168,9
-SAU,E1_Income support,0.0416517079826013,10
-SAU,C4_Restrictions on gatherings,0.0373623197855897,11
-SAU,C3_Cancel public events,0.024042371568229,12
-SAU,C1_School closing,0.0203056203785934,13
-SAU,H3_Contact tracing,0.0201090373297661,14
+SAU,H6_Facial Coverings,0.0909723660190726,1
+SAU,C7_Restrictions on internal movement,0.0864432599744845,2
+SAU,H7_Vaccination policy,0.0793582977426871,3
+SAU,C6_Stay at home requirements,0.05762158112473,4
+SAU,C2_Workplace closing,0.0553883650773383,5
+SAU,C8_International travel controls,0.0549074199120442,6
+SAU,H2_Testing policy,0.0544352853852089,7
+SAU,E2_Debt/contract relief,0.0529987262921886,8
+SAU,E1_Income support,0.0526519701075259,9
+SAU,C4_Restrictions on gatherings,0.0525682744102983,10
+SAU,C5_Close public transport,0.0398131666349001,11
+SAU,C3_Cancel public events,0.0314604345109205,12
+SAU,C1_School closing,0.0292681308816421,13
+SAU,H3_Contact tracing,0.0154157409864654,14
 SAU,H1_Public information campaigns,0.0,15

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-HTI,H3_Contact tracing,0.0934525717571229,1
-HTI,H2_Testing policy,0.0860521380951628,2
-HTI,C2_Workplace closing,0.0738216843079189,3
-HTI,C8_International travel controls,0.0672425196379635,4
-HTI,C4_Restrictions on gatherings,0.0659039023915404,5
-HTI,C6_Stay at home requirements,0.061319295223339,6
-HTI,H6_Facial Coverings,0.0583888028839436,7
-HTI,C1_School closing,0.0542453775517185,8
-HTI,C3_Cancel public events,0.0525291775206679,9
-HTI,C5_Close public transport,0.0489387103604058,10
-HTI,E2_Debt/contract relief,0.043861659326048,11
-HTI,H1_Public information campaigns,0.0421889194624085,12
-HTI,E1_Income support,0.039758615366926,13
-HTI,C7_Restrictions on internal movement,0.0249815450590428,14
-HTI,H7_Vaccination policy,0.0227902719977166,15
+HTI,H2_Testing policy,0.1144282530243225,1
+HTI,C8_International travel controls,0.0868586619966889,2
+HTI,C1_School closing,0.0820068615927886,3
+HTI,C3_Cancel public events,0.0815513074993831,4
+HTI,E1_Income support,0.0799288608081958,5
+HTI,H3_Contact tracing,0.0582302918081231,6
+HTI,C4_Restrictions on gatherings,0.057968705230203,7
+HTI,C6_Stay at home requirements,0.0548654967784375,8
+HTI,C5_Close public transport,0.0543676390226099,9
+HTI,H6_Facial Coverings,0.0511326424775546,10
+HTI,E2_Debt/contract relief,0.0394994454106363,11
+HTI,H1_Public information campaigns,0.0359495611030171,12
+HTI,C2_Workplace closing,0.0279228238055282,13
+HTI,C7_Restrictions on internal movement,0.021312704114203,14
+HTI,H7_Vaccination policy,0.0203606353700335,15

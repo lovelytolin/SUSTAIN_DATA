@@ -11,37 +11,37 @@
  },
  {
   "ISO": "PAN",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H1_Public information campaigns",
   "rank": 3
  },
  {
   "ISO": "PAN",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "H7_Vaccination policy",
   "rank": 4
  },
  {
   "ISO": "PAN",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "H6_Facial Coverings",
   "rank": 5
  },
  {
   "ISO": "PAN",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 6
  },
  {
   "ISO": "PAN",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C2_Workplace closing",
   "rank": 7
  },
  {
   "ISO": "PAN",
-  "Policy": "C5_Close public transport",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 8
  },
  {
   "ISO": "PAN",
-  "Policy": "C8_International travel controls",
+  "Policy": "C5_Close public transport",
   "rank": 9
  },
  {
@@ -51,17 +51,17 @@
  },
  {
   "ISO": "PAN",
-  "Policy": "E1_Income support",
+  "Policy": "C8_International travel controls",
   "rank": 11
  },
  {
   "ISO": "PAN",
-  "Policy": "C1_School closing",
+  "Policy": "E1_Income support",
   "rank": 12
  },
  {
   "ISO": "PAN",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C1_School closing",
   "rank": 13
  },
  {

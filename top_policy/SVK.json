@@ -31,12 +31,12 @@
  },
  {
   "ISO": "SVK",
-  "Policy": "C1_School closing",
+  "Policy": "H2_Testing policy",
   "rank": 7
  },
  {
   "ISO": "SVK",
-  "Policy": "H2_Testing policy",
+  "Policy": "C1_School closing",
   "rank": 8
  },
  {
@@ -46,32 +46,32 @@
  },
  {
   "ISO": "SVK",
-  "Policy": "E1_Income support",
+  "Policy": "H3_Contact tracing",
   "rank": 10
  },
  {
   "ISO": "SVK",
-  "Policy": "C8_International travel controls",
+  "Policy": "E1_Income support",
   "rank": 11
  },
  {
   "ISO": "SVK",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C8_International travel controls",
   "rank": 12
  },
  {
   "ISO": "SVK",
-  "Policy": "C5_Close public transport",
+  "Policy": "E2_Debt/contract relief",
   "rank": 13
  },
  {
   "ISO": "SVK",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C5_Close public transport",
   "rank": 14
  },
  {
   "ISO": "SVK",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

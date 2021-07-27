@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-RUS,H7_Vaccination policy,0.1343199223741911,1
-RUS,E1_Income support,0.1132564335002326,2
-RUS,E2_Debt/contract relief,0.0962324016786647,3
-RUS,C4_Restrictions on gatherings,0.0844866042879663,4
-RUS,C8_International travel controls,0.0740094479197022,5
-RUS,H6_Facial Coverings,0.0526505202691026,6
-RUS,C2_Workplace closing,0.0474231025900535,7
-RUS,C6_Stay at home requirements,0.0463871422477555,8
-RUS,H3_Contact tracing,0.0394351499066805,9
-RUS,C7_Restrictions on internal movement,0.0393322395285228,10
-RUS,C1_School closing,0.036809997459189,11
-RUS,H2_Testing policy,0.0240299612057034,12
-RUS,H1_Public information campaigns,0.0114912256368714,13
-RUS,C5_Close public transport,0.0033068795556835,14
-RUS,C3_Cancel public events,0.0,15
+RUS,H7_Vaccination policy,0.1479084573692942,1
+RUS,C8_International travel controls,0.0886110691209254,2
+RUS,C4_Restrictions on gatherings,0.0715458509170457,3
+RUS,E1_Income support,0.0711255376124639,4
+RUS,H2_Testing policy,0.0646384299486916,5
+RUS,C6_Stay at home requirements,0.0634522438423923,6
+RUS,C3_Cancel public events,0.0537793718350393,7
+RUS,C1_School closing,0.0486907936575299,8
+RUS,C2_Workplace closing,0.047350457522876,9
+RUS,H6_Facial Coverings,0.0416517079826013,10
+RUS,C7_Restrictions on internal movement,0.0373623197855897,11
+RUS,E2_Debt/contract relief,0.029370212437036,12
+RUS,H1_Public information campaigns,0.024042371568229,13
+RUS,H3_Contact tracing,0.0201090373297661,14
+RUS,C5_Close public transport,0.0,15

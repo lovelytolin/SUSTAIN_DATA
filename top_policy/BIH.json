@@ -16,7 +16,7 @@
  },
  {
   "ISO": "BIH",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "E1_Income support",
   "rank": 4
  },
  {
@@ -31,7 +31,7 @@
  },
  {
   "ISO": "BIH",
-  "Policy": "E1_Income support",
+  "Policy": "H6_Facial Coverings",
   "rank": 7
  },
  {
@@ -46,27 +46,27 @@
  },
  {
   "ISO": "BIH",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C5_Close public transport",
   "rank": 10
  },
  {
   "ISO": "BIH",
-  "Policy": "C5_Close public transport",
+  "Policy": "H2_Testing policy",
   "rank": 11
  },
  {
   "ISO": "BIH",
-  "Policy": "C3_Cancel public events",
+  "Policy": "E2_Debt/contract relief",
   "rank": 12
  },
  {
   "ISO": "BIH",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C3_Cancel public events",
   "rank": 13
  },
  {
   "ISO": "BIH",
-  "Policy": "H2_Testing policy",
+  "Policy": "H1_Public information campaigns",
   "rank": 14
  },
  {

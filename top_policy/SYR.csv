@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SYR,H6_Facial Coverings,0.0945308123178577,1
-SYR,C4_Restrictions on gatherings,0.0775780756930361,2
-SYR,C1_School closing,0.072794091405886,3
-SYR,C3_Cancel public events,0.0707985367491084,4
-SYR,H1_Public information campaigns,0.0690581073726378,5
-SYR,H7_Vaccination policy,0.0664873076398444,6
-SYR,C2_Workplace closing,0.0658589247144634,7
-SYR,C8_International travel controls,0.0622569175923671,8
-SYR,C5_Close public transport,0.0617509653888328,9
-SYR,H2_Testing policy,0.0586039848268082,10
-SYR,C6_Stay at home requirements,0.0499776818087955,11
-SYR,C7_Restrictions on internal movement,0.0408875886987932,12
-SYR,E1_Income support,0.0267275573912101,13
-SYR,E2_Debt/contract relief,0.0248600928814552,14
-SYR,H3_Contact tracing,0.0190228585464957,15
+SYR,H6_Facial Coverings,0.092488294717346,1
+SYR,C4_Restrictions on gatherings,0.0861905658473118,2
+SYR,C8_International travel controls,0.0858548954780842,3
+SYR,C7_Restrictions on internal movement,0.0832536599464497,4
+SYR,H7_Vaccination policy,0.0820815681564771,5
+SYR,C6_Stay at home requirements,0.0626425479406364,6
+SYR,C2_Workplace closing,0.062592317448835,7
+SYR,C3_Cancel public events,0.0530521994769592,8
+SYR,C1_School closing,0.0508380958610113,9
+SYR,H1_Public information campaigns,0.0448163634922268,10
+SYR,C5_Close public transport,0.0433220849309586,11
+SYR,H2_Testing policy,0.0421519418545112,12
+SYR,E2_Debt/contract relief,0.0279023932615146,13
+SYR,H3_Contact tracing,0.0266055860300257,14
+SYR,E1_Income support,0.0183785355664299,15

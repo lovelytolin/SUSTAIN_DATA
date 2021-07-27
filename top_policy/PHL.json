@@ -11,17 +11,17 @@
  },
  {
   "ISO": "PHL",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H2_Testing policy",
   "rank": 3
  },
  {
   "ISO": "PHL",
-  "Policy": "E1_Income support",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 4
  },
  {
   "ISO": "PHL",
-  "Policy": "C1_School closing",
+  "Policy": "E1_Income support",
   "rank": 5
  },
  {
@@ -31,27 +31,27 @@
  },
  {
   "ISO": "PHL",
-  "Policy": "H2_Testing policy",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "PHL",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 8
  },
  {
   "ISO": "PHL",
-  "Policy": "C5_Close public transport",
+  "Policy": "H3_Contact tracing",
   "rank": 9
  },
  {
   "ISO": "PHL",
-  "Policy": "C8_International travel controls",
+  "Policy": "C5_Close public transport",
   "rank": 10
  },
  {
   "ISO": "PHL",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C8_International travel controls",
   "rank": 11
  },
  {

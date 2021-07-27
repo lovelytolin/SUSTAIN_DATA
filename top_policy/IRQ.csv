@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-IRQ,H2_Testing policy,0.0944523294281271,1
-IRQ,C4_Restrictions on gatherings,0.0911641839501005,2
-IRQ,E1_Income support,0.0873140013009174,3
-IRQ,H7_Vaccination policy,0.0815984876813753,4
-IRQ,C8_International travel controls,0.0754632748420558,5
-IRQ,C2_Workplace closing,0.0700297988035028,6
-IRQ,H1_Public information campaigns,0.0699748401024021,7
-IRQ,H3_Contact tracing,0.0606028606693306,8
-IRQ,C1_School closing,0.0585497126211974,9
-IRQ,C5_Close public transport,0.0490036182150341,10
-IRQ,H6_Facial Coverings,0.0456601671887485,11
-IRQ,C3_Cancel public events,0.0449948813063407,12
-IRQ,C7_Restrictions on internal movement,0.0283773571785396,13
-IRQ,E2_Debt/contract relief,0.013689415823158,14
-IRQ,C6_Stay at home requirements,0.0,15
+IRQ,H2_Testing policy,0.1497852297276705,1
+IRQ,C4_Restrictions on gatherings,0.11554679090099,2
+IRQ,C7_Restrictions on internal movement,0.0896177628092838,3
+IRQ,H7_Vaccination policy,0.0793305449249937,4
+IRQ,C8_International travel controls,0.0781317635022101,5
+IRQ,C2_Workplace closing,0.0675957387365914,6
+IRQ,E1_Income support,0.0485150917528302,7
+IRQ,C5_Close public transport,0.0460888912307233,8
+IRQ,C1_School closing,0.0454065241663501,9
+IRQ,C6_Stay at home requirements,0.0443946956519301,10
+IRQ,C3_Cancel public events,0.0412378471621641,11
+IRQ,H6_Facial Coverings,0.0334420674216939,12
+IRQ,H3_Contact tracing,0.0263952976518571,13
+IRQ,H1_Public information campaigns,0.0189408060389656,14
+IRQ,E2_Debt/contract relief,0.0117549915779173,15

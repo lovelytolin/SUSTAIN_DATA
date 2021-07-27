@@ -16,7 +16,7 @@
  },
  {
   "ISO": "MMR",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H7_Vaccination policy",
   "rank": 4
  },
  {
@@ -26,52 +26,52 @@
  },
  {
   "ISO": "MMR",
-  "Policy": "C1_School closing",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 6
  },
  {
   "ISO": "MMR",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "MMR",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H3_Contact tracing",
   "rank": 8
  },
  {
   "ISO": "MMR",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H6_Facial Coverings",
   "rank": 9
  },
  {
   "ISO": "MMR",
-  "Policy": "C5_Close public transport",
+  "Policy": "C2_Workplace closing",
   "rank": 10
  },
  {
   "ISO": "MMR",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C5_Close public transport",
   "rank": 11
  },
  {
   "ISO": "MMR",
-  "Policy": "E1_Income support",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 12
  },
  {
   "ISO": "MMR",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 13
  },
  {
   "ISO": "MMR",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H1_Public information campaigns",
   "rank": 14
  },
  {
   "ISO": "MMR",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C3_Cancel public events",
   "rank": 15
  }
 ]

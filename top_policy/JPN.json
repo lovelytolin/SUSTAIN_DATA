@@ -16,7 +16,7 @@
  },
  {
   "ISO": "JPN",
-  "Policy": "H2_Testing policy",
+  "Policy": "H3_Contact tracing",
   "rank": 4
  },
  {
@@ -26,52 +26,52 @@
  },
  {
   "ISO": "JPN",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "E1_Income support",
   "rank": 6
  },
  {
   "ISO": "JPN",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "E2_Debt/contract relief",
   "rank": 7
  },
  {
   "ISO": "JPN",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C6_Stay at home requirements",
   "rank": 8
  },
  {
   "ISO": "JPN",
-  "Policy": "C8_International travel controls",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
   "ISO": "JPN",
-  "Policy": "E1_Income support",
+  "Policy": "C3_Cancel public events",
   "rank": 10
  },
  {
   "ISO": "JPN",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C8_International travel controls",
   "rank": 11
  },
  {
   "ISO": "JPN",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C1_School closing",
   "rank": 12
  },
  {
   "ISO": "JPN",
-  "Policy": "C1_School closing",
+  "Policy": "H6_Facial Coverings",
   "rank": 13
  },
  {
   "ISO": "JPN",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 14
  },
  {
   "ISO": "JPN",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

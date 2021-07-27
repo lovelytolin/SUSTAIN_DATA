@@ -1,52 +1,52 @@
 [
  {
   "ISO": "CRI",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H7_Vaccination policy",
   "rank": 1
  },
  {
   "ISO": "CRI",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "H2_Testing policy",
   "rank": 2
  },
  {
   "ISO": "CRI",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C8_International travel controls",
   "rank": 3
  },
  {
   "ISO": "CRI",
-  "Policy": "E1_Income support",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 4
  },
  {
   "ISO": "CRI",
-  "Policy": "C8_International travel controls",
+  "Policy": "C1_School closing",
   "rank": 5
  },
  {
   "ISO": "CRI",
-  "Policy": "C1_School closing",
+  "Policy": "C5_Close public transport",
   "rank": 6
  },
  {
   "ISO": "CRI",
-  "Policy": "H2_Testing policy",
+  "Policy": "H3_Contact tracing",
   "rank": 7
  },
  {
   "ISO": "CRI",
-  "Policy": "C5_Close public transport",
+  "Policy": "C2_Workplace closing",
   "rank": 8
  },
  {
   "ISO": "CRI",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H6_Facial Coverings",
   "rank": 9
  },
  {
   "ISO": "CRI",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E1_Income support",
   "rank": 10
  },
  {

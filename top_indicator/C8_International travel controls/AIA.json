@@ -1,6 +1,6 @@
 [
  {
-  "rank": 4,
+  "rank": 3,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C8_International travel controls",
@@ -11,18 +11,18 @@
   "year": 2020.0
  },
  {
-  "rank": 14,
+  "rank": 30,
   "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C8_International travel controls",
   "Country": "Anguilla",
   "ISO": "AIA",
-  "value": 0.3557367,
+  "value": 1.367357,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 37,
+  "rank": 51,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C8_International travel controls",
@@ -33,7 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
+  "rank": 53,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C8_International travel controls",
@@ -55,24 +55,24 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
+  "rank": 63,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "C8_International travel controls",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.3557367,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "C8_International travel controls",
   "Country": "Anguilla",
   "ISO": "AIA",
   "value": 0.8462311,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 70,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "C8_International travel controls",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 1.367357,
   "unit": "score",
   "year": 2019.0
  }

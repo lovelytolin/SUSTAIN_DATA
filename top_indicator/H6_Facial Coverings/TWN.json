@@ -11,29 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.40276,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 8,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.9959083,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 9,
+  "rank": 6,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
   "Policy": "H6_Facial Coverings",
@@ -44,7 +22,18 @@
   "year": 2018.0
  },
  {
-  "rank": 11,
+  "rank": 7,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.40276,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H6_Facial Coverings",
@@ -55,73 +44,7 @@
   "year": 2019.0
  },
  {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.084017,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 13,
-  "Category": "Governance",
-  "Indicator": "Economic Freedom Score",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 7.94,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 14,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.141121,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 22.63303,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 56.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.436754,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 37,
+  "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "H6_Facial Coverings",
@@ -132,18 +55,7 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.69e-05,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 43,
+  "rank": 11,
   "Category": "Governance",
   "Indicator": "Total freedom in the world score ",
   "Policy": "H6_Facial Coverings",
@@ -154,29 +66,18 @@
   "year": 2021.0
  },
  {
-  "rank": 46,
+  "rank": 15,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
+  "Indicator": "Economic Freedom Score",
   "Policy": "H6_Facial Coverings",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 8.42,
+  "value": 7.94,
   "unit": "score",
   "year": 2018.0
  },
  {
-  "rank": 52,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.045266,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 53,
+  "rank": 18,
   "Category": "Governance",
   "Indicator": "Corruption Perceptions Index",
   "Policy": "H6_Facial Coverings",
@@ -187,7 +88,7 @@
   "year": 2020.0
  },
  {
-  "rank": 54,
+  "rank": 23,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H6_Facial Coverings",
@@ -198,95 +99,40 @@
   "year": 2019.0
  },
  {
-  "rank": 58,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 59,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.04188,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 62,
+  "rank": 29,
   "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H6_Facial Coverings",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 0.7195977,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 67,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.004969,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 71,
-  "Category": "Social issues ",
-  "Indicator": "Life Ladder ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 6.584400177001953,
+  "value": 56.0,
   "unit": "score",
   "year": 2021.0
  },
  {
-  "rank": 81,
-  "Category": "Economics",
-  "Indicator": "Lending interest rates, percent per annum",
+  "rank": 30,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
   "Policy": "H6_Facial Coverings",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 2.631,
-  "unit": "percent per annum",
+  "value": 8.69e-05,
+  "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Economics",
-  "Indicator": "Expenditure on social protection (% of GDP)",
+  "rank": 31,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
   "Policy": "H6_Facial Coverings",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 3.2,
+  "value": 0.084017,
   "unit": "percent",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
-  "rank": 84,
-  "Category": "Economics",
-  "Indicator": "Expenditure on education (% of GDP)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.5,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 85,
+  "rank": 34,
   "Category": "Economics",
   "Indicator": "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
   "Policy": "H6_Facial Coverings",
@@ -297,40 +143,73 @@
   "year": 2020.0
  },
  {
-  "rank": 86,
-  "Category": "Economics",
-  "Indicator": "Foreign direct investment, net",
+  "rank": 37,
+  "Category": "Social issues ",
+  "Indicator": "Life Ladder ",
   "Policy": "H6_Facial Coverings",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 8245000000.0,
-  "unit": "US Dollar",
-  "year": 2019.0
+  "value": 6.584400177001953,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 92,
-  "Category": "Economics",
-  "Indicator": "International tourism, receipts",
+  "rank": 41,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
   "Policy": "H6_Facial Coverings",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 14373000000.0,
-  "unit": "US Dollar",
-  "year": 2019.0
- },
- {
-  "rank": 93,
-  "Category": "Economics",
-  "Indicator": "Expenditure on health (% of GDP)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.1,
+  "value": 0.04188,
   "unit": "percent",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
-  "rank": 104,
+  "rank": 48,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.004969,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 51,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 23.76,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 60,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 22.63303,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
   "Category": "Economics",
   "Indicator": "Trade, total as % of GDP",
   "Policy": "H6_Facial Coverings",
@@ -341,7 +220,117 @@
   "year": 2019.0
  },
  {
-  "rank": 108,
+  "rank": 65,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.7195977,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.045266,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 77,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.9959083,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Lending interest rates, percent per annum",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 2.631,
+  "unit": "percent per annum",
+  "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Economics",
+  "Indicator": "Expenditure on education (% of GDP)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.5,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 81,
+  "Category": "Economics",
+  "Indicator": "Expenditure on social protection (% of GDP)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 3.2,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 82,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.141121,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 90,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.436754,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 96,
+  "Category": "Economics",
+  "Indicator": "Expenditure on health (% of GDP)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.1,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 97,
   "Category": "Economics",
   "Indicator": "Stock market capitalization (US$ million)",
   "Policy": "H6_Facial Coverings",
@@ -352,14 +341,25 @@
   "year": 2019.0
  },
  {
-  "rank": 114,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
+  "rank": 102,
+  "Category": "Economics",
+  "Indicator": "International tourism, receipts",
   "Policy": "H6_Facial Coverings",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
+  "value": 14373000000.0,
+  "unit": "US Dollar",
+  "year": 2019.0
+ },
+ {
+  "rank": 117,
+  "Category": "Economics",
+  "Indicator": "Foreign direct investment, net",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8245000000.0,
+  "unit": "US Dollar",
+  "year": 2019.0
  }
 ]

@@ -16,7 +16,7 @@
  },
  {
   "ISO": "LAO",
-  "Policy": "C8_International travel controls",
+  "Policy": "H1_Public information campaigns",
   "rank": 4
  },
  {
@@ -31,12 +31,12 @@
  },
  {
   "ISO": "LAO",
-  "Policy": "E1_Income support",
+  "Policy": "C8_International travel controls",
   "rank": 7
  },
  {
   "ISO": "LAO",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "E1_Income support",
   "rank": 8
  },
  {
@@ -46,22 +46,22 @@
  },
  {
   "ISO": "LAO",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H2_Testing policy",
   "rank": 10
  },
  {
   "ISO": "LAO",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 11
  },
  {
   "ISO": "LAO",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E2_Debt/contract relief",
   "rank": 12
  },
  {
   "ISO": "LAO",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C6_Stay at home requirements",
   "rank": 13
  },
  {

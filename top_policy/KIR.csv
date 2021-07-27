@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-KIR,H7_Vaccination policy,0.1388352577932952,1
-KIR,C3_Cancel public events,0.0887945174794758,2
-KIR,E1_Income support,0.085207826532111,3
-KIR,C1_School closing,0.0788554537244198,4
-KIR,H6_Facial Coverings,0.0654522991448432,5
-KIR,H3_Contact tracing,0.0525759646323419,6
-KIR,H2_Testing policy,0.0485899497714565,7
-KIR,H1_Public information campaigns,0.0473080225451468,8
-KIR,C2_Workplace closing,0.0407906874887448,9
-KIR,E2_Debt/contract relief,0.0374717978082934,10
-KIR,C8_International travel controls,0.0286574126030339,11
-KIR,C7_Restrictions on internal movement,0.0264148533373199,12
-KIR,C6_Stay at home requirements,0.0174472479343572,13
-KIR,C5_Close public transport,0.0142380625278421,14
-KIR,C4_Restrictions on gatherings,0.0015270809052882,15
+KIR,H7_Vaccination policy,0.088302293323561,1
+KIR,C4_Restrictions on gatherings,0.0852081172249739,2
+KIR,E1_Income support,0.0796455847009488,3
+KIR,C1_School closing,0.0705321836665458,4
+KIR,H6_Facial Coverings,0.0699017105688883,5
+KIR,H3_Contact tracing,0.0666874906315627,6
+KIR,H2_Testing policy,0.0544233416233296,7
+KIR,H1_Public information campaigns,0.0516993654558804,8
+KIR,C2_Workplace closing,0.0381372922318685,9
+KIR,E2_Debt/contract relief,0.0347897637431874,10
+KIR,C8_International travel controls,0.0275898016244053,11
+KIR,C7_Restrictions on internal movement,0.0261956534014171,12
+KIR,C6_Stay at home requirements,0.0211306587933936,13
+KIR,C5_Close public transport,0.0186540184994108,14
+KIR,C3_Cancel public events,0.0159665936029256,15

@@ -11,238 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "rank": 2,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 0.408519,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 5,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 6.25,
+  "value": 84.07847367017,
   "unit": "proportion",
-  "year": 2020.0
+  "year": 2017.0
  },
  {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 4.2609,
-  "unit": "Ones",
-  "year": 2018.0
- },
- {
-  "rank": 9,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.4812893,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 10,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 3.95778,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.101596,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 16,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of women in managerial positions (%)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 35.93,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 18,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 19,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 51.6,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 20,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 93.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.4090785,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 26,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 56.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 28,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 2000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.042138,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 32,
-  "Category": "Health",
-  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 6.4,
-  "unit": "percent",
-  "year": 2020.0
- },
- {
-  "rank": 34,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": -0.6466321,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 1.122499,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 9.7,
-  "unit": "percent",
-  "year": 2020.0
- },
- {
-  "rank": 42,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 85.86639189421261,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 43,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 15.2,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 44,
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "H3_Contact tracing",
@@ -253,29 +33,29 @@
   "year": 2019.0
  },
  {
-  "rank": 47,
+  "rank": 5,
   "Category": "Health",
-  "Indicator": "Physicians (per 1,000 people)",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 0.9174,
-  "unit": "Ones",
-  "year": 2014.0
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  },
  {
-  "rank": 49,
-  "Category": "Economics",
-  "Indicator": "Foreign direct investment, net",
+  "rank": 6,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 298860.0,
-  "unit": "US Dollar",
-  "year": 2018.0
+  "value": 2000.0,
+  "unit": "number",
+  "year": 2019.0
  },
  {
-  "rank": 50,
+  "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "H3_Contact tracing",
@@ -286,62 +66,7 @@
   "year": 2019.0
  },
  {
-  "rank": 51,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.002918,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 52,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 1.204567,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 54,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 37.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 55,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.980045,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 56,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 0.0,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 59,
+  "rank": 11,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H3_Contact tracing",
@@ -352,18 +77,7 @@
   "year": 2019.0
  },
  {
-  "rank": 63,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 70.3606,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 65,
+  "rank": 13,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
   "Policy": "H3_Contact tracing",
@@ -374,29 +88,51 @@
   "year": 2019.0
  },
  {
-  "rank": 66,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 14,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 69,
-  "Category": "Economics",
-  "Indicator": "Expenditure on social protection (% of GDP)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 9.08319,
+  "value": 0.101596,
   "unit": "percent",
-  "year": 2016.0
+  "year": 2019.0
  },
  {
-  "rank": 70,
+  "rank": 15,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 3.95778,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 19,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.0,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 22,
+  "Category": "Health",
+  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 92.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 23,
   "Category": "Health",
   "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H3_Contact tracing",
@@ -407,7 +143,84 @@
   "year": 2019.0
  },
  {
-  "rank": 71,
+  "rank": 26,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 28,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.042138,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 36.785,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 1.204567,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 34,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 1.122499,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 35,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 96.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 39,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 93.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 40,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H3_Contact tracing",
@@ -418,7 +231,183 @@
   "year": 2020.0
  },
  {
-  "rank": 72,
+  "rank": 41,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of women in managerial positions (%)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 35.93,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 42,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": -0.6466321,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 43,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.112408,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 44,
+  "Category": "Economics",
+  "Indicator": "Expenditure on social protection (% of GDP)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 9.08319,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 45,
+  "Category": "Health",
+  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 6.4,
+  "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 47,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 11.001,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 50,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.4090785,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
+  "Category": "Economics",
+  "Indicator": "Unemployment rate (%) - Annual",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 8.7,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 57,
+  "Category": "Health",
+  "Indicator": "Prevalence of obesity",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 51.6,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 59,
+  "Category": "Social issues ",
+  "Indicator": "Progression to secondary school (%)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 93.66516,
+  "unit": "proportion",
+  "year": 2015.0
+ },
+ {
+  "rank": 61,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 56.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 64,
+  "Category": "Health",
+  "Indicator": "Physicians (per 1,000 people)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.9174,
+  "unit": "Ones",
+  "year": 2014.0
+ },
+ {
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.408519,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 70.3606,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 68,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.980045,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 75,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
   "Policy": "H3_Contact tracing",
@@ -430,50 +419,39 @@
  },
  {
   "rank": 76,
-  "Category": "Social issues ",
-  "Indicator": "Progression to secondary school (%)",
+  "Category": "Health",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 93.66516,
-  "unit": "proportion",
-  "year": 2015.0
+  "value": 4.2609,
+  "unit": "Ones",
+  "year": 2018.0
  },
  {
   "rank": 77,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
+  "Category": "Health",
+  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 11.001,
-  "unit": "kt",
-  "year": 2016.0
+  "value": 9.7,
+  "unit": "percent",
+  "year": 2020.0
  },
  {
-  "rank": 79,
+  "rank": 78,
   "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
+  "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 0.112408,
+  "value": 0.002918,
   "unit": "percent",
   "year": 2019.0
  },
  {
   "rank": 80,
-  "Category": "Health",
-  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 92.0,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 83,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "H3_Contact tracing",
@@ -484,7 +462,29 @@
   "year": 2019.0
  },
  {
-  "rank": 85,
+  "rank": 81,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 15.2,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 88,
+  "Category": "Economics",
+  "Indicator": "Expenditure on health (% of GDP)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 9.62269,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 94,
   "Category": "Economics",
   "Indicator": "Trade, total as % of GDP",
   "Policy": "H3_Contact tracing",
@@ -495,26 +495,15 @@
   "year": 2017.0
  },
  {
-  "rank": 88,
-  "Category": "Economics",
-  "Indicator": "Unemployment rate (%) - Annual",
+  "rank": 95,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 8.7,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 90,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 36.785,
-  "unit": "proportion",
-  "year": 2019.0
+  "value": 37.0,
+  "unit": "score",
+  "year": 2021.0
  },
  {
   "rank": 96,
@@ -528,7 +517,40 @@
   "year": 2019.0
  },
  {
-  "rank": 101,
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 85.86639189421261,
+  "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 109,
+  "Category": "Economics",
+  "Indicator": "Foreign direct investment, net",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 298860.0,
+  "unit": "US Dollar",
+  "year": 2018.0
+ },
+ {
+  "rank": 110,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tuvalu",
+  "ISO": "TUV",
+  "value": 0.4812893,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 112,
   "Category": "Economics",
   "Indicator": "Expenditure on education (% of GDP)",
   "Policy": "H3_Contact tracing",
@@ -537,28 +559,6 @@
   "value": 20.40146,
   "unit": "percent",
   "year": 2016.0
- },
- {
-  "rank": 102,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 84.07847367017,
-  "unit": "proportion",
-  "year": 2017.0
- },
- {
-  "rank": 110,
-  "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tuvalu",
-  "ISO": "TUV",
-  "value": 96.0,
-  "unit": "percent",
-  "year": 2019.0
  },
  {
   "rank": 114,
@@ -572,14 +572,14 @@
   "year": 2018.0
  },
  {
-  "rank": 117,
-  "Category": "Economics",
-  "Indicator": "Expenditure on health (% of GDP)",
+  "rank": 115,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
   "Policy": "H3_Contact tracing",
   "Country": "Tuvalu",
   "ISO": "TUV",
-  "value": 9.62269,
-  "unit": "percent",
-  "year": 2016.0
+  "value": 6.25,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

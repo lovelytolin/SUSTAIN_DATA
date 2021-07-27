@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-LBR,H3_Contact tracing,0.0876804690057139,1
-LBR,C2_Workplace closing,0.0800635050515573,2
-LBR,H6_Facial Coverings,0.0717879869232938,3
-LBR,C8_International travel controls,0.0705585290542888,4
-LBR,C1_School closing,0.0671834748004129,5
-LBR,H7_Vaccination policy,0.0587290687902369,6
-LBR,C4_Restrictions on gatherings,0.0585062587451851,7
-LBR,E1_Income support,0.0582473583671301,8
-LBR,C3_Cancel public events,0.0563313331543065,9
-LBR,H1_Public information campaigns,0.0554974867082025,10
-LBR,C7_Restrictions on internal movement,0.0369776976838333,11
-LBR,E2_Debt/contract relief,0.0369032629573364,12
-LBR,H2_Testing policy,0.0354861504213626,13
-LBR,C6_Stay at home requirements,0.0254973461324039,14
+LBR,H3_Contact tracing,0.0976171253381233,1
+LBR,C2_Workplace closing,0.0970331837354495,2
+LBR,H6_Facial Coverings,0.0933027825682261,3
+LBR,C8_International travel controls,0.0783673672072338,4
+LBR,H1_Public information campaigns,0.0680385949386424,5
+LBR,C1_School closing,0.061093117712806,6
+LBR,H7_Vaccination policy,0.0600124862006549,7
+LBR,C4_Restrictions on gatherings,0.0586977186142843,8
+LBR,C6_Stay at home requirements,0.0516321771097875,9
+LBR,E1_Income support,0.0408905758005014,10
+LBR,C7_Restrictions on internal movement,0.0373580652980152,11
+LBR,C3_Cancel public events,0.0365357730898489,12
+LBR,E2_Debt/contract relief,0.033665523740527,13
+LBR,H2_Testing policy,0.0306289495545608,14
 LBR,C5_Close public transport,0.0,15

@@ -1,17 +1,6 @@
 [
  {
-  "rank": 2,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C8_International travel controls",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.362278,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 4,
+  "rank": 3,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C8_International travel controls",
@@ -22,51 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "C8_International travel controls",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.030871,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "C8_International travel controls",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 15,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "C8_International travel controls",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 27.98347,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 21,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C8_International travel controls",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 24,
+  "rank": 12,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "C8_International travel controls",
@@ -77,7 +22,73 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
+  "rank": 18,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C8_International travel controls",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 19,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C8_International travel controls",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 27.98347,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 20,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C8_International travel controls",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.007214,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "C8_International travel controls",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.111261,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C8_International travel controls",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.030871,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 41,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C8_International travel controls",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 53,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C8_International travel controls",
@@ -90,33 +101,22 @@
  {
   "rank": 60,
   "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "C8_International travel controls",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.362278,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "C8_International travel controls",
   "Country": "Tokelau",
   "ISO": "TKL",
   "value": 0.106118,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 84,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "C8_International travel controls",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.111261,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 85,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C8_International travel controls",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.007214,
   "unit": "percent",
   "year": 2019.0
  }

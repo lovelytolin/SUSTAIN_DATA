@@ -11,17 +11,17 @@
  },
  {
   "ISO": "TUN",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E2_Debt/contract relief",
   "rank": 3
  },
  {
   "ISO": "TUN",
-  "Policy": "C5_Close public transport",
+  "Policy": "H3_Contact tracing",
   "rank": 4
  },
  {
   "ISO": "TUN",
-  "Policy": "C8_International travel controls",
+  "Policy": "C5_Close public transport",
   "rank": 5
  },
  {
@@ -31,37 +31,37 @@
  },
  {
   "ISO": "TUN",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C8_International travel controls",
   "rank": 7
  },
  {
   "ISO": "TUN",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C2_Workplace closing",
   "rank": 8
  },
  {
   "ISO": "TUN",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C6_Stay at home requirements",
   "rank": 9
  },
  {
   "ISO": "TUN",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 10
  },
  {
   "ISO": "TUN",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C3_Cancel public events",
   "rank": 11
  },
  {
   "ISO": "TUN",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H2_Testing policy",
   "rank": 12
  },
  {
   "ISO": "TUN",
-  "Policy": "E1_Income support",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 13
  },
  {
@@ -71,7 +71,7 @@
  },
  {
   "ISO": "TUN",
-  "Policy": "H2_Testing policy",
+  "Policy": "E1_Income support",
   "rank": 15
  }
 ]

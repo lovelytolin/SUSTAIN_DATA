@@ -34,14 +34,14 @@
  },
  {
   "rank": 4,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
+  "Category": "Health",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": -0.0483038,
-  "unit": "score",
-  "year": 2019.0
+  "value": 4.5669,
+  "unit": "Ones",
+  "year": 2018.0
  },
  {
   "rank": 5,
@@ -56,39 +56,6 @@
  },
  {
   "rank": 6,
-  "Category": "Economics",
-  "Indicator": "Employment in services (% of total employment) (modeled ILO estimate)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 83.8909988,
-  "unit": "Percentage of total employment",
-  "year": 2020.0
- },
- {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 4.5669,
-  "unit": "Ones",
-  "year": 2018.0
- },
- {
-  "rank": 8,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 0.9342639,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 9,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
   "Policy": "H6_Facial Coverings",
@@ -99,18 +66,29 @@
   "year": 2018.0
  },
  {
-  "rank": 10,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
+  "rank": 7,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 1785.829,
-  "unit": "kt",
-  "year": 2016.0
+  "value": -0.0483038,
+  "unit": "score",
+  "year": 2019.0
  },
  {
-  "rank": 11,
+  "rank": 8,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 3.1,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H6_Facial Coverings",
@@ -121,18 +99,51 @@
   "year": 2019.0
  },
  {
-  "rank": 12,
+  "rank": 10,
   "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
+  "Indicator": "Prevalence of total cancers",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 0.091191,
+  "value": 0.014879,
   "unit": "percent",
   "year": 2019.0
  },
  {
+  "rank": 11,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 91.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 12,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 1785.829,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
   "rank": 13,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 1.21051288380392,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 15,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
   "Policy": "H6_Facial Coverings",
@@ -143,40 +154,7 @@
   "year": 2018.0
  },
  {
-  "rank": 14,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 0.0765319,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 15,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 15.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 13.84884,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 19,
+  "rank": 16,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H6_Facial Coverings",
@@ -187,7 +165,7 @@
   "year": 2019.0
  },
  {
-  "rank": 20,
+  "rank": 17,
   "Category": "Social issues ",
   "Indicator": "Net migration",
   "Policy": "H6_Facial Coverings",
@@ -198,84 +176,40 @@
   "year": 2019.0
  },
  {
+  "rank": 18,
+  "Category": "Governance",
+  "Indicator": "Corruption Perceptions Index",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 63.0,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
   "rank": 21,
   "Category": "Economics",
-  "Indicator": "Volume of exports",
+  "Indicator": "Employment in services (% of total employment) (modeled ILO estimate)",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 3.436,
-  "unit": "percent change",
+  "value": 83.8909988,
+  "unit": "Percentage of total employment",
   "year": 2020.0
  },
  {
-  "rank": 22,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 109.249,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Economics",
-  "Indicator": "Volume of imports",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": -2.25,
-  "unit": "percent change",
-  "year": 2020.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 53.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 26,
+  "rank": 23,
   "Category": "Health",
-  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 86.0,
+  "value": 0.098232,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 27,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 4.725278,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 0.4860963,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 31,
+  "rank": 25,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "H6_Facial Coverings",
@@ -286,51 +220,73 @@
   "year": 2019.0
  },
  {
-  "rank": 32,
+  "rank": 26,
   "Category": "Economics",
-  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
+  "Indicator": "Volume of exports",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 74.4759979,
-  "unit": "Percentage of total population",
+  "value": 3.436,
+  "unit": "percent change",
   "year": 2020.0
  },
  {
-  "rank": 33,
-  "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "rank": 29,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 85.0,
+  "value": 53.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 30,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 0.000294,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 34,
+  "rank": 31,
   "Category": "Health",
-  "Indicator": "Physicians (per 1,000 people)",
+  "Indicator": "Prevalence of Diabetes",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 2.0068,
-  "unit": "Ones",
-  "year": 2017.0
+  "value": 0.091191,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 83.132,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
+  "rank": 33,
+  "Category": "Economics",
+  "Indicator": "Volume of imports",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": -2.25,
+  "unit": "percent change",
+  "year": 2020.0
  },
  {
   "rank": 35,
-  "Category": "Environment",
-  "Indicator": "PM2.5 air pollution, mean annual exposure",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 17.36772,
-  "unit": "micrograms per cubic meter",
-  "year": 2017.0
- },
- {
-  "rank": 36,
   "Category": "Environment",
   "Indicator": "Adjusted net savings, including particulate emission damage",
   "Policy": "H6_Facial Coverings",
@@ -341,15 +297,15 @@
   "year": 2018.0
  },
  {
-  "rank": 37,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
+  "rank": 36,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 0.014879,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 12.82051282,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 38,
@@ -364,160 +320,17 @@
  },
  {
   "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
+  "Category": "Economics",
+  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 0.000294,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Human Development Index",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 0.814,
-  "unit": "index",
-  "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 31.6,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 43,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 91.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 44,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 3.1,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Serious assault (rate)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 1046.33,
-  "unit": "rate",
-  "year": 2018.0
- },
- {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 7.72,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 99.9999999918088,
-  "unit": "percent of total",
-  "year": 2017.0
- },
- {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 91129.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 10.6234623024913,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 52,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 1.184628,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 53,
-  "Category": "Governance",
-  "Indicator": "Corruption Perceptions Index",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 63.0,
-  "unit": "score",
+  "value": 74.4759979,
+  "unit": "Percentage of total population",
   "year": 2020.0
  },
  {
-  "rank": 54,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 0.098232,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 55,
-  "Category": "Economics",
-  "Indicator": "Central government debt, total",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 51.46341954143438,
-  "unit": "percent of GDP",
-  "year": 2016.0
- },
- {
-  "rank": 59,
+  "rank": 41,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
   "Policy": "H6_Facial Coverings",
@@ -528,29 +341,7 @@
   "year": 2019.0
  },
  {
-  "rank": 61,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 49.86859355975667,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 62,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 0.8294795,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -561,7 +352,29 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
+  "rank": 43,
+  "Category": "Environment",
+  "Indicator": "PM2.5 air pollution, mean annual exposure",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 17.36772,
+  "unit": "micrograms per cubic meter",
+  "year": 2017.0
+ },
+ {
+  "rank": 45,
+  "Category": "Health",
+  "Indicator": "Prevalence of obesity",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 31.6,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 48,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H6_Facial Coverings",
@@ -572,73 +385,7 @@
   "year": 2019.0
  },
  {
-  "rank": 68,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 389482.0,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 69,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 41.96278544221902,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 70,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 73,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 16.868,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 74,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 1.21051288380392,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 75,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 12.82051282,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 77,
+  "rank": 49,
   "Category": "Economics",
   "Indicator": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
   "Policy": "H6_Facial Coverings",
@@ -649,18 +396,161 @@
   "year": 2020.0
  },
  {
-  "rank": 78,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
+  "rank": 50,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H6_Facial Coverings",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 10.0,
+  "value": 15.0,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 52,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 53,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 4.725278,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Serious assault (rate)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 1046.33,
+  "unit": "rate",
+  "year": 2018.0
+ },
+ {
+  "rank": 55,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 109.249,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Health",
+  "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 86.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 58,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 91129.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 16.868,
   "unit": "proportion",
   "year": 2019.0
  },
  {
-  "rank": 79,
+  "rank": 60,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 13.84884,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 10.6234623024913,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 63,
+  "Category": "Governance",
+  "Indicator": "Fragile States Index Total ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 49.86859355975667,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 65,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 0.8294795,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 1.184628,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
+  "Category": "Health",
+  "Indicator": "Physicians (per 1,000 people)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 2.0068,
+  "unit": "Ones",
+  "year": 2017.0
+ },
+ {
+  "rank": 70,
   "Category": "Demographics",
   "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "H6_Facial Coverings",
@@ -671,7 +561,139 @@
   "year": 2017.0
  },
  {
+  "rank": 71,
+  "Category": "Environment",
+  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 99.9999999918088,
+  "unit": "percent of total",
+  "year": 2017.0
+ },
+ {
+  "rank": 72,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 7.72,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 10.0,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 75,
+  "Category": "Economics",
+  "Indicator": "Central government debt, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 51.46341954143438,
+  "unit": "percent of GDP",
+  "year": 2016.0
+ },
+ {
+  "rank": 76,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 77,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 0.9342639,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 82,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 0.0765319,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 389482.0,
+  "unit": "total",
+  "year": 2019.0
+ },
+ {
   "rank": 88,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 85.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 90,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 0.4860963,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 95,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 0.814,
+  "unit": "index",
+  "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 41.96278544221902,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 115,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
   "Policy": "H6_Facial Coverings",
@@ -680,27 +702,5 @@
   "value": 76.4586334228516,
   "unit": "proportion",
   "year": 2018.0
- },
- {
-  "rank": 101,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 83.132,
-  "unit": "total",
-  "year": 2019.0
- },
- {
-  "rank": 114,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
  }
 ]

@@ -1,17 +1,17 @@
 [
  {
   "ISO": "MDG",
-  "Policy": "H2_Testing policy",
+  "Policy": "H7_Vaccination policy",
   "rank": 1
  },
  {
   "ISO": "MDG",
-  "Policy": "C5_Close public transport",
+  "Policy": "H6_Facial Coverings",
   "rank": 2
  },
  {
   "ISO": "MDG",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C5_Close public transport",
   "rank": 3
  },
  {
@@ -36,22 +36,22 @@
  },
  {
   "ISO": "MDG",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C8_International travel controls",
   "rank": 8
  },
  {
   "ISO": "MDG",
-  "Policy": "C8_International travel controls",
+  "Policy": "C2_Workplace closing",
   "rank": 9
  },
  {
   "ISO": "MDG",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H2_Testing policy",
   "rank": 10
  },
  {
   "ISO": "MDG",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H3_Contact tracing",
   "rank": 11
  },
  {
@@ -66,12 +66,12 @@
  },
  {
   "ISO": "MDG",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C3_Cancel public events",
   "rank": 14
  },
  {
   "ISO": "MDG",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "H1_Public information campaigns",
   "rank": 15
  }
 ]

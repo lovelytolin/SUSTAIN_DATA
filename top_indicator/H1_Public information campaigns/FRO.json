@@ -11,40 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 534.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 8,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 37.328,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 13,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 116.474,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 38,
+  "rank": 5,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
   "Policy": "H1_Public information campaigns",
@@ -55,51 +22,40 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "rank": 7,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H1_Public information campaigns",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 4991.98816713916,
-  "unit": "per 1 million people",
+  "value": 534.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 11,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 37.328,
+  "unit": "per 100 people",
   "year": 2019.0
  },
  {
-  "rank": 41,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
   "Policy": "H1_Public information campaigns",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 13.09289,
-  "unit": "metric tons per capita",
-  "year": 2016.0
+  "value": 116.474,
+  "unit": "per 100 people",
+  "year": 2019.0
  },
  {
-  "rank": 55,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 77,
+  "rank": 35,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "H1_Public information campaigns",
@@ -110,7 +66,18 @@
   "year": 2016.0
  },
  {
-  "rank": 101,
+  "rank": 48,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 61,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H1_Public information campaigns",
@@ -119,5 +86,38 @@
   "value": 0.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
   "year": 2020.0
+ },
+ {
+  "rank": 63,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 13.09289,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 67,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 85,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 4991.98816713916,
+  "unit": "per 1 million people",
+  "year": 2019.0
  }
 ]

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-DNK,H7_Vaccination policy,0.1029141782378929,1
-DNK,C4_Restrictions on gatherings,0.0962935694074855,2
-DNK,C3_Cancel public events,0.0954840847229177,3
-DNK,H6_Facial Coverings,0.0723412054664038,4
-DNK,E2_Debt/contract relief,0.0631849756032753,5
-DNK,C2_Workplace closing,0.0617019751936695,6
-DNK,C1_School closing,0.0595539829985454,7
-DNK,C8_International travel controls,0.0573058935203455,8
-DNK,C6_Stay at home requirements,0.0504546271798185,9
-DNK,H2_Testing policy,0.0496334283504183,10
-DNK,C7_Restrictions on internal movement,0.0363596118583926,11
-DNK,C5_Close public transport,0.0299966936182018,12
-DNK,E1_Income support,0.0233327085025579,13
-DNK,H1_Public information campaigns,0.0125971965369423,14
-DNK,H3_Contact tracing,0.0085263665401442,15
+DNK,H7_Vaccination policy,0.097443774320387,1
+DNK,C4_Restrictions on gatherings,0.0951561220155104,2
+DNK,C3_Cancel public events,0.0866848958191336,3
+DNK,H6_Facial Coverings,0.0713410555962797,4
+DNK,E2_Debt/contract relief,0.0682369108671311,5
+DNK,C2_Workplace closing,0.0660369170337712,6
+DNK,C1_School closing,0.0636291358704915,7
+DNK,C5_Close public transport,0.0555250690371646,8
+DNK,C8_International travel controls,0.0487436847323641,9
+DNK,C6_Stay at home requirements,0.0487141962897455,10
+DNK,C7_Restrictions on internal movement,0.0461868099111291,11
+DNK,E1_Income support,0.0377391114638442,12
+DNK,H2_Testing policy,0.0337707364526604,13
+DNK,H3_Contact tracing,0.0156378858384461,14
+DNK,H1_Public information campaigns,0.0,15

@@ -1,39 +1,6 @@
 [
  {
-  "rank": 2,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 373.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 10,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 9860.020807717772,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H2_Testing policy",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 0.0,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2016.0
- },
- {
-  "rank": 39,
+  "rank": 8,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H2_Testing policy",
@@ -44,7 +11,40 @@
   "year": 2020.0
  },
  {
-  "rank": 60,
+  "rank": 11,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "H2_Testing policy",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 9860.020807717772,
+  "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 40,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H2_Testing policy",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4.2075897300392,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 57,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 373.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 58,
   "Category": "Environment",
   "Indicator": "Access to electricity ",
   "Policy": "H2_Testing policy",
@@ -55,14 +55,14 @@
   "year": 2018.0
  },
  {
-  "rank": 83,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
+  "rank": 96,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "H2_Testing policy",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 4.2075897300392,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
+  "value": 0.0,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2016.0
  }
 ]

@@ -11,12 +11,12 @@
  },
  {
   "ISO": "AND",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "E2_Debt/contract relief",
   "rank": 3
  },
  {
   "ISO": "AND",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 4
  },
  {
@@ -41,17 +41,17 @@
  },
  {
   "ISO": "AND",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C6_Stay at home requirements",
   "rank": 9
  },
  {
   "ISO": "AND",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C2_Workplace closing",
   "rank": 10
  },
  {
   "ISO": "AND",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H6_Facial Coverings",
   "rank": 11
  },
  {
@@ -66,7 +66,7 @@
  },
  {
   "ISO": "AND",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 14
  },
  {

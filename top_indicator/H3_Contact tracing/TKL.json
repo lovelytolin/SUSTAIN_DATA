@@ -1,17 +1,6 @@
 [
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.362278,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 4,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H3_Contact tracing",
@@ -22,40 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 11,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.106118,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 18,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 50,
+  "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "H3_Contact tracing",
@@ -66,18 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 51,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.003708,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 59,
+  "rank": 11,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H3_Contact tracing",
@@ -88,7 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 65,
+  "rank": 13,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
   "Policy": "H3_Contact tracing",
@@ -99,7 +44,40 @@
   "year": 2019.0
  },
  {
-  "rank": 71,
+  "rank": 14,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.106118,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 26,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 28,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 40,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H3_Contact tracing",
@@ -110,13 +88,35 @@
   "year": 2020.0
  },
  {
-  "rank": 79,
+  "rank": 43,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "H3_Contact tracing",
   "Country": "Tokelau",
   "ISO": "TKL",
   "value": 0.111261,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.362278,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.003708,
   "unit": "percent",
   "year": 2019.0
  }

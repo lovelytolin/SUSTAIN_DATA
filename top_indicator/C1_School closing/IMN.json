@@ -1,17 +1,6 @@
 [
  {
   "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 373.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 18,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "C1_School closing",
@@ -22,18 +11,18 @@
   "year": 2016.0
  },
  {
-  "rank": 23,
+  "rank": 9,
   "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C1_School closing",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 25.0,
+  "value": 373.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
   "year": 2020.0
  },
  {
-  "rank": 25,
+  "rank": 56,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "C1_School closing",
@@ -44,7 +33,7 @@
   "year": 2015.0
  },
  {
-  "rank": 40,
+  "rank": 67,
   "Category": "Environment",
   "Indicator": "Access to electricity ",
   "Policy": "C1_School closing",
@@ -55,7 +44,7 @@
   "year": 2018.0
  },
  {
-  "rank": 55,
+  "rank": 80,
   "Category": "Demographics",
   "Indicator": "Secure Internet servers ",
   "Policy": "C1_School closing",
@@ -64,5 +53,16 @@
   "value": 9860.020807717772,
   "unit": "per 1 million people",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C1_School closing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 25.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  }
 ]

@@ -1,6 +1,6 @@
 [
  {
-  "rank": 3,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C4_Restrictions on gatherings",
@@ -11,40 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 13,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.228176,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 22,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 42.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.089055,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 61,
+  "rank": 10,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "C4_Restrictions on gatherings",
@@ -55,7 +22,29 @@
   "year": 2019.0
  },
  {
-  "rank": 66,
+  "rank": 14,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 1.228176,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 21,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 1.089055,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C4_Restrictions on gatherings",
@@ -66,7 +55,7 @@
   "year": 2019.0
  },
  {
-  "rank": 75,
+  "rank": 72,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C4_Restrictions on gatherings",
@@ -75,5 +64,16 @@
   "value": 1.234392,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 74,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 42.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  }
 ]

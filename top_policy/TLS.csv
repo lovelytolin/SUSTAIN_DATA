@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-TLS,H7_Vaccination policy,0.0945688749013562,1
-TLS,C1_School closing,0.0928147304205982,2
-TLS,H3_Contact tracing,0.0865400692837948,3
-TLS,H1_Public information campaigns,0.0786775934985092,4
-TLS,C2_Workplace closing,0.0720320305526038,5
-TLS,C8_International travel controls,0.068566289174578,6
-TLS,C5_Close public transport,0.0642493305234186,7
-TLS,C6_Stay at home requirements,0.0604086897875339,8
-TLS,C7_Restrictions on internal movement,0.0564995357987612,9
-TLS,H6_Facial Coverings,0.0463185816112374,10
-TLS,C4_Restrictions on gatherings,0.0395958042092858,11
-TLS,H2_Testing policy,0.0327631221384931,12
-TLS,E1_Income support,0.0289577192626387,13
-TLS,E2_Debt/contract relief,0.0255923036081668,14
-TLS,C3_Cancel public events,0.0243759247885455,15
+TLS,H7_Vaccination policy,0.0936559741414836,1
+TLS,C1_School closing,0.0929689159187145,2
+TLS,C8_International travel controls,0.0834113166466323,3
+TLS,H1_Public information campaigns,0.0777454081795461,4
+TLS,H3_Contact tracing,0.0690228787928727,5
+TLS,C2_Workplace closing,0.0680810375396398,6
+TLS,C5_Close public transport,0.0567299905411929,7
+TLS,C6_Stay at home requirements,0.0552016676089447,8
+TLS,C7_Restrictions on internal movement,0.0516997543939458,9
+TLS,H6_Facial Coverings,0.0451720059969666,10
+TLS,C4_Restrictions on gatherings,0.0440597174084734,11
+TLS,E1_Income support,0.0395910822095527,12
+TLS,H2_Testing policy,0.0394252974721014,13
+TLS,E2_Debt/contract relief,0.029489648944264,14
+TLS,C3_Cancel public events,0.0136441717578802,15

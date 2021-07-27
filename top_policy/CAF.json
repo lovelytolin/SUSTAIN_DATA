@@ -16,27 +16,27 @@
  },
  {
   "ISO": "CAF",
-  "Policy": "C8_International travel controls",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 4
  },
  {
   "ISO": "CAF",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 5
  },
  {
   "ISO": "CAF",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H1_Public information campaigns",
   "rank": 6
  },
  {
   "ISO": "CAF",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C6_Stay at home requirements",
   "rank": 7
  },
  {
   "ISO": "CAF",
-  "Policy": "E1_Income support",
+  "Policy": "H6_Facial Coverings",
   "rank": 8
  },
  {
@@ -61,7 +61,7 @@
  },
  {
   "ISO": "CAF",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C8_International travel controls",
   "rank": 13
  },
  {

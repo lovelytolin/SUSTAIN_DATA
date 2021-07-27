@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-PHL,H7_Vaccination policy,0.0785178367243457,1
-PHL,H6_Facial Coverings,0.0745932988300058,2
-PHL,C7_Restrictions on internal movement,0.0688417020249385,3
-PHL,E1_Income support,0.0686501007389716,4
-PHL,C1_School closing,0.0666063297140203,5
-PHL,C4_Restrictions on gatherings,0.0659005880683007,6
-PHL,H2_Testing policy,0.056725971905712,7
-PHL,H3_Contact tracing,0.0565360891327068,8
-PHL,C5_Close public transport,0.054726085598304,9
-PHL,C8_International travel controls,0.0537352145506125,10
-PHL,C6_Stay at home requirements,0.0477869616726316,11
-PHL,E2_Debt/contract relief,0.0460751659541055,12
-PHL,C2_Workplace closing,0.0428337442805925,13
-PHL,C3_Cancel public events,0.0079435374089438,14
+PHL,H7_Vaccination policy,0.1211013578402995,1
+PHL,H6_Facial Coverings,0.1155400774841417,2
+PHL,H2_Testing policy,0.1062465461051544,3
+PHL,C7_Restrictions on internal movement,0.0779134409467622,4
+PHL,E1_Income support,0.076043054124071,5
+PHL,C4_Restrictions on gatherings,0.0593512699393129,6
+PHL,C1_School closing,0.057761144274114,7
+PHL,C6_Stay at home requirements,0.0506681770431717,8
+PHL,H3_Contact tracing,0.0449754195539527,9
+PHL,C5_Close public transport,0.0358007547051969,10
+PHL,C8_International travel controls,0.0346979616191781,11
+PHL,E2_Debt/contract relief,0.0240537999695194,12
+PHL,C2_Workplace closing,0.0217455413552185,13
+PHL,C3_Cancel public events,0.012235463271296,14
 PHL,H1_Public information campaigns,0.0,15

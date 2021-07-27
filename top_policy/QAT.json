@@ -16,52 +16,52 @@
  },
  {
   "ISO": "QAT",
-  "Policy": "C5_Close public transport",
+  "Policy": "C2_Workplace closing",
   "rank": 4
  },
  {
   "ISO": "QAT",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C1_School closing",
   "rank": 5
  },
  {
   "ISO": "QAT",
-  "Policy": "C2_Workplace closing",
+  "Policy": "E2_Debt/contract relief",
   "rank": 6
  },
  {
   "ISO": "QAT",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H6_Facial Coverings",
   "rank": 7
  },
  {
   "ISO": "QAT",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C6_Stay at home requirements",
   "rank": 8
  },
  {
   "ISO": "QAT",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 9
  },
  {
   "ISO": "QAT",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 10
  },
  {
   "ISO": "QAT",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "H1_Public information campaigns",
   "rank": 11
  },
  {
   "ISO": "QAT",
-  "Policy": "E1_Income support",
+  "Policy": "C5_Close public transport",
   "rank": 12
  },
  {
   "ISO": "QAT",
-  "Policy": "C1_School closing",
+  "Policy": "C3_Cancel public events",
   "rank": 13
  },
  {
@@ -71,7 +71,7 @@
  },
  {
   "ISO": "QAT",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 15
  }
 ]

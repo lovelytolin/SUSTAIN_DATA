@@ -22,7 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 6,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -34,17 +34,28 @@
  },
  {
   "rank": 7,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "H7_Vaccination policy",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 26.05573,
-  "unit": "Rate (risk-weighted prevalence)",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 9,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 32.7259,
+  "unit": "per 100 people",
   "year": 2019.0
  },
  {
-  "rank": 8,
+  "rank": 10,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
   "Policy": "H7_Vaccination policy",
@@ -57,6 +68,17 @@
  {
   "rank": 13,
   "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 0.086259,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 15,
+  "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "H7_Vaccination policy",
   "Country": "San Marino",
@@ -66,29 +88,7 @@
   "year": 2019.0
  },
  {
-  "rank": 14,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 32.7259,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
   "rank": 16,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 6.0,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 17,
   "Category": "Health",
   "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
   "Policy": "H7_Vaccination policy",
@@ -97,6 +97,17 @@
   "value": 88.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 17,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 6.0,
+  "unit": "percent",
+  "year": 2018.0
  },
  {
   "rank": 18,
@@ -110,7 +121,18 @@
   "year": 2019.0
  },
  {
-  "rank": 23,
+  "rank": 21,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 86.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H7_Vaccination policy",
@@ -121,7 +143,7 @@
   "year": 2019.0
  },
  {
-  "rank": 26,
+  "rank": 28,
   "Category": "Social issues ",
   "Indicator": "Proportion of seats held by women in national parliaments (%)",
   "Policy": "H7_Vaccination policy",
@@ -133,17 +155,6 @@
  },
  {
   "rank": 31,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 8.2067,
-  "unit": "Ones",
-  "year": 2014.0
- },
- {
-  "rank": 32,
   "Category": "Economics",
   "Indicator": "Central government debt, total",
   "Policy": "H7_Vaccination policy",
@@ -154,40 +165,18 @@
   "year": 2016.0
  },
  {
-  "rank": 33,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
+  "rank": 32,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H7_Vaccination policy",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 0.061849,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 55.0,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 36,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 0.096163,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 0.116937,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 45,
+  "rank": 34,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -198,40 +187,7 @@
   "year": 2020.0
  },
  {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 114.442,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 86.0,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 55,
+  "rank": 36,
   "Category": "Health",
   "Indicator": "Physicians (per 1,000 people)",
   "Policy": "H7_Vaccination policy",
@@ -242,7 +198,7 @@
   "year": 2014.0
  },
  {
-  "rank": 58,
+  "rank": 40,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "H7_Vaccination policy",
@@ -253,7 +209,7 @@
   "year": 2019.0
  },
  {
-  "rank": 59,
+  "rank": 50,
   "Category": "Health",
   "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H7_Vaccination policy",
@@ -264,29 +220,18 @@
   "year": 2019.0
  },
  {
-  "rank": 61,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 93.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 64,
+  "rank": 53,
   "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
   "Policy": "H7_Vaccination policy",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 0.086259,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 8.2067,
+  "unit": "Ones",
+  "year": 2014.0
  },
  {
-  "rank": 65,
+  "rank": 54,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
   "Policy": "H7_Vaccination policy",
@@ -297,7 +242,18 @@
   "year": 2019.0
  },
  {
-  "rank": 76,
+  "rank": 56,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 26.05573,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 60,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
   "Policy": "H7_Vaccination policy",
@@ -308,7 +264,51 @@
   "year": 2019.0
  },
  {
-  "rank": 79,
+  "rank": 64,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 114.442,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 93.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 68,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 0.061849,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "H7_Vaccination policy",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 0.116937,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 95,
   "Category": "Environment",
   "Indicator": "Access to electricity ",
   "Policy": "H7_Vaccination policy",
@@ -319,14 +319,14 @@
   "year": 2018.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
+  "rank": 97,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H7_Vaccination policy",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 55.0,
-  "unit": "score",
-  "year": 2021.0
+  "value": 0.096163,
+  "unit": "percent",
+  "year": 2019.0
  }
 ]

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-NLD,H7_Vaccination policy,0.1541793937884004,1
-NLD,C1_School closing,0.0807300639607498,2
-NLD,C2_Workplace closing,0.079682041492493,3
-NLD,E2_Debt/contract relief,0.0738518507845376,4
-NLD,H2_Testing policy,0.0662363908423872,5
-NLD,H3_Contact tracing,0.060932592777047,6
-NLD,C6_Stay at home requirements,0.0594491806709655,7
-NLD,C4_Restrictions on gatherings,0.0575946597632231,8
-NLD,C3_Cancel public events,0.0570813112422653,9
-NLD,C7_Restrictions on internal movement,0.0436818330431366,10
-NLD,C8_International travel controls,0.0229601649772334,11
-NLD,E1_Income support,0.0213804740094783,12
-NLD,H1_Public information campaigns,0.0196070335291224,13
-NLD,C5_Close public transport,0.0102719753177131,14
-NLD,H6_Facial Coverings,0.0,15
+NLD,H7_Vaccination policy,0.0789285201470306,1
+NLD,C1_School closing,0.0788978821431759,2
+NLD,C2_Workplace closing,0.0764323200818458,3
+NLD,E2_Debt/contract relief,0.0633794424304607,4
+NLD,H2_Testing policy,0.0617001923001646,5
+NLD,H6_Facial Coverings,0.0601364814872551,6
+NLD,H3_Contact tracing,0.0554168299879189,7
+NLD,C6_Stay at home requirements,0.0553820328211638,8
+NLD,C4_Restrictions on gatherings,0.0548303656276173,9
+NLD,C3_Cancel public events,0.0513671396474957,10
+NLD,C8_International travel controls,0.0399153624528869,11
+NLD,E1_Income support,0.0343683126097584,12
+NLD,H1_Public information campaigns,0.0322854509890087,13
+NLD,C7_Restrictions on internal movement,0.0195922841806765,14
+NLD,C5_Close public transport,0.0,15

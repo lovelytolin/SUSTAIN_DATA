@@ -11,47 +11,47 @@
  },
  {
   "ISO": "SYC",
-  "Policy": "C5_Close public transport",
+  "Policy": "C1_School closing",
   "rank": 3
  },
  {
   "ISO": "SYC",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C5_Close public transport",
   "rank": 4
  },
  {
   "ISO": "SYC",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C2_Workplace closing",
   "rank": 5
  },
  {
   "ISO": "SYC",
-  "Policy": "C1_School closing",
+  "Policy": "H6_Facial Coverings",
   "rank": 6
  },
  {
   "ISO": "SYC",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H2_Testing policy",
   "rank": 7
  },
  {
   "ISO": "SYC",
-  "Policy": "E1_Income support",
+  "Policy": "C3_Cancel public events",
   "rank": 8
  },
  {
   "ISO": "SYC",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C6_Stay at home requirements",
   "rank": 9
  },
  {
   "ISO": "SYC",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 10
  },
  {
   "ISO": "SYC",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "E1_Income support",
   "rank": 11
  },
  {
@@ -61,7 +61,7 @@
  },
  {
   "ISO": "SYC",
-  "Policy": "H2_Testing policy",
+  "Policy": "E2_Debt/contract relief",
   "rank": 13
  },
  {

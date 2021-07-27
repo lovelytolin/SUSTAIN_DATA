@@ -1,116 +1,6 @@
 [
  {
-  "rank": 2,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.308144,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 2.4,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 18,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.036331,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 22,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.014771,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 23,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 24.80129,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.009899,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.044727,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 41,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.000101,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 44,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 55.9,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 46,
+  "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "C3_Cancel public events",
@@ -121,18 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 48,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C3_Cancel public events",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 50,
+  "rank": 12,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "C3_Cancel public events",
@@ -143,18 +22,84 @@
   "year": 2019.0
  },
  {
-  "rank": 85,
-  "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
+  "rank": 15,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C3_Cancel public events",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 40.12978,
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 19,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 24.80129,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 26,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.009899,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 92,
+  "rank": 28,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.308144,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 39,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.044727,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 44,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 2.4,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 50,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.014771,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 51,
   "Category": "Economics",
   "Indicator": "Expenditure on social protection (% of GDP)",
   "Policy": "C3_Cancel public events",
@@ -165,7 +110,7 @@
   "year": 2019.0
  },
  {
-  "rank": 94,
+  "rank": 54,
   "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "C3_Cancel public events",
@@ -176,7 +121,62 @@
   "year": 2017.0
  },
  {
-  "rank": 97,
+  "rank": 56,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 62,
+  "Category": "Health",
+  "Indicator": "Prevalence of obesity",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 55.9,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 67,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.000101,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 83,
+  "Category": "Economics",
+  "Indicator": "Expenditure on education (% of GDP)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 2.05039,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 87,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C3_Cancel public events",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.036331,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 91,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
   "Policy": "C3_Cancel public events",
@@ -187,13 +187,13 @@
   "year": 2019.0
  },
  {
-  "rank": 100,
+  "rank": 102,
   "Category": "Economics",
-  "Indicator": "Expenditure on education (% of GDP)",
+  "Indicator": "Trade, total as % of GDP",
   "Policy": "C3_Cancel public events",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 2.05039,
+  "value": 40.12978,
   "unit": "percent",
   "year": 2019.0
  }

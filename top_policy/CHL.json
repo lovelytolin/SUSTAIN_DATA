@@ -11,47 +11,47 @@
  },
  {
   "ISO": "CHL",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 3
  },
  {
   "ISO": "CHL",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H1_Public information campaigns",
   "rank": 4
  },
  {
   "ISO": "CHL",
-  "Policy": "C1_School closing",
+  "Policy": "E1_Income support",
   "rank": 5
  },
  {
   "ISO": "CHL",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C8_International travel controls",
   "rank": 6
  },
  {
   "ISO": "CHL",
-  "Policy": "E1_Income support",
+  "Policy": "H6_Facial Coverings",
   "rank": 7
  },
  {
   "ISO": "CHL",
-  "Policy": "C8_International travel controls",
+  "Policy": "H2_Testing policy",
   "rank": 8
  },
  {
   "ISO": "CHL",
-  "Policy": "H2_Testing policy",
+  "Policy": "H3_Contact tracing",
   "rank": 9
  },
  {
   "ISO": "CHL",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 10
  },
  {
   "ISO": "CHL",
-  "Policy": "H3_Contact tracing",
+  "Policy": "E2_Debt/contract relief",
   "rank": 11
  },
  {
@@ -61,17 +61,17 @@
  },
  {
   "ISO": "CHL",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C6_Stay at home requirements",
   "rank": 13
  },
  {
   "ISO": "CHL",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C3_Cancel public events",
   "rank": 14
  },
  {
   "ISO": "CHL",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C1_School closing",
   "rank": 15
  }
 ]

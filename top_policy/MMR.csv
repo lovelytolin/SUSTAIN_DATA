@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-MMR,E2_Debt/contract relief,0.1062369640534524,1
-MMR,C8_International travel controls,0.087155198624387,2
-MMR,H2_Testing policy,0.0800128037502853,3
-MMR,C7_Restrictions on internal movement,0.075596660201352,4
-MMR,C6_Stay at home requirements,0.0743486133256553,5
-MMR,C1_School closing,0.069786374952973,6
-MMR,C4_Restrictions on gatherings,0.0646389424975308,7
-MMR,H6_Facial Coverings,0.059466468984444,8
-MMR,C2_Workplace closing,0.0513333686991752,9
-MMR,C5_Close public transport,0.0425381624178436,10
-MMR,H3_Contact tracing,0.0334691467422438,11
-MMR,E1_Income support,0.031669197198013,12
-MMR,H1_Public information campaigns,0.0170125198494198,13
-MMR,C3_Cancel public events,0.0141685791949597,14
-MMR,H7_Vaccination policy,0.0,15
+MMR,E2_Debt/contract relief,0.1541793937884004,1
+MMR,C8_International travel controls,0.079682041492493,2
+MMR,H2_Testing policy,0.0738518507845376,3
+MMR,H7_Vaccination policy,0.0662363908423872,4
+MMR,C6_Stay at home requirements,0.0632901240379806,5
+MMR,C4_Restrictions on gatherings,0.060932592777047,6
+MMR,C1_School closing,0.0594491806709655,7
+MMR,H3_Contact tracing,0.0575946597632231,8
+MMR,H6_Facial Coverings,0.0570813112422653,9
+MMR,C2_Workplace closing,0.0436818330431366,10
+MMR,C5_Close public transport,0.0332516326342976,11
+MMR,C7_Restrictions on internal movement,0.0266260440940117,12
+MMR,E1_Income support,0.0262096156935605,13
+MMR,H1_Public information campaigns,0.0196070335291224,14
+MMR,C3_Cancel public events,0.0,15

@@ -16,12 +16,12 @@
  },
  {
   "ISO": "NIC",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "H2_Testing policy",
   "rank": 4
  },
  {
   "ISO": "NIC",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H1_Public information campaigns",
   "rank": 5
  },
  {
@@ -31,17 +31,17 @@
  },
  {
   "ISO": "NIC",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H3_Contact tracing",
   "rank": 7
  },
  {
   "ISO": "NIC",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "E2_Debt/contract relief",
   "rank": 8
  },
  {
   "ISO": "NIC",
-  "Policy": "H2_Testing policy",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 9
  },
  {

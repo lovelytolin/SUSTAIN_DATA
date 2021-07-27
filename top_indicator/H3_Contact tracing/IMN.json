@@ -1,6 +1,17 @@
 [
  {
   "rank": 4,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 0.0,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2016.0
+ },
+ {
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H3_Contact tracing",
@@ -11,18 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 42,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 9860.020807717772,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 56,
+  "rank": 19,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H3_Contact tracing",
@@ -33,18 +33,7 @@
   "year": 2015.0
  },
  {
-  "rank": 66,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 71,
+  "rank": 40,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H3_Contact tracing",
@@ -55,14 +44,25 @@
   "year": 2020.0
  },
  {
-  "rank": 86,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
+  "rank": 67,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
   "Policy": "H3_Contact tracing",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 0.0,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2016.0
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 9860.020807717772,
+  "unit": "per 1 million people",
+  "year": 2019.0
  }
 ]

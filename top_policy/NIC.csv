@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-NIC,C8_International travel controls,0.1015600317154052,1
-NIC,C1_School closing,0.0964396703563356,2
-NIC,H7_Vaccination policy,0.0894569699975063,3
-NIC,H1_Public information campaigns,0.078924606578169,4
-NIC,H3_Contact tracing,0.063842313125029,5
-NIC,H6_Facial Coverings,0.061576432034824,6
-NIC,E2_Debt/contract relief,0.0610743000348256,7
-NIC,C4_Restrictions on gatherings,0.0575218360485463,8
-NIC,H2_Testing policy,0.0440275323273167,9
-NIC,C5_Close public transport,0.0267194888963187,10
-NIC,C2_Workplace closing,0.0236428632570341,11
-NIC,E1_Income support,0.0200539265008844,12
-NIC,C3_Cancel public events,0.017226231286277,13
-NIC,C7_Restrictions on internal movement,0.0121977462444993,14
-NIC,C6_Stay at home requirements,0.002246454958266,15
+NIC,C8_International travel controls,0.0852998929108173,1
+NIC,C1_School closing,0.0772177170962749,2
+NIC,H7_Vaccination policy,0.0753799823257563,3
+NIC,H2_Testing policy,0.0732256337980565,4
+NIC,H1_Public information campaigns,0.0648270175446702,5
+NIC,H6_Facial Coverings,0.0644612460573903,6
+NIC,H3_Contact tracing,0.0628336846903721,7
+NIC,E2_Debt/contract relief,0.0549465282197945,8
+NIC,C4_Restrictions on gatherings,0.051750158845994,9
+NIC,C5_Close public transport,0.038069749640552,10
+NIC,C2_Workplace closing,0.0350437913723032,11
+NIC,E1_Income support,0.0319302954560963,12
+NIC,C3_Cancel public events,0.0195676099759095,13
+NIC,C7_Restrictions on internal movement,0.0140079473431505,14
+NIC,C6_Stay at home requirements,0.0026511129788812,15

@@ -11,18 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Serious assault (rate)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Vatican City",
-  "ISO": "VAT",
-  "value": 0.0,
-  "unit": "rate",
-  "year": 2015.0
- },
- {
-  "rank": 64,
+  "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -31,5 +20,16 @@
   "value": 0.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
   "year": 2020.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Serious assault (rate)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Vatican City",
+  "ISO": "VAT",
+  "value": 0.0,
+  "unit": "rate",
+  "year": 2015.0
  }
 ]

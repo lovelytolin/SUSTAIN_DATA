@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-KWT,H7_Vaccination policy,0.088302293323561,1
-KWT,H2_Testing policy,0.0796455847009488,2
-KWT,H6_Facial Coverings,0.0705321836665458,3
-KWT,C6_Stay at home requirements,0.0699017105688883,4
-KWT,C2_Workplace closing,0.0692153242309202,5
-KWT,C8_International travel controls,0.0678944939482116,6
-KWT,E2_Debt/contract relief,0.067081404100881,7
-KWT,C4_Restrictions on gatherings,0.0666874906315627,8
-KWT,C7_Restrictions on internal movement,0.0516993654558804,9
-KWT,E1_Income support,0.0469449086276876,10
-KWT,C1_School closing,0.0381372922318685,11
-KWT,C3_Cancel public events,0.0275898016244053,12
-KWT,H3_Contact tracing,0.0261956534014171,13
-KWT,C5_Close public transport,0.0186540184994108,14
-KWT,H1_Public information campaigns,0.0159665936029256,15
+KWT,H7_Vaccination policy,0.1347513271158243,1
+KWT,H1_Public information campaigns,0.1112681845350686,2
+KWT,H2_Testing policy,0.0768200848688913,3
+KWT,H6_Facial Coverings,0.0749805107557231,4
+KWT,C6_Stay at home requirements,0.0698933399702757,5
+KWT,C2_Workplace closing,0.0534504869197839,6
+KWT,H3_Contact tracing,0.0506331283517982,7
+KWT,C8_International travel controls,0.0473332910281199,8
+KWT,E2_Debt/contract relief,0.0450299077296514,9
+KWT,C4_Restrictions on gatherings,0.03897855529633,10
+KWT,C7_Restrictions on internal movement,0.0360837317251523,11
+KWT,E1_Income support,0.0338766952931631,12
+KWT,C3_Cancel public events,0.0227275582117975,13
+KWT,C5_Close public transport,0.0174329299594039,14
+KWT,C1_School closing,0.0,15

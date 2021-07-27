@@ -6,47 +6,47 @@
  },
  {
   "ISO": "LUX",
-  "Policy": "C8_International travel controls",
+  "Policy": "C6_Stay at home requirements",
   "rank": 2
  },
  {
   "ISO": "LUX",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C8_International travel controls",
   "rank": 3
  },
  {
   "ISO": "LUX",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C2_Workplace closing",
   "rank": 4
  },
  {
   "ISO": "LUX",
-  "Policy": "C1_School closing",
+  "Policy": "H2_Testing policy",
   "rank": 5
  },
  {
   "ISO": "LUX",
-  "Policy": "C3_Cancel public events",
+  "Policy": "H6_Facial Coverings",
   "rank": 6
  },
  {
   "ISO": "LUX",
-  "Policy": "E1_Income support",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "LUX",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C3_Cancel public events",
   "rank": 8
  },
  {
   "ISO": "LUX",
-  "Policy": "H2_Testing policy",
+  "Policy": "E1_Income support",
   "rank": 9
  },
  {
   "ISO": "LUX",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 10
  },
  {

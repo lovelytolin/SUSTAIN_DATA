@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SSD,H7_Vaccination policy,0.092941037650917,1
-SSD,H6_Facial Coverings,0.0886742424018604,2
-SSD,C7_Restrictions on internal movement,0.0762674112866201,3
-SSD,H2_Testing policy,0.0720613084183008,4
-SSD,C5_Close public transport,0.0708906584863575,5
-SSD,H3_Contact tracing,0.0706173309644983,6
-SSD,C8_International travel controls,0.0680886671880332,7
-SSD,E1_Income support,0.0613136508309149,8
-SSD,C6_Stay at home requirements,0.0466649055700712,9
-SSD,C4_Restrictions on gatherings,0.0440925901135423,10
-SSD,C3_Cancel public events,0.0399293031694444,11
-SSD,C2_Workplace closing,0.0382465677230914,12
-SSD,C1_School closing,0.0372216340503856,13
-SSD,H1_Public information campaigns,0.0222378233896839,14
-SSD,E2_Debt/contract relief,0.0048917024040098,15
+SSD,H7_Vaccination policy,0.1039393500539801,1
+SSD,H6_Facial Coverings,0.0834521918429031,2
+SSD,C7_Restrictions on internal movement,0.0754034966197135,3
+SSD,C8_International travel controls,0.0752047109588804,4
+SSD,H2_Testing policy,0.0673229924473849,5
+SSD,C5_Close public transport,0.0641858131297196,6
+SSD,H3_Contact tracing,0.0574636999028691,7
+SSD,C1_School closing,0.0554000795859781,8
+SSD,C6_Stay at home requirements,0.0516955043499022,9
+SSD,E1_Income support,0.0502057994925019,10
+SSD,C3_Cancel public events,0.0493923092492809,11
+SSD,C2_Workplace closing,0.0433288965496663,12
+SSD,C4_Restrictions on gatherings,0.038481278343283,13
+SSD,E2_Debt/contract relief,0.0294968258922125,14
+SSD,H1_Public information campaigns,0.0112830047880737,15

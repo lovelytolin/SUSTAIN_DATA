@@ -1,37 +1,37 @@
 [
  {
   "ISO": "DJI",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "H6_Facial Coverings",
   "rank": 1
  },
  {
   "ISO": "DJI",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C8_International travel controls",
   "rank": 2
  },
  {
   "ISO": "DJI",
-  "Policy": "C8_International travel controls",
+  "Policy": "H1_Public information campaigns",
   "rank": 3
  },
  {
   "ISO": "DJI",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C1_School closing",
   "rank": 4
  },
  {
   "ISO": "DJI",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 5
  },
  {
   "ISO": "DJI",
-  "Policy": "E1_Income support",
+  "Policy": "H3_Contact tracing",
   "rank": 6
  },
  {
   "ISO": "DJI",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 7
  },
  {
@@ -41,22 +41,22 @@
  },
  {
   "ISO": "DJI",
-  "Policy": "C5_Close public transport",
+  "Policy": "E1_Income support",
   "rank": 9
  },
  {
   "ISO": "DJI",
-  "Policy": "C1_School closing",
+  "Policy": "H7_Vaccination policy",
   "rank": 10
  },
  {
   "ISO": "DJI",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H2_Testing policy",
   "rank": 11
  },
  {
   "ISO": "DJI",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "C5_Close public transport",
   "rank": 12
  },
  {
@@ -66,7 +66,7 @@
  },
  {
   "ISO": "DJI",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C6_Stay at home requirements",
   "rank": 14
  },
  {

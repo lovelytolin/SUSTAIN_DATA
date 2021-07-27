@@ -1,22 +1,22 @@
 [
  {
   "ISO": "FJI",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "H1_Public information campaigns",
   "rank": 1
  },
  {
   "ISO": "FJI",
-  "Policy": "H7_Vaccination policy",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 2
  },
  {
   "ISO": "FJI",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H7_Vaccination policy",
   "rank": 3
  },
  {
   "ISO": "FJI",
-  "Policy": "C8_International travel controls",
+  "Policy": "H6_Facial Coverings",
   "rank": 4
  },
  {
@@ -26,27 +26,27 @@
  },
  {
   "ISO": "FJI",
-  "Policy": "H2_Testing policy",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 6
  },
  {
   "ISO": "FJI",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C8_International travel controls",
   "rank": 7
  },
  {
   "ISO": "FJI",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H2_Testing policy",
   "rank": 8
  },
  {
   "ISO": "FJI",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "E2_Debt/contract relief",
   "rank": 9
  },
  {
   "ISO": "FJI",
-  "Policy": "H1_Public information campaigns",
+  "Policy": "E1_Income support",
   "rank": 10
  },
  {
@@ -56,12 +56,12 @@
  },
  {
   "ISO": "FJI",
-  "Policy": "E1_Income support",
+  "Policy": "C6_Stay at home requirements",
   "rank": 12
  },
  {
   "ISO": "FJI",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "H3_Contact tracing",
   "rank": 13
  },
  {

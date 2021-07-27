@@ -1,17 +1,6 @@
 [
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C3_Cancel public events",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 10.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 5,
+  "rank": 3,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "C3_Cancel public events",
@@ -22,29 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 11,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
+  "rank": 15,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C3_Cancel public events",
   "Country": "Anguilla",
   "ISO": "AIA",
-  "value": 0.8158239,
-  "unit": "score",
-  "year": 2019.0
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  },
  {
-  "rank": 20,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 0.3557367,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 33,
+  "rank": 23,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C3_Cancel public events",
@@ -55,7 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
+  "rank": 32,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C3_Cancel public events",
@@ -66,14 +44,36 @@
   "year": 2019.0
  },
  {
-  "rank": 48,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "rank": 37,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "C3_Cancel public events",
   "Country": "Anguilla",
   "ISO": "AIA",
-  "value": 0.0,
+  "value": 0.8158239,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 56,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C3_Cancel public events",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 10.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
   "year": 2020.0
+ },
+ {
+  "rank": 85,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "C3_Cancel public events",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.3557367,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

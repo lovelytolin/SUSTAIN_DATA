@@ -1,6 +1,6 @@
 [
  {
-  "rank": 4,
+  "rank": 8,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C6_Stay at home requirements",
@@ -11,7 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 16,
+  "rank": 26,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
   "Policy": "C6_Stay at home requirements",
@@ -22,7 +22,7 @@
   "year": 2015.0
  },
  {
-  "rank": 51,
+  "rank": 28,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C6_Stay at home requirements",

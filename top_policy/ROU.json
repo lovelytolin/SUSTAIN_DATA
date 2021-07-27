@@ -6,62 +6,62 @@
  },
  {
   "ISO": "ROU",
-  "Policy": "H3_Contact tracing",
+  "Policy": "C8_International travel controls",
   "rank": 2
  },
  {
   "ISO": "ROU",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "H3_Contact tracing",
   "rank": 3
  },
  {
   "ISO": "ROU",
-  "Policy": "H6_Facial Coverings",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 4
  },
  {
   "ISO": "ROU",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "H6_Facial Coverings",
   "rank": 5
  },
  {
   "ISO": "ROU",
-  "Policy": "C8_International travel controls",
+  "Policy": "E2_Debt/contract relief",
   "rank": 6
  },
  {
   "ISO": "ROU",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C1_School closing",
   "rank": 7
  },
  {
   "ISO": "ROU",
-  "Policy": "H2_Testing policy",
+  "Policy": "C6_Stay at home requirements",
   "rank": 8
  },
  {
   "ISO": "ROU",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C2_Workplace closing",
   "rank": 9
  },
  {
   "ISO": "ROU",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "H2_Testing policy",
   "rank": 10
  },
  {
   "ISO": "ROU",
-  "Policy": "C1_School closing",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 11
  },
  {
   "ISO": "ROU",
-  "Policy": "C6_Stay at home requirements",
+  "Policy": "C5_Close public transport",
   "rank": 12
  },
  {
   "ISO": "ROU",
-  "Policy": "C5_Close public transport",
+  "Policy": "C3_Cancel public events",
   "rank": 13
  },
  {

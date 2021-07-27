@@ -11,32 +11,32 @@
  },
  {
   "ISO": "CMR",
-  "Policy": "C2_Workplace closing",
+  "Policy": "H2_Testing policy",
   "rank": 3
  },
  {
   "ISO": "CMR",
-  "Policy": "E2_Debt/contract relief",
+  "Policy": "C2_Workplace closing",
   "rank": 4
  },
  {
   "ISO": "CMR",
-  "Policy": "C8_International travel controls",
+  "Policy": "E2_Debt/contract relief",
   "rank": 5
  },
  {
   "ISO": "CMR",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C8_International travel controls",
   "rank": 6
  },
  {
   "ISO": "CMR",
-  "Policy": "E1_Income support",
+  "Policy": "C3_Cancel public events",
   "rank": 7
  },
  {
   "ISO": "CMR",
-  "Policy": "H2_Testing policy",
+  "Policy": "E1_Income support",
   "rank": 8
  },
  {

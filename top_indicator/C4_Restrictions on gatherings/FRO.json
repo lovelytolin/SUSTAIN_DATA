@@ -11,7 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C4_Restrictions on gatherings",
@@ -22,7 +22,18 @@
   "year": 2020.0
  },
  {
-  "rank": 4,
+  "rank": 7,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 13,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "C4_Restrictions on gatherings",
@@ -33,18 +44,7 @@
   "year": 2019.0
  },
  {
-  "rank": 10,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 18021.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 21,
+  "rank": 15,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C4_Restrictions on gatherings",
@@ -55,18 +55,7 @@
   "year": 2016.0
  },
  {
-  "rank": 22,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 23,
+  "rank": 20,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "C4_Restrictions on gatherings",
@@ -77,18 +66,7 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 4991.98816713916,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 43,
+  "rank": 42,
   "Category": "Environment",
   "Indicator": "CO2 emissions (kt)",
   "Policy": "C4_Restrictions on gatherings",
@@ -99,15 +77,26 @@
   "year": 2016.0
  },
  {
-  "rank": 56,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
+  "rank": 50,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
+  "value": 4991.98816713916,
+  "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 56,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 18021.0,
+  "unit": "number",
+  "year": 2019.0
  },
  {
   "rank": 71,
@@ -119,5 +108,16 @@
   "value": 100.0,
   "unit": "percent of population",
   "year": 2018.0
+ },
+ {
+  "rank": 74,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 0.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
  }
 ]

@@ -1,6 +1,6 @@
 [
  {
-  "rank": 3,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C4_Restrictions on gatherings",
@@ -11,7 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 22,
+  "rank": 74,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C4_Restrictions on gatherings",

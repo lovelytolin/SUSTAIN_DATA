@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-ECU,H7_Vaccination policy,0.0936559741414836,1
-ECU,C7_Restrictions on internal movement,0.0929689159187145,2
-ECU,H6_Facial Coverings,0.0834113166466323,3
-ECU,C4_Restrictions on gatherings,0.0777454081795461,4
-ECU,H3_Contact tracing,0.0691524197392506,5
-ECU,H2_Testing policy,0.0690228787928727,6
-ECU,C8_International travel controls,0.0680810375396398,7
-ECU,C6_Stay at home requirements,0.0567299905411929,8
-ECU,C2_Workplace closing,0.0552016676089447,9
-ECU,C1_School closing,0.0522061465570592,10
-ECU,C5_Close public transport,0.0451720059969666,11
-ECU,H1_Public information campaigns,0.0394252974721014,12
-ECU,E2_Debt/contract relief,0.0136441717578802,13
-ECU,E1_Income support,0.0082759934898915,14
-ECU,C3_Cancel public events,0.0,15
+ECU,H7_Vaccination policy,0.0773326583190829,1
+ECU,H1_Public information campaigns,0.0766172014851071,2
+ECU,C7_Restrictions on internal movement,0.0752449298479138,3
+ECU,H6_Facial Coverings,0.0653692283666339,4
+ECU,C4_Restrictions on gatherings,0.0633730099499738,5
+ECU,H3_Contact tracing,0.0586000198880809,6
+ECU,H2_Testing policy,0.0560548493361136,7
+ECU,C8_International travel controls,0.0557962922961155,8
+ECU,C6_Stay at home requirements,0.0543109381616285,9
+ECU,C2_Workplace closing,0.0533096576854399,10
+ECU,C1_School closing,0.0520680994097529,11
+ECU,C5_Close public transport,0.050680249318818,12
+ECU,E1_Income support,0.0456697544565822,13
+ECU,C3_Cancel public events,0.0385693194275939,14
+ECU,E2_Debt/contract relief,0.0,15

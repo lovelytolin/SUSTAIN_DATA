@@ -16,17 +16,17 @@
  },
  {
   "ISO": "AZE",
-  "Policy": "C7_Restrictions on internal movement",
+  "Policy": "C8_International travel controls",
   "rank": 4
  },
  {
   "ISO": "AZE",
-  "Policy": "C2_Workplace closing",
+  "Policy": "C7_Restrictions on internal movement",
   "rank": 5
  },
  {
   "ISO": "AZE",
-  "Policy": "H2_Testing policy",
+  "Policy": "C2_Workplace closing",
   "rank": 6
  },
  {
@@ -41,7 +41,7 @@
  },
  {
   "ISO": "AZE",
-  "Policy": "H3_Contact tracing",
+  "Policy": "H2_Testing policy",
   "rank": 9
  },
  {
@@ -51,7 +51,7 @@
  },
  {
   "ISO": "AZE",
-  "Policy": "C8_International travel controls",
+  "Policy": "H3_Contact tracing",
   "rank": 11
  },
  {

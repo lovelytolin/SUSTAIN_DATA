@@ -6,7 +6,7 @@
  },
  {
   "ISO": "KIR",
-  "Policy": "C3_Cancel public events",
+  "Policy": "C4_Restrictions on gatherings",
   "rank": 2
  },
  {
@@ -71,7 +71,7 @@
  },
  {
   "ISO": "KIR",
-  "Policy": "C4_Restrictions on gatherings",
+  "Policy": "C3_Cancel public events",
   "rank": 15
  }
 ]

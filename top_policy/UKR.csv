@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-UKR,H7_Vaccination policy,0.1028440314056792,1
-UKR,H2_Testing policy,0.0760026360106383,2
-UKR,C7_Restrictions on internal movement,0.0757079520753051,3
-UKR,C4_Restrictions on gatherings,0.0742100919002176,4
-UKR,C2_Workplace closing,0.0667042506281531,5
-UKR,C8_International travel controls,0.062252869628769,6
-UKR,C5_Close public transport,0.0585876679706893,7
-UKR,C3_Cancel public events,0.0568967548890239,8
-UKR,C1_School closing,0.0475380453039642,9
-UKR,C6_Stay at home requirements,0.0413883385650965,10
-UKR,H6_Facial Coverings,0.0402892690044651,11
-UKR,E2_Debt/contract relief,0.0401215937503406,12
-UKR,H3_Contact tracing,0.0195778916423006,13
-UKR,H1_Public information campaigns,0.0174783571456601,14
-UKR,E1_Income support,0.0,15
+UKR,H7_Vaccination policy,0.0922028132581274,1
+UKR,C7_Restrictions on internal movement,0.0783079546378656,2
+UKR,C2_Workplace closing,0.0722003976263618,3
+UKR,H2_Testing policy,0.0690020472229356,4
+UKR,C4_Restrictions on gatherings,0.0653498345738098,5
+UKR,C8_International travel controls,0.0623757345404037,6
+UKR,C5_Close public transport,0.0604729313065685,7
+UKR,C3_Cancel public events,0.0535950822653995,8
+UKR,C1_School closing,0.0509805396824431,9
+UKR,H6_Facial Coverings,0.0484517704132445,10
+UKR,E1_Income support,0.0358918564010355,11
+UKR,E2_Debt/contract relief,0.0336517710986295,12
+UKR,H1_Public information campaigns,0.0232971429508391,13
+UKR,H3_Contact tracing,0.017543019979619,14
+UKR,C6_Stay at home requirements,0.0,15

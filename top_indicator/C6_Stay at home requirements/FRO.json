@@ -11,62 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 534.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 9,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 4991.98816713916,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 630.724,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 37.328,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 48,
+  "rank": 5,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
   "Policy": "C6_Stay at home requirements",
@@ -77,7 +22,40 @@
   "year": 2019.0
  },
  {
-  "rank": 51,
+  "rank": 8,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 534.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 12,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 37.328,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 21,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (kt)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 630.724,
+  "unit": "kt",
+  "year": 2016.0
+ },
+ {
+  "rank": 28,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C6_Stay at home requirements",
@@ -88,18 +66,7 @@
   "year": 2020.0
  },
  {
-  "rank": 74,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 75,
+  "rank": 40,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C6_Stay at home requirements",
@@ -110,7 +77,29 @@
   "year": 2016.0
  },
  {
-  "rank": 85,
+  "rank": 50,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 54,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 55,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "C6_Stay at home requirements",
@@ -118,6 +107,17 @@
   "ISO": "FRO",
   "value": 116.474,
   "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 4991.98816713916,
+  "unit": "per 1 million people",
   "year": 2019.0
  }
 ]

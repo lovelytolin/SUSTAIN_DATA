@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-LBY,H7_Vaccination policy,0.0976171253381233,1
-LBY,H6_Facial Coverings,0.0970331837354495,2
-LBY,H3_Contact tracing,0.0933027825682261,3
-LBY,C5_Close public transport,0.0783673672072338,4
-LBY,C1_School closing,0.061093117712806,5
-LBY,C2_Workplace closing,0.0600124862006549,6
-LBY,C8_International travel controls,0.0586977186142843,7
-LBY,C7_Restrictions on internal movement,0.0516321771097875,8
-LBY,H1_Public information campaigns,0.0373580652980152,9
-LBY,E1_Income support,0.0364606740352543,10
-LBY,E2_Debt/contract relief,0.0345081648973362,11
-LBY,H2_Testing policy,0.0306289495545608,12
-LBY,C6_Stay at home requirements,0.0268116613095389,13
-LBY,C4_Restrictions on gatherings,0.0169376612522805,14
+LBY,H3_Contact tracing,0.087784294072899,1
+LBY,C6_Stay at home requirements,0.0761530403402642,2
+LBY,H7_Vaccination policy,0.0703385756606386,3
+LBY,C5_Close public transport,0.0630406872576972,4
+LBY,C8_International travel controls,0.0627399082113106,5
+LBY,C1_School closing,0.0597665959341224,6
+LBY,H1_Public information campaigns,0.0558252100146572,7
+LBY,H6_Facial Coverings,0.0551160921631787,8
+LBY,C4_Restrictions on gatherings,0.0535952599314159,9
+LBY,C2_Workplace closing,0.0493960217594064,10
+LBY,E2_Debt/contract relief,0.0394606549525897,11
+LBY,H2_Testing policy,0.0384396406978565,12
+LBY,E1_Income support,0.034720687013478,13
+LBY,C7_Restrictions on internal movement,0.019494641290703,14
 LBY,C3_Cancel public events,0.0,15

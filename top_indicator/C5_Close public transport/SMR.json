@@ -11,18 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "rank": 5,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "C5_Close public transport",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 0.116937,
-  "unit": "percent",
+  "value": 16000.0,
+  "unit": "number",
   "year": 2019.0
  },
  {
-  "rank": 4,
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C5_Close public transport",
@@ -33,24 +33,24 @@
   "year": 2020.0
  },
  {
-  "rank": 7,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
+  "rank": 10,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
   "Policy": "C5_Close public transport",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
+  "value": 0.043592,
+  "unit": "percent",
+  "year": 2019.0
  },
  {
   "rank": 11,
   "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "C5_Close public transport",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 86.0,
+  "value": 0.116937,
   "unit": "percent",
   "year": 2019.0
  },
@@ -66,7 +66,29 @@
   "year": 2019.0
  },
  {
-  "rank": 18,
+  "rank": 14,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 26.05573,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 17,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 0.00248,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
   "Category": "Health",
   "Indicator": "Physicians (per 1,000 people)",
   "Policy": "C5_Close public transport",
@@ -77,7 +99,7 @@
   "year": 2014.0
  },
  {
-  "rank": 20,
+  "rank": 24,
   "Category": "Health",
   "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
   "Policy": "C5_Close public transport",
@@ -88,7 +110,18 @@
   "year": 2019.0
  },
  {
-  "rank": 22,
+  "rank": 25,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers ",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 74748.96633195512,
+  "unit": "per 1 million people",
+  "year": 2019.0
+ },
+ {
+  "rank": 30,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "C5_Close public transport",
@@ -99,51 +132,29 @@
   "year": 2019.0
  },
  {
-  "rank": 23,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "rank": 35,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C5_Close public transport",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 33.33333333,
-  "unit": "proportion",
+  "value": 55.0,
+  "unit": "Number (cumulative total by Dec 26,2020)",
   "year": 2020.0
  },
  {
-  "rank": 25,
+  "rank": 36,
   "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "C5_Close public transport",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 0.043592,
-  "unit": "percent",
+  "value": 0.0,
+  "unit": "Cases",
   "year": 2019.0
  },
  {
-  "rank": 26,
-  "Category": "Economics",
-  "Indicator": "Central government debt, total",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 57.32808753341675,
-  "unit": "percent of GDP",
-  "year": 2016.0
- },
- {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 93.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 34,
+  "rank": 39,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
   "Policy": "C5_Close public transport",
@@ -152,17 +163,6 @@
   "value": 1.193083,
   "unit": "score",
   "year": 2019.0
- },
- {
-  "rank": 39,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 6.0,
-  "unit": "percent",
-  "year": 2018.0
  },
  {
   "rank": 40,
@@ -178,71 +178,16 @@
  {
   "rank": 41,
   "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Indicator": "Nurses and midwives (per 1,000 people)",
   "Policy": "C5_Close public transport",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 0.00248,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 47,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 0.086259,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 8.2067,
+  "unit": "Ones",
+  "year": 2014.0
  },
  {
   "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 16000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 0.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 59,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 0.050924,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 60,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 26.05573,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 68,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
   "Policy": "C5_Close public transport",
@@ -253,62 +198,7 @@
   "year": 2019.0
  },
  {
-  "rank": 70,
-  "Category": "Health",
-  "Indicator": "Nurses and midwives (per 1,000 people)",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 8.2067,
-  "unit": "Ones",
-  "year": 2014.0
- },
- {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
-  "rank": 77,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 55.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
-  "rank": 79,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 74748.96633195512,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
-  "rank": 85,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C5_Close public transport",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 114.442,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 86,
+  "rank": 52,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C5_Close public transport",
@@ -319,7 +209,18 @@
   "year": 2019.0
  },
  {
-  "rank": 88,
+  "rank": 53,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 6.0,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 55,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "C5_Close public transport",
@@ -328,5 +229,104 @@
   "value": 55.0,
   "unit": "score",
   "year": 2021.0
+ },
+ {
+  "rank": 56,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 86.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 62,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 93.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 64,
+  "Category": "Economics",
+  "Indicator": "Central government debt, total",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 57.32808753341675,
+  "unit": "percent of GDP",
+  "year": 2016.0
+ },
+ {
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 0.086259,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 70,
+  "Category": "Environment",
+  "Indicator": "Access to electricity ",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2018.0
+ },
+ {
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 114.442,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 0.050924,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 83,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 98,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "Policy": "C5_Close public transport",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 33.33333333,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]
