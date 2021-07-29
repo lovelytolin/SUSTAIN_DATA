@@ -1,0 +1,1746 @@
+{ 
+ "build_id": "2.5.1",
+ "date_processed": "2021-07-25", 
+  "data": [
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.083333333
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.666666667
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c1_school_closures",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.083333333
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.666666667
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c2_workplace_closures",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c3_cancel_public_events",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.0625
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.1875
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.1875
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.5625
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 4,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 4,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 4,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 4,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c4_restriction_gatherings",
+    "Severity": 4,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c5_close_public_transport",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.083333333
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.666666667
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c6_stay_home_requirements",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c7_internal_movements",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.0625
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.1875
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.1875
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.5625
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 4,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 4,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 4,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 4,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "c8_international_travel_controls",
+    "Severity": 4,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "e1_income_support",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "e2_debt_relief",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "h1_public_information_campaigns",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.083333333
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.166666667
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.333333333
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.666666667
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "h2_testing_policy",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "h3_contact_tracing",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.0625
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.1875
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.125
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.1875
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.375
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.5625
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 4,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 4,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 4,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 4,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "h6_facial_coverings",
+    "Severity": 4,
+    "Duration (months)": 12,
+    "Value": 1
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 0,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 0,
+    "Duration (months)": 3,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 0,
+    "Duration (months)": 6,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 0,
+    "Duration (months)": 9,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 0,
+    "Duration (months)": 12,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 1,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 1,
+    "Duration (months)": 3,
+    "Value": 0.05
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 1,
+    "Duration (months)": 6,
+    "Value": 0.1
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 1,
+    "Duration (months)": 9,
+    "Value": 0.15
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 1,
+    "Duration (months)": 12,
+    "Value": 0.2
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 2,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 2,
+    "Duration (months)": 3,
+    "Value": 0.1
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 2,
+    "Duration (months)": 6,
+    "Value": 0.2
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 2,
+    "Duration (months)": 9,
+    "Value": 0.3
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 2,
+    "Duration (months)": 12,
+    "Value": 0.4
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 3,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 3,
+    "Duration (months)": 3,
+    "Value": 0.15
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 3,
+    "Duration (months)": 6,
+    "Value": 0.3
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 3,
+    "Duration (months)": 9,
+    "Value": 0.45
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 3,
+    "Duration (months)": 12,
+    "Value": 0.6
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 4,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 4,
+    "Duration (months)": 3,
+    "Value": 0.2
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 4,
+    "Duration (months)": 6,
+    "Value": 0.4
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 4,
+    "Duration (months)": 9,
+    "Value": 0.6
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 4,
+    "Duration (months)": 12,
+    "Value": 0.8
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 5,
+    "Duration (months)": 0,
+    "Value": 0
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 5,
+    "Duration (months)": 3,
+    "Value": 0.25
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 5,
+    "Duration (months)": 6,
+    "Value": 0.5
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 5,
+    "Duration (months)": 9,
+    "Value": 0.75
+  },
+  {
+    "Policy Name": "h7_vaccination_policy",
+    "Severity": 5,
+    "Duration (months)": 12,
+    "Value": 1
+  }
+]
+}

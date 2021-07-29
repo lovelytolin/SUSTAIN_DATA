@@ -1,0 +1,871 @@
+{ 
+ "build_id": "2.4.1",
+ "date_processed": "2021-07-25", 
+  "data": [
+  {
+    "iso": "AFG",
+    "baseline": -0.403992263,
+    "covid": -0.708777032
+  },
+  {
+    "iso": "ALB",
+    "baseline": -0.244971267,
+    "covid": 0.620570771
+  },
+  {
+    "iso": "DZA",
+    "baseline": -0.232781232,
+    "covid": -0.670683248
+  },
+  {
+    "iso": "AND",
+    "baseline": 0.10735463,
+    "covid": 4.090391646
+  },
+  {
+    "iso": "AGO",
+    "baseline": -0.132525869,
+    "covid": -0.732817032
+  },
+  {
+    "iso": "ARG",
+    "baseline": 0.200671117,
+    "covid": 0.859244514
+  },
+  {
+    "iso": "AUS",
+    "baseline": 0.68054029,
+    "covid": -0.71839768
+  },
+  {
+    "iso": "AUT",
+    "baseline": 0.498596509,
+    "covid": 1.155100051
+  },
+  {
+    "iso": "AZE",
+    "baseline": -0.341760274,
+    "covid": 0.052789148
+  },
+  {
+    "iso": "BHS",
+    "baseline": 0.29028278,
+    "covid": -0.031274736
+  },
+  {
+    "iso": "BHR",
+    "baseline": 0.391642608,
+    "covid": 1.891637818
+  },
+  {
+    "iso": "BGD",
+    "baseline": -0.39845404,
+    "covid": -0.638292634
+  },
+  {
+    "iso": "BRB",
+    "baseline": 0.080090677,
+    "covid": -0.357910387
+  },
+  {
+    "iso": "BLR",
+    "baseline": 0.02008787,
+    "covid": 0.313106301
+  },
+  {
+    "iso": "BEL",
+    "baseline": 0.609940107,
+    "covid": 1.625938101
+  },
+  {
+    "iso": "BLZ",
+    "baseline": -0.208421162,
+    "covid": 0.222332417
+  },
+  {
+    "iso": "BEN",
+    "baseline": -0.197313068,
+    "covid": -0.735721295
+  },
+  {
+    "iso": "BTN",
+    "baseline": -0.127620561,
+    "covid": -0.718712822
+  },
+  {
+    "iso": "BOL",
+    "baseline": -0.07625523,
+    "covid": -0.026666621
+  },
+  {
+    "iso": "BIH",
+    "baseline": -0.2378718,
+    "covid": 0.857367036
+  },
+  {
+    "iso": "BWA",
+    "baseline": 0.058006823,
+    "covid": -0.225874852
+  },
+  {
+    "iso": "BRA",
+    "baseline": 0.196398786,
+    "covid": 1.115261164
+  },
+  {
+    "iso": "BRN",
+    "baseline": -0.015069809,
+    "covid": -0.738871017
+  },
+  {
+    "iso": "BGR",
+    "baseline": 0.09460144,
+    "covid": 0.787523193
+  },
+  {
+    "iso": "BFA",
+    "baseline": -0.15748602,
+    "covid": -0.735013228
+  },
+  {
+    "iso": "BDI",
+    "baseline": -0.181829171,
+    "covid": -0.746608607
+  },
+  {
+    "iso": "KHM",
+    "baseline": -0.284894498,
+    "covid": -0.749425222
+  },
+  {
+    "iso": "CMR",
+    "baseline": -0.17528428,
+    "covid": -0.698008689
+  },
+  {
+    "iso": "CAN",
+    "baseline": 0.715134888,
+    "covid": 0.056885125
+  },
+  {
+    "iso": "CPV",
+    "baseline": -0.145148325,
+    "covid": 0.22530027
+  },
+  {
+    "iso": "CAF",
+    "baseline": -0.221359994,
+    "covid": -0.720670507
+  },
+  {
+    "iso": "TCD",
+    "baseline": -0.304706934,
+    "covid": -0.745372895
+  },
+  {
+    "iso": "CHL",
+    "baseline": 0.302217566,
+    "covid": 0.869079589
+  },
+  {
+    "iso": "CHN",
+    "baseline": 0.972971345,
+    "covid": -0.751967224
+  },
+  {
+    "iso": "COL",
+    "baseline": 0.095225492,
+    "covid": 0.719928472
+  },
+  {
+    "iso": "COM",
+    "baseline": -0.553662453,
+    "covid": -0.621511513
+  },
+  {
+    "iso": "CRI",
+    "baseline": 0.103310273,
+    "covid": 0.572184118
+  },
+  {
+    "iso": "CIV",
+    "baseline": -0.295860254,
+    "covid": -0.702119161
+  },
+  {
+    "iso": "HRV",
+    "baseline": -0.030302065,
+    "covid": 1.337743494
+  },
+  {
+    "iso": "CUB",
+    "baseline": 0.134452263,
+    "covid": -0.546884128
+  },
+  {
+    "iso": "CYP",
+    "baseline": 0.199192594,
+    "covid": 0.429916709
+  },
+  {
+    "iso": "CZE",
+    "baseline": 0.235670585,
+    "covid": 3.709681054
+  },
+  {
+    "iso": "COD",
+    "baseline": -0.278847828,
+    "covid": -0.744180718
+  },
+  {
+    "iso": "DNK",
+    "baseline": 0.733915065,
+    "covid": 0.482172475
+  },
+  {
+    "iso": "DJI",
+    "baseline": -0.300072169,
+    "covid": -0.5015573
+  },
+  {
+    "iso": "DMA",
+    "baseline": -0.13560379,
+    "covid": -0.684274957
+  },
+  {
+    "iso": "DOM",
+    "baseline": -0.105752211,
+    "covid": -0.027896921
+  },
+  {
+    "iso": "ECU",
+    "baseline": -0.015292574,
+    "covid": -0.173242434
+  },
+  {
+    "iso": "EGY",
+    "baseline": -0.376790476,
+    "covid": -0.692415116
+  },
+  {
+    "iso": "SLV",
+    "baseline": -0.207587472,
+    "covid": -0.442970269
+  },
+  {
+    "iso": "ERI",
+    "baseline": -0.3212271,
+    "covid": -0.725431962
+  },
+  {
+    "iso": "EST",
+    "baseline": 0.225417851,
+    "covid": 1.737863257
+  },
+  {
+    "iso": "SWZ",
+    "baseline": -0.51113929,
+    "covid": -0.288246788
+  },
+  {
+    "iso": "ETH",
+    "baseline": -0.23281293,
+    "covid": -0.69796902
+  },
+  {
+    "iso": "FJI",
+    "baseline": -0.301762856,
+    "covid": -0.751644289
+  },
+  {
+    "iso": "FIN",
+    "baseline": 0.595078582,
+    "covid": -0.317530411
+  },
+  {
+    "iso": "FRA",
+    "baseline": 0.533371408,
+    "covid": 1.421916388
+  },
+  {
+    "iso": "GAB",
+    "baseline": -0.243521572,
+    "covid": -0.480225353
+  },
+  {
+    "iso": "GMB",
+    "baseline": -0.247318189,
+    "covid": -0.683573468
+  },
+  {
+    "iso": "GEO",
+    "baseline": 0.099553409,
+    "covid": 1.610397604
+  },
+  {
+    "iso": "DEU",
+    "baseline": 0.751809374,
+    "covid": 0.310701494
+  },
+  {
+    "iso": "GHA",
+    "baseline": -0.180707594,
+    "covid": -0.663120251
+  },
+  {
+    "iso": "GRC",
+    "baseline": 0.171542335,
+    "covid": 0.012953821
+  },
+  {
+    "iso": "GTM",
+    "baseline": -0.295748932,
+    "covid": -0.395636309
+  },
+  {
+    "iso": "GIN",
+    "baseline": -0.327933797,
+    "covid": -0.706729541
+  },
+  {
+    "iso": "GUY",
+    "baseline": -0.48042917,
+    "covid": -0.347879327
+  },
+  {
+    "iso": "HTI",
+    "baseline": -0.203607002,
+    "covid": -0.719103123
+  },
+  {
+    "iso": "HND",
+    "baseline": -0.155761209,
+    "covid": -0.159133844
+  },
+  {
+    "iso": "HKG",
+    "baseline": 0.845615351,
+    "covid": -0.706207437
+  },
+  {
+    "iso": "HUN",
+    "baseline": 0.115975298,
+    "covid": 1.331566484
+  },
+  {
+    "iso": "ISL",
+    "baseline": 0.787987751,
+    "covid": -0.226217372
+  },
+  {
+    "iso": "IND",
+    "baseline": 0.283714425,
+    "covid": -0.477962478
+  },
+  {
+    "iso": "IDN",
+    "baseline": -0.024347305,
+    "covid": -0.581726907
+  },
+  {
+    "iso": "IRN",
+    "baseline": -0.157401592,
+    "covid": -0.054332834
+  },
+  {
+    "iso": "IRQ",
+    "baseline": -0.465702995,
+    "covid": -0.094650398
+  },
+  {
+    "iso": "IRL",
+    "baseline": 0.504478223,
+    "covid": 0.717689605
+  },
+  {
+    "iso": "ISR",
+    "baseline": 0.429960021,
+    "covid": 2.063056882
+  },
+  {
+    "iso": "ITA",
+    "baseline": 0.218629039,
+    "covid": 1.122068158
+  },
+  {
+    "iso": "JAM",
+    "baseline": -0.125897129,
+    "covid": -0.341011258
+  },
+  {
+    "iso": "JPN",
+    "baseline": 0.806794771,
+    "covid": -0.636419728
+  },
+  {
+    "iso": "JOR",
+    "baseline": -0.201152359,
+    "covid": 1.114099984
+  },
+  {
+    "iso": "KAZ",
+    "baseline": -0.200798333,
+    "covid": -0.259641662
+  },
+  {
+    "iso": "KEN",
+    "baseline": -0.301225485,
+    "covid": -0.676273987
+  },
+  {
+    "iso": "KIR",
+    "baseline": -0.044532397,
+    "covid": -0.753973605
+  },
+  {
+    "iso": "KWT",
+    "baseline": 0.147394196,
+    "covid": 0.939866076
+  },
+  {
+    "iso": "KGZ",
+    "baseline": -0.392104705,
+    "covid": -0.335357874
+  },
+  {
+    "iso": "LAO",
+    "baseline": -0.371001028,
+    "covid": -0.753763708
+  },
+  {
+    "iso": "LVA",
+    "baseline": 0.146919544,
+    "covid": 0.923719017
+  },
+  {
+    "iso": "LBN",
+    "baseline": -0.259600517,
+    "covid": 1.384790012
+  },
+  {
+    "iso": "LSO",
+    "baseline": -0.161217511,
+    "covid": -0.598221701
+  },
+  {
+    "iso": "LBR",
+    "baseline": -0.032258882,
+    "covid": -0.741390688
+  },
+  {
+    "iso": "LBY",
+    "baseline": -0.382181666,
+    "covid": -0.03300185
+  },
+  {
+    "iso": "LTU",
+    "baseline": 0.114549889,
+    "covid": 1.656122918
+  },
+  {
+    "iso": "LUX",
+    "baseline": 0.800995908,
+    "covid": 2.284443503
+  },
+  {
+    "iso": "MDG",
+    "baseline": -0.109253479,
+    "covid": -0.726482633
+  },
+  {
+    "iso": "MWI",
+    "baseline": -0.144144806,
+    "covid": -0.699313784
+  },
+  {
+    "iso": "MYS",
+    "baseline": -0.041752013,
+    "covid": -0.421286682
+  },
+  {
+    "iso": "MLI",
+    "baseline": -0.175637423,
+    "covid": -0.738519139
+  },
+  {
+    "iso": "MLT",
+    "baseline": 0.698426422,
+    "covid": 0.968583375
+  },
+  {
+    "iso": "MRT",
+    "baseline": -0.409392934,
+    "covid": -0.634348947
+  },
+  {
+    "iso": "MUS",
+    "baseline": -0.224052688,
+    "covid": -0.728661673
+  },
+  {
+    "iso": "MEX",
+    "baseline": -0.090048888,
+    "covid": -0.212788792
+  },
+  {
+    "iso": "MDA",
+    "baseline": -0.574810817,
+    "covid": 1.98709284
+  },
+  {
+    "iso": "MCO",
+    "baseline": 2.220763272,
+    "covid": 1.063045254
+  },
+  {
+    "iso": "MNG",
+    "baseline": -0.246367557,
+    "covid": -0.669925014
+  },
+  {
+    "iso": "MAR",
+    "baseline": -0.309196202,
+    "covid": -0.335090666
+  },
+  {
+    "iso": "MOZ",
+    "baseline": -0.063658836,
+    "covid": -0.686588657
+  },
+  {
+    "iso": "MMR",
+    "baseline": -0.43614898,
+    "covid": -0.67238805
+  },
+  {
+    "iso": "NAM",
+    "baseline": -0.106358994,
+    "covid": -0.212585308
+  },
+  {
+    "iso": "NPL",
+    "baseline": -0.168181082,
+    "covid": -0.457354804
+  },
+  {
+    "iso": "NLD",
+    "baseline": 0.755579982,
+    "covid": 1.556149892
+  },
+  {
+    "iso": "NZL",
+    "baseline": 0.713260228,
+    "covid": -0.738643003
+  },
+  {
+    "iso": "NIC",
+    "baseline": -0.188780134,
+    "covid": -0.722561183
+  },
+  {
+    "iso": "NER",
+    "baseline": -0.096192599,
+    "covid": -0.747534891
+  },
+  {
+    "iso": "NGA",
+    "baseline": -0.23059056,
+    "covid": -0.729346556
+  },
+  {
+    "iso": "NOR",
+    "baseline": 0.82525311,
+    "covid": -0.197345331
+  },
+  {
+    "iso": "OMN",
+    "baseline": 0.124542786,
+    "covid": 0.217732954
+  },
+  {
+    "iso": "PAK",
+    "baseline": -0.392614428,
+    "covid": -0.659029811
+  },
+  {
+    "iso": "PSE",
+    "baseline": -0.207388955,
+    "covid": 0.81851741
+  },
+  {
+    "iso": "PAN",
+    "baseline": -0.011056976,
+    "covid": 1.810569321
+  },
+  {
+    "iso": "PNG",
+    "baseline": -0.712888744,
+    "covid": -0.733104815
+  },
+  {
+    "iso": "PRY",
+    "baseline": -0.103866287,
+    "covid": 0.184016727
+  },
+  {
+    "iso": "PER",
+    "baseline": 0.035505724,
+    "covid": 0.709991489
+  },
+  {
+    "iso": "PHL",
+    "baseline": -0.288277537,
+    "covid": -0.541439273
+  },
+  {
+    "iso": "POL",
+    "baseline": 0.070534097,
+    "covid": 1.152650174
+  },
+  {
+    "iso": "PRT",
+    "baseline": 0.300504999,
+    "covid": 1.73104607
+  },
+  {
+    "iso": "QAT",
+    "baseline": 0.441866331,
+    "covid": 1.192775647
+  },
+  {
+    "iso": "ROU",
+    "baseline": -0.102901894,
+    "covid": 0.785721984
+  },
+  {
+    "iso": "RUS",
+    "baseline": 0.098147997,
+    "covid": 0.218003613
+  },
+  {
+    "iso": "RWA",
+    "baseline": 0.00689588,
+    "covid": -0.701559216
+  },
+  {
+    "iso": "SMR",
+    "baseline": 0.286547685,
+    "covid": 3.589643925
+  },
+  {
+    "iso": "SAU",
+    "baseline": 0.006721988,
+    "covid": -0.404835847
+  },
+  {
+    "iso": "SEN",
+    "baseline": -0.381335624,
+    "covid": -0.681931506
+  },
+  {
+    "iso": "SRB",
+    "baseline": 0.018380834,
+    "covid": 1.955548547
+  },
+  {
+    "iso": "SYC",
+    "baseline": -0.053688134,
+    "covid": 0.554857304
+  },
+  {
+    "iso": "SLE",
+    "baseline": 0.094967711,
+    "covid": -0.738423942
+  },
+  {
+    "iso": "SGP",
+    "baseline": 0.895042827,
+    "covid": -0.423006471
+  },
+  {
+    "iso": "SVK",
+    "baseline": 0.015172245,
+    "covid": 1.308113738
+  },
+  {
+    "iso": "SVN",
+    "baseline": 0.232378903,
+    "covid": 2.445541136
+  },
+  {
+    "iso": "SLB",
+    "baseline": -0.094643477,
+    "covid": -0.753111519
+  },
+  {
+    "iso": "SOM",
+    "baseline": -0.42105857,
+    "covid": -0.731622784
+  },
+  {
+    "iso": "ZAF",
+    "baseline": -0.051443421,
+    "covid": 0.05955598
+  },
+  {
+    "iso": "KOR",
+    "baseline": 0.236123264,
+    "covid": -0.691595383
+  },
+  {
+    "iso": "SSD",
+    "baseline": -0.424071833,
+    "covid": -0.725672116
+  },
+  {
+    "iso": "ESP",
+    "baseline": 0.381181419,
+    "covid": 1.40771013
+  },
+  {
+    "iso": "LKA",
+    "baseline": -0.492625653,
+    "covid": -0.622158922
+  },
+  {
+    "iso": "SDN",
+    "baseline": -0.49355004,
+    "covid": -0.731348433
+  },
+  {
+    "iso": "SUR",
+    "baseline": -0.234952282,
+    "covid": -0.269355629
+  },
+  {
+    "iso": "SWE",
+    "baseline": 0.811476273,
+    "covid": 1.668875127
+  },
+  {
+    "iso": "CHE",
+    "baseline": 0.866293938,
+    "covid": 1.415143801
+  },
+  {
+    "iso": "SYR",
+    "baseline": -0.693973011,
+    "covid": -0.720299901
+  },
+  {
+    "iso": "TJK",
+    "baseline": -0.577862581,
+    "covid": -0.710487705
+  },
+  {
+    "iso": "TZA",
+    "baseline": -0.099854897,
+    "covid": -0.753708039
+  },
+  {
+    "iso": "THA",
+    "baseline": -0.162474931,
+    "covid": -0.741086277
+  },
+  {
+    "iso": "TLS",
+    "baseline": -0.32818794,
+    "covid": -0.739696091
+  },
+  {
+    "iso": "TGO",
+    "baseline": -0.285385127,
+    "covid": -0.715390774
+  },
+  {
+    "iso": "TTO",
+    "baseline": -0.144521206,
+    "covid": -0.5752402
+  },
+  {
+    "iso": "TUN",
+    "baseline": -0.174859969,
+    "covid": -0.08412836
+  },
+  {
+    "iso": "TUR",
+    "baseline": -0.143561309,
+    "covid": 0.471819544
+  },
+  {
+    "iso": "TWN",
+    "baseline": 1.050727923,
+    "covid": -0.752611582
+  },
+  {
+    "iso": "UGA",
+    "baseline": -0.231146472,
+    "covid": -0.726128825
+  },
+  {
+    "iso": "UKR",
+    "baseline": -0.075543024,
+    "covid": 0.464154525
+  },
+  {
+    "iso": "ARE",
+    "baseline": 0.280196129,
+    "covid": 0.700084726
+  },
+  {
+    "iso": "GBR",
+    "baseline": 0.662199171,
+    "covid": 1.267617332
+  },
+  {
+    "iso": "USA",
+    "baseline": 1.044958249,
+    "covid": 2.127701575
+  },
+  {
+    "iso": "URY",
+    "baseline": 0.38100305,
+    "covid": 0.192993996
+  },
+  {
+    "iso": "UZB",
+    "baseline": -0.345842518,
+    "covid": -0.678527665
+  },
+  {
+    "iso": "VUT",
+    "baseline": -0.30525947,
+    "covid": -0.753669203
+  },
+  {
+    "iso": "VEN",
+    "baseline": -0.459015027,
+    "covid": -0.578069503
+  },
+  {
+    "iso": "VNM",
+    "baseline": -0.089369255,
+    "covid": -0.753140181
+  },
+  {
+    "iso": "YEM",
+    "baseline": -0.686019868,
+    "covid": -0.749420898
+  },
+  {
+    "iso": "ZMB",
+    "baseline": -0.18974527,
+    "covid": -0.604081625
+  },
+  {
+    "iso": "ZWE",
+    "baseline": -0.273839876,
+    "covid": -0.676636697
+  }
+]
+}

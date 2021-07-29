@@ -1,0 +1,379 @@
+[
+{
+ category: "Demographics",
+ sub: [
+ {
+  label: "Fertility and Life",
+  indicators: {
+        "Fertility rate, total (births per woman)",
+        "Life expectancy at birth, female (years)",
+        "Life expectancy at birth, male (years)",
+        "Life expectancy at birth, total (years)",
+        "Death rate, crude (per 1,000 people)",
+        "Probability of Survival to Age 5"
+  		}
+	},
+ {
+  label: "Population",
+  indicators: {
+        "Age dependency ratio (% of working-age population)",
+        "Age dependency ratio, young (% of working-age population)",
+        "Refugee population by country or territory of origin",
+        "Refugee population by country or territory of asylum",
+        "Population density (people per sq. km of land area)",
+        "Population in the largest city (% of urban population)",
+        "Population in urban agglomerations of more than 1 million (% of total population)",
+        "Population, total",
+        "Age dependency ratio, old (% of working-age population)",
+        "Population growth (annual %)",
+        "Population, female (% of total population)",
+        "Rural population growth (annual %)",
+        "Urban population growth (annual %)",
+        "Rural population (% of total population)",
+        "Urban population (% of total population)",
+        "Internally Displaced Persons, New Displacement Associated With Disasters (Number Of Cases)"
+  		}
+	},
+ {
+  label: "Communication & Technology",
+  indicators: {
+        "Fixed broadband subscriptions (per 100 people)",
+        "Fixed telephone subscriptions",
+        "Individuals using the Internet (% of population)",
+        "Secure Internet servers",
+        "Mobile cellular subscriptions"
+  		}
+	      }
+	   ]
+     }, 
+{
+ category: "Economic",
+ sub: [
+ {
+  label: "Trade, Investment, and Globalization",
+  indicators: {
+        "External balance on goods and services (% of GDP)",
+        "Volume of exports",
+        "Volume of imports",
+        "Foreign direct investment, net inflows (BoP, current US$)"
+  		}
+	},
+ {
+  label: "Public Sector Debt",
+  indicators: {
+        "General government net lending/borrowing",
+        "Debt service on external debt, total (TDS, current US$)",
+        "Total debt service (% of exports of goods, services and primary income)",
+        "Total debt service (% of GNI)",
+        "Use of IMF credit (DOD, current US$)"
+  		}
+	},
+ {
+  label: "Ease of doing business",
+  indicators: {
+        "Global: Ease of doing business score (DB17-20 methodology)",
+        "Dealing with construction permits (DB16-20 methodology) - Score",
+        "Enforcing contracts (DB17-20 methodology) - Score",
+        "Getting credit (DB15-20 methodology) - Score",
+        "Getting electricity (DB16-20 methodology) - Score",
+        "Other taxes (% of revenue)",
+        "Paying taxes (DB17-20 methodology) - Score",
+        "Protecting minority investors (DB15-20 methodology) - Score",
+        "Registering property (DB17-20 methodology) - Score",
+        "Reorganization proceedings index (0-3) (DB15-20 methodology)",
+        "Resolving insolvency - Score",
+        "Starting a business - Score",
+        "Trading across borders (DB16-20 methodology) - Score"
+  		}
+	},	
+ {
+  label: "Money, Finance, and Prices",
+  indicators: {
+        "Exchange rate, new LCU/USD ext. backward, period average",
+        "Total investment",
+        "Market capitalization of listed domestic companies (% of GDP)",
+        "Deposit interest rate (%)",
+        "Lending interest rate (%)",
+        "Consumer price index (2010 = 100)",
+        "CPI Price, seas. Adjusted",
+        "CPI Price, % y-o-y, not seas. Adjusted"
+  		}
+	},	
+ {
+  label: "Economy and Output",
+  indicators: {
+        "Agriculture, forestry, and fishing, value added (% of GDP)",
+        "Food production index (2014-2016 = 100)",
+        "GDP per capita (constant 2010 US$)",
+        "GDP per person employed (constant 2017 PPP $)",
+        "Government expenditure on education, total (% of government expenditure)",
+        "Services, value added (% of GDP)",
+        "Industry (including construction), value added (% of GDP)",
+        "GDP growth (annual %)",
+        "Current Health Expenditure (CHE) as % Gross Domestic Product (GDP)",
+        "International tourism, receipts (current US$)",
+        "Net primary income (Net income from abroad) (current US$)"
+  		}
+	},	
+ {
+  label: "Employment and Labor Productivity",
+  indicators: {
+        "Employment in services (% of total employment) (modeled ILO estimate)",
+        "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
+        "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+        "Employment in agriculture (% of total employment) (modeled ILO estimate)",
+        "Contributing family workers, total (% of total employment) (modeled ILO estimate)",
+        "Employers, total (% of total employment) (modeled ILO estimate)",
+        "Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",
+        "Proportion of Unemployment in Non-agricultural Employment (total)",
+        "Self-employed, total (% of total employment) (modeled ILO estimate)",
+        "Vulnerable employment, total (% of total employment) (modeled ILO estimate)",
+        "Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",
+        "Labor force, female (% of total labor force)",
+        "Employment to population ratio, 15+, total (%) (modeled ILO estimate)",
+        "Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",
+        "Ratio of female to male labor force participation rate (%) (modeled ILO estimate)",
+        "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
+        "Employment in industry (% of total employment) (modeled ILO estimate)",
+        "Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",
+        "Ratio Of Female To Male Youth Unemployment Rate (%) (National Estimate)",
+        "Share Of Youth Not In Education, Employment Or Training, Total (% Of Youth Population)"
+  		}
+	      }	
+	   ]
+     }, 
+{
+ category: "Environment",
+ sub: [
+ {
+  label: "Ecosystem Health",
+  indicators: {
+        "Biodiversity Habitat Index (BHV)",
+        "Fish Caught By Trawling (FGT)",
+        "Fish Stock Status (FSS)",
+        "Grassland Loss (GRL)",
+        "Lead Exposure (PBD)",
+        "Marine Protected Areas (MPA)",
+        "Marine Trophic Index (RMS)",
+        "Protected Areas Representativeness Index (PAR)",
+        "Species Habitat Index (SHI)",
+        "Species Protection Index (SPI)",
+        "Sustainable Nitrogen Management Index (SNM)",
+        "Terrestrial Biome Protection (global) (TBG)",
+        "Terrestrial Biome Protection (national) (TBN)",
+        "Tree Cover Loss (TCL)",
+        "Wetland Loss (WTL)"
+  		}
+	},	
+ {
+  label: "Energy",
+  indicators: {
+        "Access to electricity (% of population)"
+  		}
+	},	
+ {
+  label: "GHG Emissions",
+  indicators: {
+        "National carbon emissions (MtCO2/yr)",
+        "Adjusted net savings, including particulate emission damage (% of GNI)",
+        "Black Carbon Growth Rate (BCA)",
+        "CH4 Growth Rate (CHA)",
+        "CO2 from Land Cover (LCB)",
+        "CO2 Growth Rate (CDA)",
+        "F-gas Growth Rate (FGA)",
+        "GHG Intensity Trend (GIB)",
+        "GHG per Capita (GHP)",
+        "N2O Growth Rate (NDA)"
+  		}
+	},	
+ {
+  label: "Waste and Pollution",
+  indicators: {
+        "Controlled Solid Waste (MSW)",
+        "Household Air Pollution from Solid Fuels (HAD)",
+        "NOX Growth Rate (NXA)",
+        "Ozone Exposure (OZD)",
+        "PM2.5 Exposure (PMD)",
+        "SO2 Growth Rate (SDA)"
+  		}
+	      }	
+	   ]
+     }, 
+{
+ category: "Governance",
+ sub: [
+ {
+  label: "Rule of Law",
+  indicators: {
+        "Control of Corruption: Estimate",
+        "Government Effectiveness: Estimate",
+        "Political Stability and Absence of Violence/Terrorism: Estimate",
+        "Regulatory Quality: Estimate",
+        "Rule of Law: Estimate",
+        "Voice and Accountability: Estimate",
+        "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)"
+  		}
+	},	
+ {
+  label: "Security",
+  indicators: {
+        "Intentional homicides (per 100,000 people)",
+        "Serious assault (rate)",
+        "Intentional homicides, female (per 100,000 female)",
+        "Intentional homicides, male (per 100,000 male)"
+  		}
+	},
+ {
+  label: "State Fragility",
+  indicators: {
+        "Security Apparatus",
+        "Factionalized Elites",
+        "Group Grievance",
+        "Economy",
+        "Economic Inequality",
+        "Human Flight and Brain Drain",
+        "Fragile States Index Total",
+        "State Legitimacy",
+        "Public Services",
+        "Human Rights",
+        "Demographic Pressures",
+        "Refugees and IDPs",
+        "External Intervention"
+  		}
+	},
+ {
+  label: "Freedom",
+  indicators: {
+        "Electoral Process",
+        "Political Pluralism and Participation",
+        "Functioning of Government",
+        "Civil Liberties",
+        "Freedom of Expression and Belief",
+        "Associational and Organizational Rights",
+        "Political Rights",
+        "Freedom in the World Total",
+        "Rule of Law",
+        "Personal Autonomy and Individual Rights",
+        "Economic Freedom Score",
+        "Human Freedom Score",
+        "Personal Freedom Score"
+  		}
+	      }	
+	   ]
+     }, 
+{
+ category: "Health",
+ sub: [
+ {
+  label: "Health Condition",
+  indicators: {
+        "Prevalence of chronic kidney disease",
+        "Prevalence of total cancers",
+        "Summary exposure value tobacco",
+        "Prevalence of Diabetes",
+        "Prevalence of Hypertensive heart disease",
+        "Prevalence of Respiratory infections and tuberculosis",
+        "Prevalence of overweight (modeled estimate, % of children under 5)",
+        "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
+        "Incidence of tuberculosis (per 100,000 people)",
+        "Prevalence of HIV, total (% of population ages 15-49)"
+  		}
+	},
+ {
+  label: "Healthcare Finance",
+  indicators: {
+        "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+        "Risk of impoverishing expenditure for surgical care (% of people at risk)",
+        "Risk of catastrophic expenditure for surgical care (% of people at risk)"
+  		}
+	},
+ {
+  label: "Healthcare Infrastructure",
+  indicators: {
+        "Hospital beds (per 10 000 population)",
+        "Nurses and midwives (per 1,000 people)",
+        "Physicians (per 1,000 people)"
+  		}
+	},
+ {
+  label: "Immunization",
+  indicators: {
+        "Immunization, DPT (% of children ages 12-23 months)",
+        "Immunization, measles (% of children ages 12-23 months)"
+  		}
+	},
+ {
+  label: "Mental Health",
+  indicators: {
+        "Prevalence of anxiety disorders",
+        "Prevalence of Depressive disorders",
+  		}
+	},
+ {
+  label: "Water and Sanitation",
+  indicators: {
+        "Unsafe Drinking Water (UWD)",
+        "Unsafe Sanitation (USD)"
+  		}
+	},
+ {
+  label: "Social Welfare",
+  indicators: {
+        "Coverage of social insurance programs (% of population)",
+        "Coverage of social protection and labor programs (% of population)",
+        "Coverage of social safety net programs (% of population)",
+        "Coverage of unemployment benefits and ALMP (% of population)"
+  		}
+	},
+ {
+  label: "Education",
+  indicators: {
+        "Expected Years of School",
+        "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",
+        "Literacy rate, adult total (% of people ages 15 and above)",
+        "Primary completion rate, total (% of relevant age group)",
+        "Literacy rate, adult female (% of females ages 15 and above)",
+        "Literacy rate, adult male (% of males ages 15 and above)",
+        "Primary completion rate, female (% of relevant age group)",
+        "Primary completion rate, male (% of relevant age group)"
+  		}
+	      }	
+	   ]
+     }, 
+{
+ category: "Social Issues",
+ sub: [
+ {
+  label: "Gender",
+  indicators: {
+        "Gender Development Index",
+        "Proportion of seats held by women in national parliaments (%)",
+        "Proportion of women in managerial positions (%)",
+        "Proportion of women in ministerial level positions (%)"
+  		}
+	},
+ {
+  label: "Poverty",
+  indicators: {
+        "Human Development Index (HDI)",
+        "Gini index (World Bank estimate)",
+        "Proportion of people living below 50 percent of median income (%)",
+        "Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)",
+        "Income poverty"
+  		}
+	},
+ {
+  label: "Happiness",
+  indicators: {
+        "Freedom to Make Life Choices",
+        "Generosity",
+        "Life Ladder",
+        "Negative Affect",
+        "Positive Affect",
+        "Social Support"
+  		}
+	    }
+         ] 	
+      }
+   ] 
+
