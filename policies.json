@@ -1,0 +1,92 @@
+[
+  {
+    "section": "Containment and closure policies",
+    "policies": [
+      {
+        "title": "School closing",
+        "id": "C1_School closing",
+        "descr": "Record closings of schools and universities"
+      },
+      {
+        "title": "Workplace closing",
+        "id": "C2_Workplace closing",
+        "descr": "Record closings of workplaces"
+      },
+      {
+        "title": "Cancel public events",
+        "id": "C3_Cancel public events",
+        "descr": "Record cancelling public events"
+      },
+      {
+        "title": "Restrictions on gatherings",
+        "id": "C4_Restrictions on gatherings",
+        "descr": "Record limits on gatherings."
+      },
+      {
+        "title": "Close public transport",
+        "id": "C5_Close public transport",
+        "descr": "Record closing of public transport."
+      },
+      {
+        "title": "Stay at home requirements",
+        "id": "C6_Stay at home requirements",
+        "descr": "Record orders to 'shelter-in-place' and otherwise confine to the home"
+      },
+      {
+        "title": "Restrictions on internal movement",
+        "id": "C7_Restrictions on internal movement",
+        "descr": "Record restrictions on internal movement between cities/regions"
+      },
+      {
+        "title": "International travel controls",
+        "id": "C8_International travel controls",
+        "descr": "Record restrictions on international travel. Note: this records policy for foreign travellers, not citizens."
+      }
+    ]
+  },
+  {
+    "section": "Economic policies",
+    "policies": [
+      {
+        "title": "Income Support",
+        "id": "E1_Income support",
+        "descr": "Record if the government is providing direct cash payments to people who lose their jobs or cannot work. Note: only includes payments to firms if explicitly linked to payroll/salaries."
+      },
+      {
+        "title": "Debt and contract relief",
+        "id": "E2_Debt_contract relief",
+        "descr": "Record if the government is freezing financial obligations for households (eg stopping loan repayments, preventing services like water from stopping, or banning evictions)"
+      }
+    ]
+  },
+  {
+    "section": "Health system policies",
+    "policies": [
+      {
+        "title": "Public information campaigns",
+        "id": "H1_Public information campaigns",
+        "descr": "Record presence of public info campaigns."
+      },
+      {
+        "title": "Testing policy",
+        "id": "H2_Testing policy",
+        "descr": "Record government policy on who has access to testing.  Note: This records policies about testing for current infection (PCR tests) not testing for immunity (antibody test)."
+      },
+      {
+        "title": "Contract tracing",
+        "id": "H3_Contact tracing",
+        "descr": "Record government policy on contact tracing after a positive diagnosis."
+      },
+      {
+        "title": "Face coverings",
+        "id": "H6_Facial Coverings",
+        "descr": "Record policies on the use of facial coverings outside the home."
+      },
+      {
+        "title": "Vaccination policy",
+        "id": "H7_Vaccination policy",
+        "descr": "Record policies for vaccine delivery for different groups."
+      }
+    ]
+  }
+]
